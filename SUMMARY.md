@@ -1,3 +1,8 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
+* [Gas and Fees](/gas-and-fees.md)
+
+
+
