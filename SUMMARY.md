@@ -6,4 +6,5 @@
 * [Smart Contract Security](smart-contract-security.md)
 * [Events and Logs](events-and-logs.md)
 * [Why Decentralization](why-decentralization.md)
+* [Consensus](consensus.md)
 
