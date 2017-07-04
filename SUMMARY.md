@@ -7,4 +7,7 @@
 * [Events and Logs](events-and-logs.md)
 * [Why Decentralization](why-decentralization.md)
 * [Consensus](consensus.md)
+* [Transactions](transactions.md)
+* [Ethereum Name Service](ethereum-name-service.md)
+* [ERC20 Tokens](erc20-tokens.md)
 
