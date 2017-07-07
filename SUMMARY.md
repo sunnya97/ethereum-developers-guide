@@ -8,21 +8,14 @@
     * Public Key Cryptography
   * [Consensus](consensus.md)
     * Mining
-* Ethereum Basics
+* [Ethereum Basics](ethereum-basics.md)
   * Distributed State Machine 2.0
+  * Intro to Smart Contracts
+  * [Basic Use Cases](basic-use-cases.md)
+* [Transactions](transactions.md)
 * [Gas and Fees](/gas-and-fees.md)
 * [Smart Contract Security](smart-contract-security.md)
-* [Consensus](consensus.md)
-* [Transactions](transactions.md)
 * [Ethereum Name Service](ethereum-name-service.md)
-* Blockchain Intro
-* Ethereum Basics
-* Intro to Smart Contracts
-* Basic Use Cases
-* Trustless Escrow
-* Tokens
-* Decentralized Registry
-* DAOs
 
 
 
