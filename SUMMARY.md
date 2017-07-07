@@ -18,7 +18,9 @@
   * [Transactions](transactions.md)
   * [Gas and Fees](/gas-and-fees.md)
   * EVM Stack
+* Basic Dev Environment
+* Metamask
+* Remix
+* Smart Contract Basics
 * [Smart Contract Security](smart-contract-security.md)
-
-
 
