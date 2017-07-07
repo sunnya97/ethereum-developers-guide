@@ -4,12 +4,12 @@
 * [Blockchain Basics](blockchain-intro.md)
   * [Why Decentralization](/why-decentralization.md)
   * Cryptographic Primitives
-* [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
-* Public Key Cryptography
-* [Consensus](consensus.md)
-* Mining
+    * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
+    * Public Key Cryptography
+  * [Consensus](consensus.md)
+    * Mining
 * Ethereum Basics
-* Distributed State Machine 2.0
+  * Distributed State Machine 2.0
 * [Gas and Fees](/gas-and-fees.md)
 * [Smart Contract Security](smart-contract-security.md)
 * [Consensus](consensus.md)
