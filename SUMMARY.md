@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Blockchain Basics](blockchain-intro.md)
-* [Why Decentralization](/why-decentralization.md)
-* Cryptographic Primitives
+  * [Why Decentralization](/why-decentralization.md)
+  * Cryptographic Primitives
 * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
 * Public Key Cryptography
 * [Consensus](consensus.md)
@@ -23,4 +23,6 @@
 * Tokens
 * Decentralized Registry
 * DAOs
+
+
 
