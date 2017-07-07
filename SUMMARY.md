@@ -1,8 +1,9 @@
 # Summary
 
-* [Why Decentralization](why-decentralization.md)
-
 * [Introduction](README.md)
+
+* [Why Decentralization](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#)
+
 * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
 * [Gas and Fees](/gas-and-fees.md)
 * [Smart Contract Security](smart-contract-security.md)
