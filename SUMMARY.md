@@ -22,6 +22,11 @@
   * Metamask
   * Remix
 * Smart Contract Basics
+  * Function Types
+  * Data Types
+  * Storage vs Memory
+  * Built in Variables
+  * Solidity Cheat Sheet
 * [Smart Contract Security](smart-contract-security.md)
 
 
