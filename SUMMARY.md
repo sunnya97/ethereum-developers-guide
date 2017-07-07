@@ -1,6 +1,6 @@
 # Summary
 
-## Introduction
+* [Why Decentralization](why-decentralization.md)
 
 * [Introduction](README.md)
 * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
@@ -12,7 +12,5 @@
 * [Ethereum Name Service](ethereum-name-service.md)
 * [ERC20 Tokens](erc20-tokens.md)
 
-## Blockchain Intro
 
-* [Why Decentralization](why-decentralization.md)
 
