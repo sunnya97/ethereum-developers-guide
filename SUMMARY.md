@@ -12,10 +12,11 @@
   * Distributed State Machine 2.0
   * Intro to Smart Contracts
   * [Basic Use Cases](basic-use-cases.md)
+* Ethereum Technicals
+* Blockchain Structure
+* Accounts
 * [Transactions](transactions.md)
 * [Gas and Fees](/gas-and-fees.md)
+* EVM Stack
 * [Smart Contract Security](smart-contract-security.md)
-* [Ethereum Name Service](ethereum-name-service.md)
-
-
 
