@@ -3,9 +3,9 @@
 * [Introduction](README.md)
 * [Blockchain Basics](blockchain-intro.md)
   * [Why Decentralization](/why-decentralization.md)
-  * Cryptographic Primitives
+  * [Cryptographic Primitives](cryptographic-primitives.md)
     * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
-    * Public Key Cryptography
+    * [Public Key Cryptography](public-key-cryptography.md)
   * [Consensus](consensus.md)
     * Mining
 * [Ethereum Basics](ethereum-basics.md)
@@ -26,7 +26,7 @@
   * Data Types
   * Storage vs Memory
   * Built in Variables
-  * Solidity Cheat Sheet
+  * [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf)
 * Dev Environment Advanced
   * Truffle
   * Using TestRPC
