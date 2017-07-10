@@ -27,7 +27,6 @@
   * Storage vs Memory
   * Built in Variables
   * Solidity Cheat Sheet
-* [Smart Contract Security](smart-contract-security.md)
 * Dev Environment Advanced
   * Truffle
   * Using TestRPC
@@ -53,10 +52,9 @@
 * Integration with Blockchain Protocols
   * Integrating Identity with uPort
   * Integrating Prediction markets with Gnosis
+  * [Smart Contract Security](smart-contract-security.md)
   * Integration with ENS
   * Ethereum Alarm Clock
 * Ethereum + IPFS
 * Building for Quorum
-
-
 
