@@ -18,7 +18,8 @@
   * [Gas and Fees](/gas-and-fees.md)
   * EVM Stack
 * [Dev Environment Basic](dev-environment-i.md)
-  * Metamask
+  * [Provisioning the Development Environment](http://decypher.tv/series/ethereum-development/video/1)
+  * [Metamask](dev-environment-i/metamask.md)
   * Remix
 * Smart Contract Basics
   * Function Types
@@ -51,7 +52,7 @@
 * Integration with Blockchain Protocols
   * Integrating Identity with uPort
   * Integrating Prediction markets with Gnosis
-  * Integration with ENS
+  * [Integration with ENS](integration-with-ens.md)
   * Ethereum Alarm Clock
 * Ethereum + IPFS
 * Building for Quorum

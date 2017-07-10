@@ -2,7 +2,11 @@
 
 [https://www.youtube.com/embed/fgSvXFZ1GuU&?start=1005&end=1187&version=3](https://www.youtube.com/embed/fgSvXFZ1GuU&?start=1005&end=1187&version=3)
 
-https://www.youtube.com/watch?v=Us\_Og3JeXiI
+[https://www.youtube.com/watch?v=Us\_Og3JeXiI](https://www.youtube.com/watch?v=Us_Og3JeXiI)
+
+
+
+http://decypher.tv/series/ethereum-development/video/2
 
 
 
