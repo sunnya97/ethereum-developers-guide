@@ -46,13 +46,12 @@
   * Building Truffle for the Web
 * Smart Contract Pitfalls, Testing, and Bug Finding
   * Testnets
-  * Smart Contract Best Practices
+  * [Smart Contract Best Practices](smart-contract-best-practices.md)
   * Common bugs/attacks
   * Using Security Tools
 * Integration with Blockchain Protocols
   * Integrating Identity with uPort
   * Integrating Prediction markets with Gnosis
-  * [Smart Contract Security](smart-contract-security.md)
   * Integration with ENS
   * Ethereum Alarm Clock
 * Ethereum + IPFS
