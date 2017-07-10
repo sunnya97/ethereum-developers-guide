@@ -7,7 +7,7 @@
     * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
     * [Public Key Cryptography](public-key-cryptography.md)
   * [Consensus](consensus.md)
-    * Mining
+    * [Mining](consensus/mining.md)
 * [Ethereum Basics](ethereum-basics.md)
   * Distributed State Machine 2.0
   * Intro to Smart Contracts
