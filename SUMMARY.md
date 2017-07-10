@@ -11,9 +11,9 @@
   * [Distributed State Machine 2.0](distributed-state-machine-20.md)
   * Intro to Smart Contracts
   * [Basic Use Cases](basic-use-cases.md)
-* Ethereum Technicals
-  * Blockchain Structure
-  * Accounts
+* [Ethereum Technicals](ethereum-technicals.md)
+  * [Blockchain Structure](blockchain-structure.md)
+  * [Accounts](accounts.md)
   * [Transactions](transactions.md)
   * [Gas and Fees](/gas-and-fees.md)
   * EVM Stack
