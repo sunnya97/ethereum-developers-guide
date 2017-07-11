@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
   * [Is this guide for me?](who-is-this-book-for.md)
-* [Inspecting the Network](inspecting-the-network.md)
 * [Ethereum and Blockchain Basics](ethereum-technicals.md)
   * [Blockchain Structure](blockchain-structure.md)
   * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
@@ -17,6 +16,7 @@
   * [Installing Mist](dev-environment-i/installing-mist.md)
   * [Metamask](dev-environment-i/metamask.md)
   * Remix
+  * [Inspecting the Network](inspecting-the-network.md)
 * Smart Contract Basics
   * Function Types
   * [Data Types](data-types.md)
