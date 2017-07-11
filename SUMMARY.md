@@ -1,16 +1,17 @@
 # Summary
 
 * [Introduction](README.md)
+* [Getting Started](getting-started.md)
 * [Blockchain Basics](blockchain-intro.md)
   * [Why Decentralization](/why-decentralization.md)
-  * [Cryptographic Primitives](cryptographic-primitives.md)
-    * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
-    * [Public Key Cryptography](public-key-cryptography.md)
+  * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
   * [Consensus](consensus.md)
 * [Ethereum Basics](ethereum-basics.md)
   * [Distributed State Machine 2.0](distributed-state-machine-20.md)
-  * Intro to Smart Contracts
+  * [Intro to Smart Contracts](intro-to-smart-contracts.md)
   * [Basic Use Cases](basic-use-cases.md)
+* [Cryptographic Primitives](cryptographic-primitives.md)
+  * [Public Key Cryptography](public-key-cryptography.md)
 * [Ethereum Technicals](ethereum-technicals.md)
   * [Blockchain Structure](blockchain-structure.md)
   * [Accounts](accounts.md)
