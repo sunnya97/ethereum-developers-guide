@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-  * Who is this book for?
+  * [Who is this book for?](who-is-this-book-for.md)
 * [Inspecting the Network](inspecting-the-network.md)
 * [Ethereum and Blockchain Basics](ethereum-technicals.md)
   * [Blockchain Structure](blockchain-structure.md)
@@ -58,6 +58,4 @@
 * Inspecting the Network
 * [Build a DAO](build-a-dao.md)
 * [Build a Crowdsale](build-a-crowdsale.md)
-
-
 
