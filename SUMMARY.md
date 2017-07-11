@@ -19,6 +19,7 @@
   * EVM Stack
 * [Dev Environment Basic](dev-environment-i.md)
   * [Provisioning the Development Environment](http://decypher.tv/series/ethereum-development/video/1)
+  * [Installing Mist](dev-environment-i/installing-mist.md)
   * [Metamask](dev-environment-i/metamask.md)
   * Remix
 * Smart Contract Basics
@@ -30,16 +31,16 @@
 * Dev Environment Advanced
   * Truffle
   * Using TestRPC
+* [Tokens](tokens.md)
+  * Why Tokens
+  * [ERC20 Token Creation](token-creation.md)
+  * Token Trading
 * Smart Contracts Advanced
   * In-Contract Cryptography
   * Modifiers
   * Oracles
   * Upgradable Contracts
   * Ethereum Bytecode
-* [Tokens](tokens.md)
-  * Why Tokens
-  * [ERC20 Token Creation](token-creation.md)
-  * Token Trading
 * Ethereum and the End User
   * Ethereum RPC
   * Intro to Web3
