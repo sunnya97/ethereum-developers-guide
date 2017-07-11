@@ -13,13 +13,13 @@
   * [EthOn](http://ethon.consensys.net/EthOn_spec.html)
 * [Dev Environment Basic](dev-environment-i.md)
   * [Provisioning the Development Environment](http://decypher.tv/series/ethereum-development/video/1)
-  * Clients
+  * [Clients](dev-environment-i/clients.md)
   * [Installing Mist](dev-environment-i/installing-mist.md)
   * [Metamask](dev-environment-i/metamask.md)
   * Remix
   * [Inspecting the Network](inspecting-the-network.md)
 * Smart Contract Basics
-  * Function Types
+  * [Function Types](function-types.md)
   * [Data Types](data-types.md)
   * Storage vs Memory
   * Built in Variables
