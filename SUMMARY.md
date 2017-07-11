@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Getting Started](getting-started.md)
+  * [Getting Started](getting-started.md)
 * [Inspecting the Network](inspecting-the-network.md)
 * [Ethereum and Blockchain Basics](ethereum-technicals.md)
   * [Blockchain Structure](blockchain-structure.md)
@@ -58,4 +58,6 @@
 * Inspecting the Network
 * [Build a DAO](build-a-dao.md)
 * [Build a Crowdsale](build-a-crowdsale.md)
+
+
 
