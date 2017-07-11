@@ -34,7 +34,11 @@ In this infographic also by Yunyun Chen of ConsenSys, we replace the addition fu
 
 This article by Vitalik Buterin, co-founder of Ethereum, shows how the blockchains incorporate Merkle trees into their structure.  He then also shows the differences in the models that the Ethereum blockchain uses as compared to the Bitcoin blockchain, especially as it relates to Ethereum's state concept.
 
-\(Optional\) Patricia Trees Documentation
+###### [\(Optional\) Patricia Trees](https://github.com/ethereum/wiki/wiki/Patricia-Tree) \[8 min read\]
 
-\(Optional\) Patricia 
+Near the end of the previous article, Vitalik mentions that Ethereum actually uses a little bit more complicated of a data structure than the binary tree used in normal Merkle trees.  For a deeper explanation of Ethereum's specific merkle tree structure, read this section of the Ethereum wiki.
+
+###### [\(Optional\) Patricia Trees Breakdown](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/) \[30 min tutorial\]
+
+In this walkthrough by Ethan Buchman, we walk through a deep dive of exploring Ethereum Patricia tries through code.  Note: this walkthrough assumes familiarity with Python programming.
 
