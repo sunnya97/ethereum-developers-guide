@@ -1,4 +1,3 @@
 Real Time Data: https://ethstats.net/
 
-Historical Data:  EtherScan.io
-
+Historical Data:  etherscan.io

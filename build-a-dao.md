@@ -1,2 +1,1 @@
-https://www.ethereum.org/dao
-
+https://www.ethereum.org/dao (this is also outdated)
