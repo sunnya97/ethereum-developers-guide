@@ -38,7 +38,7 @@
 * Ethereum and the End User
   * Ethereum RPC
   * Intro to Web3
-  * Building Truffle for the Web
+  * [Building Truffle for the Web](building-truffle-for-the-web.md)
 * Smart Contract Pitfalls, Testing, and Bug Finding
   * Testnets
   * [Writing Tests](writing-tests.md)
