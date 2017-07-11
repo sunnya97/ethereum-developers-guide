@@ -41,6 +41,7 @@
   * Building Truffle for the Web
 * Smart Contract Pitfalls, Testing, and Bug Finding
   * Testnets
+  * [Writing Tests](writing-tests.md)
   * [Smart Contract Best Practices](smart-contract-best-practices.md)
   * [Common bugs/attacks](common-bugsattacks.md)
   * Using Security Tools
