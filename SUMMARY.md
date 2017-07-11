@@ -18,17 +18,17 @@
   * [Metamask](dev-environment-i/metamask.md)
   * Remix
   * [Inspecting the Network](inspecting-the-network.md)
-* Smart Contract Basics
+* [Smart Contract Basics](smart-contract-basics.md)
   * [Function Types](function-types.md)
   * [Data Types](data-types.md)
-  * Storage vs Memory
+  * [Storage vs Memory](storage-vs-memory.md)
   * [Built in Variables](built-in-variables.md)
   * [ABI](abi.md)
   * [Events and Logs](events-and-logs.md)
   * [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf)
 * Dev Environment Advanced
   * [Truffle](truffle.md)
-  * Using TestRPC
+  * [Using TestRPC](using-testrpc.md)
 * [Tokens](tokens.md)
   * Why Tokens
   * [ERC20 Token Creation](token-creation.md)
@@ -44,7 +44,7 @@
   * Ethereum RPC
   * Intro to Web3
   * [Building Truffle for the Web](building-truffle-for-the-web.md)
-* Smart Contract Pitfalls, Testing, and Bug Finding
+* [Smart Contract Pitfalls, Testing, and Bug Finding](smart-contract-pitfalls-testing-and-bug-finding.md)
   * Testnets
   * [Writing Tests](writing-tests.md)
   * [Smart Contract Best Practices](smart-contract-best-practices.md)
