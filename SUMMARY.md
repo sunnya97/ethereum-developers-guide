@@ -16,7 +16,7 @@
   * [Clients](dev-environment-i/clients.md)
   * [Installing Mist](dev-environment-i/installing-mist.md)
   * [Metamask](dev-environment-i/metamask.md)
-  * Remix
+  * [Remix](dev-environment-i/remix.md)
   * [Inspecting the Network](inspecting-the-network.md)
 * [Smart Contract Basics](smart-contract-basics.md)
   * [Function Types](function-types.md)
