@@ -55,4 +55,5 @@
 * Ethereum + IPFS
 * Inspecting the Network
 * [Build a DAO](build-a-dao.md)
+* [Build a Crowdsale](build-a-crowdsale.md)
 
