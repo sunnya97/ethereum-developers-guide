@@ -19,6 +19,7 @@
   * Data Types
   * Storage vs Memory
   * Built in Variables
+  * [Events and Logs](events-and-logs.md)
   * [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf)
 * Dev Environment Advanced
   * Truffle
@@ -46,6 +47,7 @@
   * Integrating Identity with uPort
   * Integrating Prediction markets with Gnosis
   * [Integration with ENS](integration-with-ens.md)
+  * [Using BTC Relay](using-btc-relay.md)
   * Ethereum Alarm Clock
 * Ethereum + IPFS
 * Building for Quorum
