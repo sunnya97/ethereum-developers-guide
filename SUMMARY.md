@@ -13,6 +13,7 @@
   * [EthOn](http://ethon.consensys.net/EthOn_spec.html)
 * [Dev Environment Basic](dev-environment-i.md)
   * [Provisioning the Development Environment](http://decypher.tv/series/ethereum-development/video/1)
+  * Clients
   * [Installing Mist](dev-environment-i/installing-mist.md)
   * [Metamask](dev-environment-i/metamask.md)
   * Remix
@@ -34,7 +35,8 @@
   * [In-Contract Cryptography](in-contract-cryptography.md)
   * Modifiers
   * Oracles
-  * Upgradable Contracts
+  * [Upgradable Contracts](upgradable-contracts.md)
+  * [Using Libraries](using-libraries.md)
   * Ethereum Bytecode
 * Ethereum and the End User
   * Ethereum RPC
