@@ -29,7 +29,7 @@
   * [ERC20 Token Creation](token-creation.md)
   * Token Trading
 * Smart Contracts Advanced
-  * In-Contract Cryptography
+  * [In-Contract Cryptography](in-contract-cryptography.md)
   * Modifiers
   * Oracles
   * Upgradable Contracts
