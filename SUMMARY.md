@@ -9,6 +9,7 @@
   * [Transactions](transactions.md)
   * [Gas and Fees](/gas-and-fees.md)
   * EVM Stack
+  * [EthOn](http://ethon.consensys.net/EthOn_spec.html)
 * [Dev Environment Basic](dev-environment-i.md)
   * [Provisioning the Development Environment](http://decypher.tv/series/ethereum-development/video/1)
   * [Installing Mist](dev-environment-i/installing-mist.md)
@@ -16,7 +17,7 @@
   * Remix
 * Smart Contract Basics
   * Function Types
-  * Data Types
+  * [Data Types](data-types.md)
   * Storage vs Memory
   * Built in Variables
   * [Events and Logs](events-and-logs.md)
