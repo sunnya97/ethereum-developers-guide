@@ -23,6 +23,7 @@
   * [Data Types](data-types.md)
   * Storage vs Memory
   * [Built in Variables](built-in-variables.md)
+  * [ABI](abi.md)
   * [Events and Logs](events-and-logs.md)
   * [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf)
 * Dev Environment Advanced
@@ -50,7 +51,7 @@
   * [Common bugs/attacks](common-bugsattacks.md)
   * Using Security Tools
 * Integration with Blockchain Protocols
-  * Integrating Identity with uPort
+  * [Integrating Identity with uPort](integrating-identity-with-uport.md)
   * Integrating Prediction markets with Gnosis
   * [Integration with ENS](integration-with-ens.md)
   * [Using BTC Relay](using-btc-relay.md)
@@ -59,5 +60,4 @@
 * Inspecting the Network
 * [Build a DAO](build-a-dao.md)
 * [Build a Crowdsale](build-a-crowdsale.md)
-* [ABI](abi.md)
 
