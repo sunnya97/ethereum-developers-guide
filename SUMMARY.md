@@ -54,4 +54,5 @@
   * Ethereum Alarm Clock
 * Ethereum + IPFS
 * Inspecting the Network
+* [Build a DAO](build-a-dao.md)
 
