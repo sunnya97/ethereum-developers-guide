@@ -52,5 +52,5 @@
   * [Using BTC Relay](using-btc-relay.md)
   * Ethereum Alarm Clock
 * Ethereum + IPFS
-* Building for Quorum
+* [Building for Quorum](building-for-quorum.md)
 
