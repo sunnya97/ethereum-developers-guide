@@ -3,9 +3,9 @@
 * [Introduction](README.md)
   * [Is this guide for me?](who-is-this-book-for.md)
 * [Ethereum and Blockchain Basics](ethereum-technicals.md)
-  * [Blockchain Structure](blockchain-structure.md)
   * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
   * [Accounts and Public Key Cryptography](accounts.md)
+  * [Blockchain Structure](blockchain-structure.md)
   * [Transactions](transactions.md)
   * [Gas and Fees](/gas-and-fees.md)
   * EVM Stack
