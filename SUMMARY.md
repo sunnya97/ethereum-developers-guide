@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Getting Started](getting-started.md)
+  * Who is this book for?
 * [Inspecting the Network](inspecting-the-network.md)
 * [Ethereum and Blockchain Basics](ethereum-technicals.md)
   * [Blockchain Structure](blockchain-structure.md)
