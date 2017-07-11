@@ -2,6 +2,10 @@
 
 All blockchain technologies are based upon two fundamental cryptographic primitives: hashes and public-key cryptography.  In this section, we will explore the first of these two, hashing along with one of its most important uses within Blockchains, the Merkle Tree.
 
+
+
+
+
 [https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b)
 
 [https://decentralize.today/if-you-understand-hash-functions-youll-understand-blockchains-9088307b745d](https://decentralize.today/if-you-understand-hash-functions-youll-understand-blockchains-9088307b745d)

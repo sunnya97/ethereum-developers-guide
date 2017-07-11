@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
   * [Is this guide for me?](who-is-this-book-for.md)
+  * [Overlapping Resources](overlapping-resources.md)
 * [Ethereum and Blockchain Basics](ethereum-technicals.md)
   * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
   * [Accounts and Public Key Cryptography](accounts.md)
