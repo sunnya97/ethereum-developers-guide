@@ -48,7 +48,7 @@
 * Smart Contract Pitfalls, Testing, and Bug Finding
   * Testnets
   * [Smart Contract Best Practices](smart-contract-best-practices.md)
-  * Common bugs/attacks
+  * [Common bugs/attacks](common-bugsattacks.md)
   * Using Security Tools
 * Integration with Blockchain Protocols
   * Integrating Identity with uPort
