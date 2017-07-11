@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting Started](getting-started.md)
+* [Inspecting the Network](inspecting-the-network.md)
 * [Ethereum and Blockchain Basics](ethereum-technicals.md)
   * [Blockchain Structure](blockchain-structure.md)
   * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
@@ -52,5 +53,5 @@
   * [Using BTC Relay](using-btc-relay.md)
   * Ethereum Alarm Clock
 * Ethereum + IPFS
-* [Building for Quorum](building-for-quorum.md)
+* Inspecting the Network
 

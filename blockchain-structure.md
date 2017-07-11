@@ -4,5 +4,5 @@
 
 [https://github.com/ethereum/wiki/wiki/White-Paper\#modified-ghost-implementation](https://github.com/ethereum/wiki/wiki/White-Paper#modified-ghost-implementation)
 
-
+![](https://ethereumbuilders.gitbooks.io/guide/content/en/vitalik-diagrams/block.png)
 
