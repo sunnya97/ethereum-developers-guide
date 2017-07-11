@@ -2,9 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting Started](getting-started.md)
-* [Blockchain Basics](blockchain-intro.md)
-* [Cryptographic Primitives](cryptographic-primitives.md)
-* [Ethereum Technicals](ethereum-technicals.md)
+* [Ethereum and Blockchain Basics](ethereum-technicals.md)
   * [Blockchain Structure](blockchain-structure.md)
   * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
   * [Accounts and Public Key Cryptography](accounts.md)
