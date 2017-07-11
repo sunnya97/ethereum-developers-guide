@@ -1,6 +1,4 @@
-## Ethereum Accounts
-
-## 
+## Accounts and Public Key Cryptography
 
 [https://github.com/ethereum/wiki/wiki/White-Paper\#ethereum-accounts](https://github.com/ethereum/wiki/wiki/White-Paper#ethereum-accounts)
 
