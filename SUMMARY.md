@@ -22,7 +22,7 @@
   * [Function Types](function-types.md)
   * [Data Types](data-types.md)
   * Storage vs Memory
-  * Built in Variables
+  * [Built in Variables](built-in-variables.md)
   * [Events and Logs](events-and-logs.md)
   * [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf)
 * Dev Environment Advanced
