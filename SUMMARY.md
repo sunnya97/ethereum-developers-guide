@@ -38,7 +38,7 @@
   * Oracles
   * [Upgradable Contracts](upgradable-contracts.md)
   * [Using Libraries](using-libraries.md)
-  * Ethereum Bytecode
+  * [Ethereum Bytecode](ethereum-bytecode.md)
 * Ethereum and the End User
   * Ethereum RPC
   * Intro to Web3
@@ -50,7 +50,7 @@
   * [Common bugs/attacks](common-bugsattacks.md)
   * Using Security Tools
 * Integration with Blockchain Protocols
-  * Integrating Identity with uPort
+  * [Integrating Identity with uPort](integration-with-uport.md)
   * Integrating Prediction markets with Gnosis
   * [Integration with ENS](integration-with-ens.md)
   * [Using BTC Relay](using-btc-relay.md)
@@ -59,4 +59,3 @@
 * Inspecting the Network
 * [Build a DAO](build-a-dao.md)
 * [Build a Crowdsale](build-a-crowdsale.md)
-

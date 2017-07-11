@@ -1,4 +1,4 @@
-## Accounts and Public Key Cryptography
+## Accounts and Public Key Cryptography (Note: I don't think these things necessarily work together)
 
 [https://github.com/ethereum/wiki/wiki/White-Paper\#ethereum-accounts](https://github.com/ethereum/wiki/wiki/White-Paper#ethereum-accounts)
 
@@ -15,4 +15,3 @@
 [http://decypher.tv/series/ethereum-development/video/2](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#)
 
 https://www.youtube.com/watch?v=Aq3a-\_O2NcI&feature=youtu.be
-
