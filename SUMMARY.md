@@ -23,7 +23,7 @@
   * [Events and Logs](events-and-logs.md)
   * [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf)
 * Dev Environment Advanced
-  * Truffle
+  * [Truffle](truffle.md)
   * Using TestRPC
 * [Tokens](tokens.md)
   * Why Tokens
