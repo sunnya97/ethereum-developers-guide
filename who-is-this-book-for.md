@@ -10,7 +10,7 @@ Please read this guide.
 
 **I am a developer but don't know much about the technical underpinnings of Ethereum or Blockchain technologies.**
 
-Please first this guide first.
+Please first [this guide first.](https://www.gitbook.com/book/sunnya97/a-technical-guide-to-ethereum-and-related-technol/details)
 
 **I know a little bit about blockchain, but very little about development.**
 
