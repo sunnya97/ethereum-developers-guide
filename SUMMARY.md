@@ -9,25 +9,26 @@
   * [Blockchain Structure](blockchain-structure.md)
   * [Transactions](transactions.md)
   * [Gas and Fees](/gas-and-fees.md)
-  * EVM Stack
+  * [EVM Stack](evm-stack.md)
   * [EthOn](http://ethon.consensys.net/EthOn_spec.html)
 * [Dev Environment Basic](dev-environment-i.md)
   * [Provisioning the Development Environment](http://decypher.tv/series/ethereum-development/video/1)
-  * Clients
+  * [Clients](dev-environment-i/clients.md)
   * [Installing Mist](dev-environment-i/installing-mist.md)
   * [Metamask](dev-environment-i/metamask.md)
-  * Remix
+  * [Remix](dev-environment-i/remix.md)
   * [Inspecting the Network](inspecting-the-network.md)
-* Smart Contract Basics
-  * Function Types
+* [Smart Contract Basics](smart-contract-basics.md)
+  * [Function Types](function-types.md)
   * [Data Types](data-types.md)
-  * Storage vs Memory
-  * Built in Variables
+  * [Storage vs Memory](storage-vs-memory.md)
+  * [Built in Variables](built-in-variables.md)
+  * [ABI](abi.md)
   * [Events and Logs](events-and-logs.md)
   * [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf)
 * Dev Environment Advanced
   * [Truffle](truffle.md)
-  * Using TestRPC
+  * [Using TestRPC](using-testrpc.md)
 * [Tokens](tokens.md)
   * Why Tokens
   * [ERC20 Token Creation](token-creation.md)
@@ -43,14 +44,18 @@
   * Ethereum RPC
   * Intro to Web3
   * [Building Truffle for the Web](building-truffle-for-the-web.md)
-* Smart Contract Pitfalls, Testing, and Bug Finding
+* [Smart Contract Pitfalls, Testing, and Bug Finding](smart-contract-pitfalls-testing-and-bug-finding.md)
   * Testnets
   * [Writing Tests](writing-tests.md)
   * [Smart Contract Best Practices](smart-contract-best-practices.md)
   * [Common bugs/attacks](common-bugsattacks.md)
   * Using Security Tools
 * Integration with Blockchain Protocols
+<<<<<<< HEAD
   * [Integrating Identity with uPort](integration-with-uport.md)
+=======
+  * [Integrating Identity with uPort](integrating-identity-with-uport.md)
+>>>>>>> 5ee9a08f41ea812e28dbfd878c407f13c366f4e1
   * Integrating Prediction markets with Gnosis
   * [Integration with ENS](integration-with-ens.md)
   * [Using BTC Relay](using-btc-relay.md)
