@@ -51,11 +51,7 @@
   * [Common bugs/attacks](common-bugsattacks.md)
   * Using Security Tools
 * Integration with Blockchain Protocols
-<<<<<<< HEAD
-  * [Integrating Identity with uPort](integration-with-uport.md)
-=======
   * [Integrating Identity with uPort](integrating-identity-with-uport.md)
->>>>>>> 5ee9a08f41ea812e28dbfd878c407f13c366f4e1
   * Integrating Prediction markets with Gnosis
   * [Integration with ENS](integration-with-ens.md)
   * [Using BTC Relay](using-btc-relay.md)
