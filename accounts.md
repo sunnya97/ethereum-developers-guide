@@ -16,5 +16,7 @@
 
 [https://www.youtube.com/watch?v=Aq3a-\_O2NcI&feature=youtu.be](https://www.youtube.com/watch?v=Aq3a-_O2NcI&feature=youtu.be)
 
-https://media.consensys.net/guide-an-introduction-to-encryption-9afd17f5da6d
+[https://media.consensys.net/guide-an-introduction-to-encryption-9afd17f5da6d](https://media.consensys.net/guide-an-introduction-to-encryption-9afd17f5da6d)
+
+https://media.consensys.net/real-virtuality-the-birth-of-public-key-encryption-8585ce1b0386
 
