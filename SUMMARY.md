@@ -33,6 +33,7 @@
   * Why Tokens
   * [ERC20 Token Creation](token-creation.md)
   * Token Trading
+  * [ERC 223](erc-223.md)
 * Smart Contracts Advanced
   * [In-Contract Cryptography](in-contract-cryptography.md)
   * Modifiers
@@ -60,3 +61,4 @@
 * Inspecting the Network
 * [Build a DAO](build-a-dao.md)
 * [Build a Crowdsale](build-a-crowdsale.md)
+
