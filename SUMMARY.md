@@ -7,7 +7,7 @@
   * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
   * [Public Key Cryptography](public-key-cryptography.md)
   * [Blockchain Structure](blockchain-structure.md)
-* Ethereum Basics
+* [Ethereum Basics](ethereum-basics.md)
   * [Accounts](accounts.md)
   * [Transactions](transactions.md)
   * [Gas and Fees](/gas-and-fees.md)
