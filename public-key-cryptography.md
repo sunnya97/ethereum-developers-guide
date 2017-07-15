@@ -8,17 +8,15 @@ This quick video clip from Blockchain at Berkeley explains the value of why we n
 
 ###### [Why do you need public-private key cryptography on the blockchain?](https://blog.wetrust.io/why-do-i-need-a-public-and-private-key-on-the-blockchain-c2ea74a69e76) \[3 min read\]
 
-This article by WeTrust summarizes the previous video in text form.  Yeah, that's about it.
+This article by WeTrust summarizes the previous video in text form.
 
 ###### [Digital Signatures](https://www.youtube.com/watch?v=Aq3a-_O2NcI&feature=youtu.be) \[10 min video\]
 
-In this video from Khan Academy, Zulfikar Ramzan goes through an example of how public-private key cryptography can be used between two participants Alice and Bob to prove validity of a message and its sender.  
+In this video from Khan Academy, Zulfikar Ramzan goes through an example of how public-private key cryptography can be used between two participants Alice and Bob to prove validity of a message and its sender.
 
 ###### [Creating Ethereum Keypairs](http://decypher.tv/series/ethereum-development/video/) \[16 min video\]
 
-This video from DecypherTV gives a great demo of how keypairs work in the Ethereum blockchain.  
-
-
+This video from DecypherTV gives a great demo of how public-private key pairs work in the Ethereum blockchain.
 
 Removed:
 
