@@ -5,7 +5,7 @@
   * [Overlapping Resources](overlapping-resources.md)
 * [Ethereum and Blockchain Basics](ethereum-technicals.md)
   * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
-  * [Accounts and Public Key Cryptography](public-key-cryptography.md)
+  * [Public Key Cryptography](public-key-cryptography.md)
   * [Blockchain Structure](blockchain-structure.md)
   * [Accounts](accounts.md)
   * [Transactions](transactions.md)
