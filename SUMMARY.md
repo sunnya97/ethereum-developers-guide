@@ -7,6 +7,7 @@
   * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
   * [Accounts and Public Key Cryptography](accounts.md)
   * [Blockchain Structure](blockchain-structure.md)
+  * [Accounts](accounts.md)
   * [Transactions](transactions.md)
   * [Gas and Fees](/gas-and-fees.md)
   * [EVM Stack](evm-stack.md)
@@ -51,7 +52,7 @@
   * [Smart Contract Best Practices](smart-contract-best-practices.md)
   * [Common bugs/attacks](common-bugsattacks.md)
   * Using Security Tools
-* Integration with Blockchain Protocols
+* [Integration with Blockchain Protocols](integration-with-blockchain-protocols.md)
   * [Integrating Identity with uPort](integrating-identity-with-uport.md)
   * Integrating Prediction markets with Gnosis
   * [Integration with ENS](integration-with-ens.md)
