@@ -58,7 +58,8 @@
   * [Using BTC Relay](using-btc-relay.md)
   * Ethereum Alarm Clock
 * Ethereum + IPFS
-* Inspecting the Network
+* [Inspecting the Network](inspecting-the-network.md)
 * [Build a DAO](build-a-dao.md)
 * [Build a Crowdsale](build-a-crowdsale.md)
+* [Practice with Solidity](practice-with-solidity.md)
 
