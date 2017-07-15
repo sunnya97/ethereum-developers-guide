@@ -1,6 +1,10 @@
-## Overlapping Resources
+## Editor's Notes
 
-Because this guide is a collection of external resources, throughout this guide there will be times when resources might overlap in some areas.  The resources in this guide were each selected because they all provide something of value whether it is additional information, a unique way of explaining something, or a different medium of communication.  It is suggested to go through all of the resources in this guide, as even going over the topics that are in multiple resources can be a good review of material and may be presented in a different manner.  However, how you use this guide is up to you, and if you ever encounter a topic you feel you are already familiar with, feel free to skip it and move on.
+**Resources:**
 
+This guide is a collection of external resources that we believe are the best tools in helping you get started with decentralized application development.
 
+The resources in this guide were selected for a variety of reasons; some are interesting, some have a unique way of complex topics, and some are funny. All of them will be useful for you in your quest to be become an dapp developer.
+
+However, how you use this guide is up to you.If you encounter a topic you feel you are already familiar with, feel free to skip it and move on.
 
