@@ -7,12 +7,12 @@
   * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
   * [Public Key Cryptography](public-key-cryptography.md)
   * [Blockchain Structure](blockchain-structure.md)
+* Ethereum Basics
+  * [Accounts](accounts.md)
   * [Transactions](transactions.md)
   * [Gas and Fees](/gas-and-fees.md)
   * [EVM Stack](evm-stack.md)
   * [EthOn](http://ethon.consensys.net/EthOn_spec.html)
-* Ethereum Basics
-  * [Accounts](accounts.md)
 * [Dev Environment Basic](dev-environment-i.md)
   * [Provisioning the Development Environment](http://decypher.tv/series/ethereum-development/video/1)
   * [Clients](dev-environment-i/clients.md)
@@ -64,6 +64,4 @@
 * [Build a DAO](build-a-dao.md)
 * [Build a Crowdsale](build-a-crowdsale.md)
 * [Practice with Solidity](practice-with-solidity.md)
-
-
 
