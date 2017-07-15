@@ -1,10 +1,12 @@
 ## Blockchain Structure
 
-In this section of the guide, we will go over some 
+**Assumes: **[Hashing](/hashing-and-merkle-trees.md), [Merkle Trees](/merkle-trees.md), [Public Key Cryptography](/public-key-cryptography.md)
 
-[http://truffleframework.com/tutorials/ethereum-overview](http://truffleframework.com/tutorials/ethereum-overview)
+Not all blockchains are created the same. However, there are many characteristics that most blockchains today share.
 
-[https://www.youtube.com/watch?v=-SMliFtoPn8](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#)
+RESOURCES NEEDS TO BE REDONE TO BE BLOCKCHAIN AGNOSITC
+
+In this section of the guide, we will go over some
 
 ![](https://ethereumbuilders.gitbooks.io/guide/content/en/vitalik-diagrams/block.png)
 

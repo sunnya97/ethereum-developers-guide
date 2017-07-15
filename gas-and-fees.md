@@ -2,5 +2,7 @@
 
 [https://www.youtube.com/watch?v=dd-ajiMl4HY](https://www.youtube.com/watch?v=dd-ajiMl4HY)
 
-http://ethgasstation.info/
+[http://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/](http://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/)
+
+[http://ethgasstation.info/](http://ethgasstation.info/)
 
