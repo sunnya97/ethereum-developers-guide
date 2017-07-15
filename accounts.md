@@ -1,4 +1,4 @@
-## Accounts and Public Key Cryptography \(Note: I don't think these things necessarily work together\)
+## Public Key Cryptography \(Note: I don't think these things necessarily work together\)
 
 [https://github.com/ethereum/wiki/wiki/White-Paper\#ethereum-accounts](https://github.com/ethereum/wiki/wiki/White-Paper#ethereum-accounts)
 
