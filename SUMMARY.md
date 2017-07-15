@@ -3,7 +3,7 @@
 * [Introduction](README.md)
   * [Is this guide for me?](who-is-this-book-for.md)
   * [Editor's Notes](overlapping-resources.md)
-* [Blockchain Basics](ethereum-technicals.md)
+* [Blockchain Primitives](ethereum-technicals.md)
   * [Hashing and Merkle Trees](hashing-and-merkle-trees.md)
   * [Public Key Cryptography](public-key-cryptography.md)
   * [Blockchain Structure](blockchain-structure.md)
