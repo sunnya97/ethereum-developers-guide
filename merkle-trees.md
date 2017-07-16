@@ -1,6 +1,6 @@
 # Merkle \(and other\) Trees
 
-**Assumes: **[**hashing**](/hashing-and-merkle-trees.md)
+**Assumes: **[**Hashing**](/hashing-and-merkle-trees.md)
 
 As a programmer, you have likely heard of trees. Using hashing, we can create trees called Merkle trees, that allow for efficient data verification, proofs, and other useful things.
 
