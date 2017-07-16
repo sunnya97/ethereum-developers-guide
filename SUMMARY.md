@@ -10,6 +10,7 @@
   * [Public Key Cryptography](public-key-cryptography.md)
   * [Blockchain Structure](blockchain-structure.md)
 * [Ethereum Basics](ethereum-basics.md)
+  * Ethereum Structure
   * [Accounts](accounts.md)
   * [Transactions](transactions.md)
   * [Gas and Fees](/gas-and-fees.md)
