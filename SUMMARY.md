@@ -35,7 +35,7 @@
   * [Truffle](truffle.md)
   * [Using TestRPC](using-testrpc.md)
 * [Tokens](tokens.md)
-  * Why Tokens
+  * [Why Tokens](why-tokens.md)
   * [ERC20 Token Creation](token-creation.md)
   * Token Trading
   * [ERC 223](erc-223.md)
