@@ -1,14 +1,12 @@
-# Ethereum Basics
+# Ethereum Structure
 
-Assumes: [Blockchain Primitives](/ethereum-technicals.md)
+Assumes: [Blockchain Structure](/blockchain-structure.md)
 
 Ethereum is a unique blockchain compared to many of those that came before it. It introduced, on a large scale, the concept of smart contracts.
 
-This may not mean anything specific to you now, but by the end of this section, you will be an Ethereum expert. \(REWORD\).
+###### [Blockchain to Ethereum ](https://www.youtube.com/watch?v=-SMliFtoPn8)\[11 min video\]
 
-#### Introductory Material:
-
-###### [Video Introduction to Ethereum ](https://www.youtube.com/watch?v=-SMliFtoPn8)\[10 min video\]
+This video will give a recap of [Blockchain Structure](/blockchain-structure.md)
 
 ###### [Ethereum Overview](http://truffleframework.com/tutorials/ethereum-overview) \[10 min read\]
 
