@@ -1,6 +1,6 @@
 ## Blockchain Structure
 
-**Assumes: **[**Hashing**](/hashing-and-merkle-trees.md)**, **[**Merkle Trees**](/merkle-trees.md)**, **[**Public Key Cryptography**](/public-key-cryptography.md)
+Assumes: [Hashing](/hashing-and-merkle-trees.md), [Merkle Trees](/merkle-trees.md), [Public Key Cryptography](/public-key-cryptography.md)
 
 Not all blockchains are created the same. However, there are many characteristics that most blockchains today share.  To best way to get an idea of these blockchain fundamentals before jumping into Ethereum is to take a look at how the Bitcoin Blockchain works.
 
