@@ -4,8 +4,6 @@
 
 Not all blockchains are created the same. However, there are many characteristics that most blockchains today share.  To best way to get an idea of these blockchain fundamentals before jumping into Ethereum is to take a look at how the Bitcoin Blockchain works.
 
-[http://chimera.labs.oreilly.com/books/1234000001802/ch07.html](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#)
-
 ###### [Putting it all together](http://chimera.labs.oreilly.com/books/1234000001802/ch07.html) \[20 min read\]
 
 This chapter from Andreas Antonopoulos's textbook Mastering Bitcoin puts together the concepts we've learned so far and show how these cryptographic primitives are put together in interesting data structures to create what we know as a blockchain.
