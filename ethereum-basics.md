@@ -1,6 +1,6 @@
 # Ethereum Basics
 
-**Assumes: **[**Blockchain Primitives**](/ethereum-technicals.md)
+Assumes: [Blockchain Primitives](/ethereum-technicals.md)
 
 Ethereum is a unique blockchain compared to many of those that came before it. It introduced, on a large scale, the concept of smart contracts.
 
