@@ -12,7 +12,5 @@ This chapter from Andreas Antonopoulos's textbook Mastering Bitcoin puts togethe
 
 ###### [Ethereum Whitepaper: Introduction to Bitcoin and Existing Concepts](https://github.com/ethereum/wiki/wiki/White-Paper#introduction-to-bitcoin-and-existing-concepts) \[20 min read\]
 
-This introductory section from the Ethereum Whitepaper explains the basis of the Bitcoin blockchain, pitching it as 
-
-![](https://ethereumbuilders.gitbooks.io/guide/content/en/vitalik-diagrams/block.png)
+This introductory section from the Ethereum Whitepaper explains the basis of the Bitcoin blockchain, framing it as a state transition machine albeit with limited functionality.  Understanding this will allow us to set up the mental model needed to understand Ethereum and its state transition system.
 
