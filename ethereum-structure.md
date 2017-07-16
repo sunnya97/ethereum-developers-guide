@@ -2,7 +2,7 @@
 
 Assumes: [Blockchain Structure](/blockchain-structure.md)
 
-Ethereum is a unique blockchain compared to many of those that came before it. It introduced, on a large scale, the concept of smart contracts.
+Ethereum is a unique blockchain compared to many of those that came before it. It introduced, on a large scale, the concept of smart contracts.  In this section, we will go over the functionality of smart contracts and how on the macro scale, Ethereum differs from blockchains that came before it.
 
 ###### [Blockchain to Ethereum ](https://www.youtube.com/watch?v=-SMliFtoPn8)\[11 min video\]
 
@@ -10,7 +10,7 @@ This video given by Dan Finlay of MetaMask will give a recap of [Blockchain Stru
 
 ###### [Ethereum and Smart Contracts](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/) \[40 min read\]
 
-This article by Auth0 delves deeper into the functionality of Ethereum and what its Turing-complete smart contract VM allows for.    
+This article by Auth0 delves deeper into the functionality of Ethereum and what its Turing-complete smart contract VM allows for.
 
 ###### [\(Optional\) GHOST Protocol](https://github.com/ethereum/wiki/wiki/White-Paper#modified-ghost-implementation) \[4 min read\]
 
