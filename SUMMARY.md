@@ -19,7 +19,6 @@
 * [Dev Environment](dev-environment-i.md)
   * [Node.js](dev-environment-i/installing-node.md)
   * [Clients](dev-environment-i/clients.md)
-  * [Installing Mist](dev-environment-i/installing-mist.md)
   * [Metamask](dev-environment-i/metamask.md)
   * [Remix](dev-environment-i/remix.md)
   * [Truffle](truffle.md)
