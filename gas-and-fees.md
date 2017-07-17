@@ -20,5 +20,5 @@ This short post by Sunny Aggarwal explains the fundamental difference between Et
 
 ###### [Eth Gas Station](http://ethgasstation.info/) \[Resource\]
 
-This resource
+This resource provides valuable real-time information and statistics on the Ethereum gas fee market.
 
