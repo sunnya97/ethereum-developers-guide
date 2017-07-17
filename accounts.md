@@ -1,6 +1,6 @@
 ## Accounts
 
-**Assumes: **[**Ethereum Basics**](/ethereum-basics.md)
+Assumes: [Ethereum Basics](/ethereum-basics.md)
 
 There are two types of accounts: regular, public/private key controlled accounts, and smart contracts. Here, we will explore both types of accounts - how they work and what they do.
 
