@@ -10,9 +10,11 @@ Returning again to the whitepaper, we will now read the section titled "Code Exe
 
 This guide written by Ethan Buchman at CoinCulture provides a deep dive into understanding the EVM in depth.  It is highly suggested to read the entire thing.
 
-OP Code Guide \[Resource\]
+###### [OP Code Guide](/h ttps://ethereum.stackexchange.com/questions/119/what-opcodes-are-available-for-the-ethereum-evm) \[Resource\]
 
-[https://ethereum.stackexchange.com/questions/119/what-opcodes-are-available-for-the-ethereum-evm](https://ethereum.stackexchange.com/questions/119/what-opcodes-are-available-for-the-ethereum-evm)
+This StackOverflow page is a handy bookmark to pull up when trying to decypher EVM bytecode and you don't have access to the higher-level language code.
 
-[https://ethereum.stackexchange.com/questions/440/whats-a-precompiled-contract-and-how-are-they-different-from-native-opcodes](https://ethereum.stackexchange.com/questions/440/whats-a-precompiled-contract-and-how-are-they-different-from-native-opcodes)
+###### [Precompiled Contracts](https://ethereum.stackexchange.com/questions/440/whats-a-precompiled-contract-and-how-are-they-different-from-native-opcodes) \[3 min read\]
+
+You may have noticed in the comments section of the OP Code Guide resource, there was talk of "pseudocontracts".  These are actually called "precompiled contracts".  Read more about them in this quick StackOverflow answer.
 
