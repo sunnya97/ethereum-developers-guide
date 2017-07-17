@@ -15,7 +15,7 @@
   * [Transactions](transactions.md)
   * [EVM Stack](evm-stack.md)
   * [Gas and Fees](/gas-and-fees.md)
-  * Putting it all together
+  * [Putting it all together](putting-it-all-together.md)
 * [Dev Environment](dev-environment-i.md)
   * [Clients](dev-environment-i/clients.md)
   * [Installing Mist](dev-environment-i/installing-mist.md)
@@ -63,6 +63,4 @@
 * [Ethereum + IPFS](ethereum-+-ipfs.md)
 * [Inspecting the Network](inspecting-the-network.md)
 * [Practice with Solidity](practice-with-solidity.md)
-
-
 
