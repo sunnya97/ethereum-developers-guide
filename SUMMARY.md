@@ -41,8 +41,8 @@
   * [ERC 223](erc-223.md)
 * Smart Contracts Advanced
   * [In-Contract Cryptography](in-contract-cryptography.md)
-  * Modifiers
-  * Oracles
+  * [Modifiers](modifiers.md)
+  * [Oracles](oracles.md)
   * [Upgradable Contracts](upgradable-contracts.md)
   * [Using Libraries](using-libraries.md)
   * [Ethereum Bytecode](ethereum-bytecode.md)
@@ -62,9 +62,7 @@
   * [Integration with ENS](integration-with-ens.md)
   * [Using BTC Relay](using-btc-relay.md)
   * Ethereum Alarm Clock
-* Ethereum + IPFS
+* [Ethereum + IPFS](ethereum-+-ipfs.md)
 * [Inspecting the Network](inspecting-the-network.md)
-* [Build a DAO](build-a-dao.md)
-* [Build a Crowdsale](build-a-crowdsale.md)
 * [Practice with Solidity](practice-with-solidity.md)
 
