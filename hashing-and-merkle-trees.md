@@ -2,8 +2,6 @@
 
 All blockchain technology relies on hashing. In this section, we will explore what hashing is, how blockchains use them, and why they are useful.
 
-#### Understanding Hash Functions
-
 ###### [**If you understand Hash Functions, you’ll understand Blockchains**](https://decentralize.today/if-you-understand-hash-functions-youll-understand-blockchains-9088307b745d)** \[3 min read\]**
 
 Begin by reading this short introduction to hash functions written by Decentralized Today.  This article will provide a basic model by which to think about hashes, which will be expanded upon by further articles.
