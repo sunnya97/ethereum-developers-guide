@@ -18,7 +18,7 @@
   * [Putting it all together](putting-it-all-together.md)
 * [Dev Environment](dev-environment-i.md)
   * [TestRPC](using-testrpc.md)
-  * Mist
+  * [Mist](mist.md)
   * [Remix](dev-environment-i/remix.md)
   * [Metamask](dev-environment-i/metamask.md)
   * [Truffle](truffle.md)
