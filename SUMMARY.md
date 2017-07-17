@@ -17,6 +17,7 @@
   * [Gas and Fees](/gas-and-fees.md)
   * [Putting it all together](putting-it-all-together.md)
 * [Dev Environment](dev-environment-i.md)
+  * [Node.js](dev-environment-i/installing-node.md)
   * [Clients](dev-environment-i/clients.md)
   * [Installing Mist](dev-environment-i/installing-mist.md)
   * [Metamask](dev-environment-i/metamask.md)

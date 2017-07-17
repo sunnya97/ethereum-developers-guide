@@ -1,3 +1,18 @@
-https://forum.ethereum.org/discussion/3589/datatypes-in-event-parameters\#latest
+## Data Types
 
-http://solidity.readthedocs.io/en/develop/types.html#
+
+
+###### [Solidity Data Types](/h ttp://solidity.readthedocs.io/en/develop/types.html#) \[10 min read\]
+
+In the document, you will learn about that different data types found in Solidity programs.
+
+###### 
+
+###### 
+
+###### [Datatypes in Event Parameters](/h ttps://forum.ethereum.org/discussion/3589/datatypes-in-event-parameters#latest) \[5 min read\]
+
+###### [https://forum.ethereum.org/discussion/3589/datatypes-in-event-parameters\#latest](https://forum.ethereum.org/discussion/3589/datatypes-in-event-parameters#latest)
+
+
+

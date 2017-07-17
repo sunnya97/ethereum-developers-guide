@@ -1,2 +1,2 @@
-http://solidity.readthedocs.io/en/develop/types.html
+Function Types
 
