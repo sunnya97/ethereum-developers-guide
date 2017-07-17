@@ -12,6 +12,7 @@
 * [Ethereum Basics](ethereum-basics.md)
   * [Ethereum Structure](ethereum-structure.md)
   * [Accounts](accounts.md)
+  * [Smart Contracts Intro](smart-contracts-intro.md)
   * [Transactions](transactions.md)
   * [Gas and Fees](/gas-and-fees.md)
   * [EVM Stack](evm-stack.md)
@@ -47,8 +48,8 @@
   * [Using Libraries](using-libraries.md)
   * [Ethereum Bytecode](ethereum-bytecode.md)
 * Ethereum and the End User
-  * Ethereum RPC
-  * Intro to Web3
+  * [Ethereum RPC](ethereum-rpc.md)
+  * [Intro to Web3](intro-to-web3.md)
   * [Building Truffle for the Web](building-truffle-for-the-web.md)
 * [Smart Contract Pitfalls, Testing, and Bug Finding](smart-contract-pitfalls-testing-and-bug-finding.md)
   * Testnets
