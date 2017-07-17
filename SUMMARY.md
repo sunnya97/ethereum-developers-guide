@@ -20,7 +20,6 @@
   * [TestRPC](using-testrpc.md)
   * [Mist](mist.md)
   * [Remix and Metamask](dev-environment-i/remix.md)
-  * [Metamask](dev-environment-i/metamask.md)
   * [Truffle](truffle.md)
   * [Inspecting the Network](inspecting-the-network.md)
 * [Smart Contract Fundamentals](smart-contract-basics.md)
@@ -41,7 +40,7 @@
 * [Tokens](tokens.md)
   * [Why Tokens](why-tokens.md)
   * [ERC20 Token Creation](token-creation.md)
-  * Token Trading
+  * [Token Trading](token-trading.md)
   * [ERC 223](erc-223.md)
 * Ethereum and the End User
   * [Ethereum RPC](ethereum-rpc.md)

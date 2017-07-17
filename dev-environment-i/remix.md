@@ -10,7 +10,5 @@ While you can use Geth to create transactiones, it is very convenient to have a 
 
 ###### [Remix + Metamask Tutorial](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) \[Exercise\]
 
-
-
-[https://karl.tech/learning-solidity-part-1-deploy-a-contract/](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#)
+We will now use the Ethereum 
 
