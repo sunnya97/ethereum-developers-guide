@@ -15,13 +15,14 @@
   * [Transactions](transactions.md)
   * [EVM Stack](evm-stack.md)
   * [Gas and Fees](/gas-and-fees.md)
-  * [EthOn](http://ethon.consensys.net/EthOn_spec.html)
+  * Putting it all together
 * [Dev Environment](dev-environment-i.md)
-  * [Provisioning the Development Environment](http://decypher.tv/series/ethereum-development/video/1)
   * [Clients](dev-environment-i/clients.md)
   * [Installing Mist](dev-environment-i/installing-mist.md)
   * [Metamask](dev-environment-i/metamask.md)
   * [Remix](dev-environment-i/remix.md)
+  * [Truffle](truffle.md)
+  * [Using TestRPC](using-testrpc.md)
   * [Inspecting the Network](inspecting-the-network.md)
 * [Smart Contract Fundamentals](smart-contract-basics.md)
   * [Function Types](function-types.md)
@@ -31,38 +32,37 @@
   * [ABI](abi.md)
   * [Events and Logs](events-and-logs.md)
   * [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf)
-* Dev Environment Advanced
-  * [Truffle](truffle.md)
-  * [Using TestRPC](using-testrpc.md)
-* [Tokens](tokens.md)
-  * [Why Tokens](why-tokens.md)
-  * [ERC20 Token Creation](token-creation.md)
-  * Token Trading
-  * [ERC 223](erc-223.md)
-* Smart Contracts Advanced
+* [Smart Contracts Advanced](smart-contracts-advanced.md)
   * [In-Contract Cryptography](in-contract-cryptography.md)
   * [Modifiers](modifiers.md)
   * [Oracles](oracles.md)
   * [Upgradable Contracts](upgradable-contracts.md)
   * [Using Libraries](using-libraries.md)
   * [Ethereum Bytecode](ethereum-bytecode.md)
+* [Tokens](tokens.md)
+  * [Why Tokens](why-tokens.md)
+  * [ERC20 Token Creation](token-creation.md)
+  * Token Trading
+  * [ERC 223](erc-223.md)
 * Ethereum and the End User
   * [Ethereum RPC](ethereum-rpc.md)
   * [Intro to Web3](intro-to-web3.md)
   * [Building Truffle for the Web](building-truffle-for-the-web.md)
 * [Smart Contract Pitfalls, Testing, and Bug Finding](smart-contract-pitfalls-testing-and-bug-finding.md)
-  * Testnets
+  * [Testnets](testnets.md)
   * [Writing Tests](writing-tests.md)
   * [Smart Contract Best Practices](smart-contract-best-practices.md)
   * [Common bugs/attacks](common-bugsattacks.md)
-  * Using Security Tools
+  * [Using Security Tools](using-security-tools.md)
 * [Integration with Blockchain Protocols](integration-with-blockchain-protocols.md)
   * [Integrating Identity with uPort](integrating-identity-with-uport.md)
-  * Integrating Prediction markets with Gnosis
+  * [Integrating Prediction markets with Gnosis](integrating-prediction-markets-with-gnosis.md)
   * [Integration with ENS](integration-with-ens.md)
   * [Using BTC Relay](using-btc-relay.md)
-  * Ethereum Alarm Clock
+  * [Ethereum Alarm Clock](ethereum-alarm-clock.md)
 * [Ethereum + IPFS](ethereum-+-ipfs.md)
 * [Inspecting the Network](inspecting-the-network.md)
 * [Practice with Solidity](practice-with-solidity.md)
+
+
 
