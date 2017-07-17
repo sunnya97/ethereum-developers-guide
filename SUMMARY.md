@@ -19,7 +19,7 @@
 * [Dev Environment](dev-environment-i.md)
   * [TestRPC](using-testrpc.md)
   * [Mist](mist.md)
-  * [Remix](dev-environment-i/remix.md)
+  * [Remix and Metamask](dev-environment-i/remix.md)
   * [Metamask](dev-environment-i/metamask.md)
   * [Truffle](truffle.md)
   * [Inspecting the Network](inspecting-the-network.md)
