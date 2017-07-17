@@ -17,11 +17,11 @@
   * [Gas and Fees](/gas-and-fees.md)
   * [Putting it all together](putting-it-all-together.md)
 * [Dev Environment](dev-environment-i.md)
-  * [Clients](dev-environment-i/clients.md)
+  * [TestRPC](using-testrpc.md)
+  * Mist
   * [Remix](dev-environment-i/remix.md)
   * [Metamask](dev-environment-i/metamask.md)
   * [Truffle](truffle.md)
-  * [Using TestRPC](using-testrpc.md)
   * [Inspecting the Network](inspecting-the-network.md)
 * [Smart Contract Fundamentals](smart-contract-basics.md)
   * [Function Types](function-types.md)
