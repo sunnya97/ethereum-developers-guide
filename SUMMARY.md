@@ -44,6 +44,7 @@
   * [ERC 223](erc-223.md)
 * Ethereum and the End User
   * [Ethereum RPC](ethereum-rpc.md)
+  * [Front End](front-end.md)
   * [Intro to Web3](intro-to-web3.md)
   * [Building Truffle for the Web](building-truffle-for-the-web.md)
 * [Smart Contract Pitfalls, Testing, and Bug Finding](smart-contract-pitfalls-testing-and-bug-finding.md)
