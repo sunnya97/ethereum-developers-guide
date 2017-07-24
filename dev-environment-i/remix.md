@@ -10,5 +10,5 @@ While you can use Geth to create transactiones, it is very convenient to have a 
 
 ###### [Remix + Metamask Tutorial](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) \[Exercise\]
 
-Following Karl Floresch's tutorial, we will now use the Remix and MetaMask together to practice creating a 
+Following Karl Floresch's tutorial, we will now use the Remix and MetaMask together to practice deploying and interacting with an extremely basic Hello World Smart Contract on a testnet.
 
