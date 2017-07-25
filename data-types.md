@@ -12,9 +12,11 @@ In the document, you will learn about that different data types found in Solidit
 
 ###### [https://forum.ethereum.org/discussion/3589/datatypes-in-event-parameters\#latest](https://forum.ethereum.org/discussion/3589/datatypes-in-event-parameters#latest)
 
+[https://solidity.readthedocs.io/en/develop/units-and-global-variables.html](https://solidity.readthedocs.io/en/develop/units-and-global-variables.html)
 
 
 
 
-https://solidity.readthedocs.io/en/develop/units-and-global-variables.html
+
+https://solidity.readthedocs.io/en/develop/control-structures.html
 
