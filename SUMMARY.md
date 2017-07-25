@@ -62,4 +62,5 @@
 * [Ethereum + IPFS](ethereum-+-ipfs.md)
 * [Inspecting the Network](inspecting-the-network.md)
 * [Practice with Solidity](practice-with-solidity.md)
+* [Example Contracts](example-contracts.md)
 
