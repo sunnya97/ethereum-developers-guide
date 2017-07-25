@@ -1,4 +1,6 @@
-## Data Types
+## Functions + Data Types
+
+###### [Functions](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#) \[\]
 
 ###### [Solidity Data Types](/h ttp://solidity.readthedocs.io/en/develop/types.html#) \[10 min read\]
 
@@ -14,9 +16,5 @@ In the document, you will learn about that different data types found in Solidit
 
 [https://solidity.readthedocs.io/en/develop/units-and-global-variables.html](https://solidity.readthedocs.io/en/develop/units-and-global-variables.html)
 
-
-
-
-
-https://solidity.readthedocs.io/en/develop/control-structures.html
+[https://solidity.readthedocs.io/en/develop/control-structures.html](https://solidity.readthedocs.io/en/develop/control-structures.html)
 
