@@ -31,6 +31,7 @@
   * [Truffle](truffle.md)
 * [Writing Smart Contracts](writing-smart-contracts.md)
   * [Introductory Contracts](writing-smart-contracts/introductory-contracts.md)
+  * [Tokens](tokens.md)
 * [Smart Contracts Advanced](smart-contracts-advanced.md)
   * [In-Contract Cryptography](in-contract-cryptography.md)
   * [Modifiers](modifiers.md)
@@ -38,7 +39,6 @@
   * [Upgradable Contracts](upgradable-contracts.md)
   * [Using Libraries](using-libraries.md)
   * [Ethereum Bytecode](ethereum-bytecode.md)
-* [Tokens](tokens.md)
 * Ethereum and the End User
   * [Ethereum RPC](ethereum-rpc.md)
   * [Intro to Web3](intro-to-web3.md)
