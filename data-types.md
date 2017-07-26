@@ -1,16 +1,14 @@
-## Functions + Data Types
+## Functions and Data Types
 
-###### 
+In this section we will learn about smart contract functions, data types, and variables.
 
 ###### [Solidity Data Types](https://solidity.readthedocs.io/en/develop/types.html) \[10 min read\]
 
-In the document from the Solidity docs , you will learn about that different data types found in Solidity programs.  
+In the document from the Solidity docs , you will learn about that different data types found in Solidity programs.
 
-###### Units and Global Variables \[4 min read\]
+###### [Units and Global Variables](https://solidity.readthedocs.io/en/develop/units-and-global-variables.html) \[4 min read\]
 
-###### 
-
-[https://solidity.readthedocs.io/en/develop/units-and-global-variables.html](https://solidity.readthedocs.io/en/develop/units-and-global-variables.html)
+Now that we understand the data types of most variables found in solidity, we will now read about a few of the special units and variables that are available to us in solidity.
 
 [https://solidity.readthedocs.io/en/develop/control-structures.html](https://solidity.readthedocs.io/en/develop/control-structures.html)
 
