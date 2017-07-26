@@ -16,12 +16,7 @@
   * [EVM Stack](evm-stack.md)
   * [Gas and Fees](/gas-and-fees.md)
   * [Putting it all together](putting-it-all-together.md)
-* [Dev Environment](dev-environment-i.md)
-  * [Remix and Metamask](dev-environment-i/remix.md)
-  * [TestRPC](using-testrpc.md)
-  * [Mist](mist.md)
-  * [Truffle](truffle.md)
-  * [Inspecting the Network](inspecting-the-network.md)
+
 * [Smart Contract Fundamentals](smart-contract-basics.md)
   * [Data Types and Variables](data-types.md)
   * [Functions](functions.md)
@@ -29,8 +24,14 @@
   * [Contract Structure](function-types.md)
   * [Basic Practice Reading Contracts](basic-practice-reading-contracts.md)
 * [Input Output](input-output.md)
-* [ABI](abi.md)
-* [Events and Logs](events-and-logs.md)
+  * [ABI](abi.md)
+  * [Events and Logs](events-and-logs.md)
+* [Dev Environment](dev-environment-i.md)
+  * [Remix and Metamask](dev-environment-i/remix.md)
+  * [TestRPC](using-testrpc.md)
+  * [Mist](mist.md)
+  * [Truffle](truffle.md)
+  * [Inspecting the Network](inspecting-the-network.md)
 * [Smart Contracts Advanced](smart-contracts-advanced.md)
   * [In-Contract Cryptography](in-contract-cryptography.md)
   * [Modifiers](modifiers.md)
@@ -62,4 +63,6 @@
 * [Example Contracts](example-contracts.md)
 * \(Optional\) LLL
 * [State Channels](state-channels.md)
+
+
 
