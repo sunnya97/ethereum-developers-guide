@@ -6,7 +6,5 @@ This short section of the Solidity docs gives a quick recap of the major basic b
 
 ###### [Pragma](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#) \[4 min read\]
 
-Read just the top part of this about declaring the compiler version.
-
-
+Read just the top part of this about declaring the compiler version.  We will return to the rest when we get to using libraries.
 
