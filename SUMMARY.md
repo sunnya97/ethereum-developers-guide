@@ -62,4 +62,5 @@
 * [Practice with Solidity](practice-with-solidity.md)
 * [Example Contracts](example-contracts.md)
 * \(Optional\) LLL
+* [State Channels](state-channels.md)
 
