@@ -27,6 +27,7 @@
   * [Functions](functions.md)
   * [Storage vs Memory](storage-vs-memory.md)
   * [Contract Structure](function-types.md)
+* [Input Output](input-output.md)
 * [ABI](abi.md)
 * [Events and Logs](events-and-logs.md)
 * [Smart Contracts Advanced](smart-contracts-advanced.md)
