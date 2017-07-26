@@ -8,7 +8,5 @@ This short section of the Solidity docs gives a quick recap of the major basic b
 
 Read just the top part of this about declaring the compiler version.
 
-###### [SimpleStorage](https://gist.github.com/naterush/79b585a5cdd9537fc0af95b75458b87d) \[exercise\]
 
-Now, let's try looking at a real, albeit simple smart contract.  See what you can understand from analyzing this contract and what each part does.
 
