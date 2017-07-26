@@ -40,7 +40,6 @@
   * [Using Libraries](using-libraries.md)
   * [Ethereum Bytecode](ethereum-bytecode.md)
 * Ethereum and the End User
-  * [Ethereum RPC](ethereum-rpc.md)
   * [Intro to Web3](intro-to-web3.md)
   * [Front End](front-end.md)
   * [Building Truffle for the Web](building-truffle-for-the-web.md)
@@ -57,9 +56,8 @@
   * [Using BTC Relay](using-btc-relay.md)
   * [Ethereum Alarm Clock](ethereum-alarm-clock.md)
 * [Ethereum + IPFS](ethereum-+-ipfs.md)
-* [Inspecting the Network](inspecting-the-network.md)
 * [Practice with Solidity](practice-with-solidity.md)
 * [Example Contracts](example-contracts.md)
-* \(Optional\) LLL
+* [\(Optional\) LLL](optional-lll.md)
 * [State Channels](state-channels.md)
 

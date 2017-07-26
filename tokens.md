@@ -1,6 +1,14 @@
 ## Tokens
 
-[http://decypher.tv/series/ethereum-development/video/20](http://decypher.tv/series/ethereum-development/video/20)
+Tokens have often been called Ethereum's "killer app".  In this section, we learn about what the ERC20 token protocol is and how we can make and exchange our own tokens.
+
+###### [What are Tokens?](https://medium.com/@ConsenSys/tokens-on-ethereum-e9e61dac9b4e) \[7 min read\]
+
+This blog post from ConsenSys gives a great overview as to what tokens are, what they can represent, and why they are useful.
+
+###### [ERC 20 Tokens](http://decypher.tv/series/ethereum-development/video/20) \[18 min video\]
+
+Now that we understand what tokens are good for, let's learn how to build one.  This video from Decypher.tv walks through making a brand new token from scratch conforming to the ERC20 standard.
 
 [https://www.ethereum.org/token](https://www.ethereum.org/token)
 
