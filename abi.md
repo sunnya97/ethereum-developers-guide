@@ -1,6 +1,12 @@
-[http://solidity.readthedocs.io/en/develop/abi-spec.html](http://solidity.readthedocs.io/en/develop/abi-spec.html)
+## Application Binary Interface \(ABI\)
 
-[https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI](https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI)
+The ABI is the interface by which you call functions in a contract and get data back.
 
+###### [What is an ABI?](/h ttps://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts) \[2 min read\]
 
+This stack overflow post gives some insight into what the ABI is, analogizing it to an API.
+
+###### ABI Spec \[10 min read\]
+
+This section from the Solidity Docs gives a far more in depth overview of how the ABI is constructed and how it works.
 
