@@ -16,14 +16,12 @@
   * [EVM Stack](evm-stack.md)
   * [Gas and Fees](/gas-and-fees.md)
   * [Putting it all together](putting-it-all-together.md)
-
 * [Smart Contract Fundamentals](smart-contract-basics.md)
   * [Data Types and Variables](data-types.md)
   * [Functions](functions.md)
   * [Storage vs Memory](storage-vs-memory.md)
   * [Contract Structure](function-types.md)
   * [Basic Practice Reading Contracts](basic-practice-reading-contracts.md)
-* [Input Output](input-output.md)
   * [ABI](abi.md)
   * [Events and Logs](events-and-logs.md)
 * [Dev Environment](dev-environment-i.md)
@@ -63,6 +61,4 @@
 * [Example Contracts](example-contracts.md)
 * \(Optional\) LLL
 * [State Channels](state-channels.md)
-
-
 
