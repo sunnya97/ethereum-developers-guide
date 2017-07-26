@@ -8,5 +8,9 @@ This short stack overflow post explains the difference between the two analogizi
 
 ###### [Data Location](http://solidity.readthedocs.io/en/develop/types.html#data-location) \[3 min read\]
 
-Read the Data Location subsection from Types section of the Solidity docs once again, and see if you can understanding it better know that you know the differnce between storage and memory.
+Read the Data Location subsection from Types section of the Solidity docs once again, and see if you can understanding it better know that you know the difference between storage and memory.
+
+###### [Memory Keyword](https://solidity.readthedocs.io/en/latest/frequently-asked-questions.html#what-is-the-memory-keyword-what-does-it-do) \[1 min read\]
+
+This answer from the FAQ section of the Solidity devs provides an explanation of how to use the memory and storage keywords and the default location of variables when not specified. 
 
