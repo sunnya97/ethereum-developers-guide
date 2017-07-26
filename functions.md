@@ -6,7 +6,5 @@ Begin by reading only the first half of this page in the the Solidity docs, from
 
 ###### [Control Structures](https://solidity.readthedocs.io/en/develop/control-structures.html) \[5 min read\]
 
-
-
-[https://solidity.readthedocs.io/en/develop/control-structures.html](https://solidity.readthedocs.io/en/develop/control-structures.html)
+This section of the Solidity docs will show you the many different types of function calls as well as some of the details that relate to this such as the difference between internal and external calls, how to use input and output parameters, and the scoping of variables.
 
