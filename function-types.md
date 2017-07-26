@@ -8,5 +8,5 @@ Note: only tell them to read the top part about declaring the compiler version, 
 
 ###### [Overview of Contract Structure](https://solidity.readthedocs.io/en/develop/structure-of-a-contract.html) \[2 min read\]
 
-Overview of all the major basic building blocks. These will be expanded on in later sections.
+This short section of the Solidity docs gives a quick recap of the major basic building blocks we've seen so far, including an extra one called events, which we will be going into soon.
 
