@@ -10,13 +10,9 @@ This is what a smart contract written in solidity looks like... see what you can
 
 **List of links that go somewhere:**
 
-[https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/)
-
 [https://learnxinyminutes.com/docs/solidity/](https://learnxinyminutes.com/docs/solidity/)
 
 [https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
 
 [https://solidity.readthedocs.io/en/develop/contracts.html](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#)
-
-
 
