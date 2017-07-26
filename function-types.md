@@ -8,7 +8,7 @@ Note: only tell them to read the top part about declaring the compiler version, 
 
 ###### [Overview of Contract Structure](https://solidity.readthedocs.io/en/develop/structure-of-a-contract.html) \[2 min read\]
 
-###### OVerview of all the major basic building blocks. These will be expanded on in later sections.
+###### Overview of all the major basic building blocks. These will be expanded on in later sections.
 
 
 
