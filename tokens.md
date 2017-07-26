@@ -4,7 +4,7 @@ Tokens have often been called Ethereum's "killer app".  In this section, we lear
 
 ###### [What are Tokens?](https://medium.com/@ConsenSys/tokens-on-ethereum-e9e61dac9b4e) \[7 min read\]
 
-This blog post from ConsenSys gives a great overview as to what tokens are, what they can represent, and why they are useful.
+xThis blog post from ConsenSys gives a great overview as to what tokens are, what they can represent, and why they are useful.
 
 ###### [ERC 20 Tokens](http://decypher.tv/series/ethereum-development/video/20) \[18 min video\]
 
