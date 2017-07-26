@@ -10,7 +10,7 @@ This blog post from ConsenSys gives a great overview as to what tokens are, what
 
 Now that we understand what tokens are good for, let's learn how to build one.  This video from Decypher.tv walks through making a brand new token from scratch conforming to the ERC20 standard.
 
-[https://www.ethereum.org/token](https://www.ethereum.org/token)
+Make your own token \[Exercise\]
 
 [https://docs.google.com/document/d/13ch2E-yQvs0MnxXcFHe3K5zTRSNZjqjln38DqHL--to/edit?usp=sharing](https://docs.google.com/document/d/13ch2E-yQvs0MnxXcFHe3K5zTRSNZjqjln38DqHL--to/edit?usp=sharing)
 
