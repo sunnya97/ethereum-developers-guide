@@ -10,6 +10,8 @@ In the document from the Solidity docs , you will learn about that different dat
 
 Now that we understand the data types of most variables found in solidity, we will now read about a few of the special units and variables that are available to us in solidity.
 
+###### [Control Structures](https://solidity.readthedocs.io/en/develop/control-structures.html) \[\]
+
 [https://solidity.readthedocs.io/en/develop/control-structures.html](https://solidity.readthedocs.io/en/develop/control-structures.html)
 
 [https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf)

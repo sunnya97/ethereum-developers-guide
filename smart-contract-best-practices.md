@@ -6,5 +6,7 @@
 
 [https://solidity.readthedocs.io/en/develop/security-considerations.html\#](https://solidity.readthedocs.io/en/develop/security-considerations.html#)
 
-https://github.com/pipermerriam/smart-contract-best-practices
+[https://github.com/pipermerriam/smart-contract-best-practices](https://github.com/pipermerriam/smart-contract-best-practices)
+
+https://blog.ethereum.org/2016/06/10/smart-contract-security/
 
