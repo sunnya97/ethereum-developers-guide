@@ -24,6 +24,7 @@
   * [Basic Practice Reading Contracts](basic-practice-reading-contracts.md)
   * [ABI](abi.md)
   * [Events and Logs](events-and-logs.md)
+  * [Inter-Contract Execution](dev-environment-i/inter-contract-execution.md)
 * [Dev Environment](dev-environment-i.md)
   * [Remix and Metamask](dev-environment-i/remix.md)
   * [TestRPC](using-testrpc.md)
