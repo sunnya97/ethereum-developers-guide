@@ -37,7 +37,6 @@
 * [Smart Contracts Advanced](smart-contracts-advanced.md)
   * [In-Contract Cryptography](in-contract-cryptography.md)
   * [Modifiers](modifiers.md)
-  * [Oracles](oracles.md)
   * [Upgradable Contracts](upgradable-contracts.md)
   * [Ethereum Bytecode](ethereum-bytecode.md)
 * Ethereum and the End User
@@ -61,4 +60,5 @@
 * [Example Contracts](example-contracts.md)
 * [\(Optional\) LLL](optional-lll.md)
 * [State Channels](state-channels.md)
+* Oracles
 

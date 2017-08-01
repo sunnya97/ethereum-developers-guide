@@ -1,4 +1,4 @@
-## Using Libraries
+## Libraries and EthPM
 
 When developing decentralized applications, it often doesn't make sense for every developer to reinvent the wheel when it comes to basic functions.  For this reason, in order to act more like programming languages you may be more familiar with, Solidity supports libraries, reusable pieces of code.
 
@@ -14,16 +14,17 @@ In this short article, Piper Merriam demonstrates another potential benefit of u
 
 A common standard called ERC190 was created to allow to make it as easy possible to use and develop common shared libraries.  Learn about its basics by reading its specification.
 
-Until now code re-use involved copy/pasting smart contract source code from project to project. We’ve been unable to take advantage of some of the most powerful properties of the EVM, specifically the ability to have common shared libraries that are deployed once and used by all. We don’t even have a standard library.
+###### [EthPM](https://medium.com/@timothyjcoulter/why-ethereum-needs-package-management-b9e6e457329f) \[4 min read\]
 
-  
+This article by Tim Coulter of Truffle explains the concept behind EthPM, a dedicated package manager for Ethereum libraries and conforms to ERC190 standards.
 
+###### [Using EthPM Packages](https://github.com/ethpm/ethpm-spec) \[10 min read\]
 
-[https://github.com/dapphub/dappsys](https://github.com/dapphub/dappsys)
+Next, read through the spec of EthPM to learn how to use these packages in your own projects.
 
+###### [Dappsys](https://dappsys.readthedocs.io/en/latest/) \[resource\]
 
-
-
+Dappsys is a repository of very useful and heavily-audited Solidity Libraries that are exposed as EthPM packages.  In this documentation, you can see what each library is used for and how to interact with it.  When building larger contracts, consider using these as contract building blocks.
 
 [https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#)
 
