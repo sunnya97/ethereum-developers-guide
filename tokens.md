@@ -20,7 +20,5 @@ Now let us try to build our own Token.  This project from the UPenn Blockchain C
 
 ###### [Token Exchange](https://docs.google.com/document/d/1kKKFvQQExN045pX2cFA_fJFY6ZsGhrtPWG73klNsVDg/edit) \[Exercise\]
 
-One of the most valuable things about ERC 20 token standard is the ability to design contracts 
-
-[https://docs.google.com/document/d/1kKKFvQQExN045pX2cFA\_fJFY6ZsGhrtPWG73klNsVDg/edit](https://docs.google.com/document/d/1kKKFvQQExN045pX2cFA_fJFY6ZsGhrtPWG73klNsVDg/edit)
+One of the most valuable things about ERC 20 token standard is the ability to design contracts that can interoperate with any token.  One interesting use case for this interoperability is an on-chain exchange.  In this exercise, designed by the UPenn Blockchain Club, you will use your knowledge of ERC20 and [Inter-Contract Execution](/dev-environment-i/inter-contract-execution.md) to create a very simplistic on-chain exchange.
 
