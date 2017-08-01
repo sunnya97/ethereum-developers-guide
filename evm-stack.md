@@ -6,11 +6,11 @@ Ethereum contracts are written in a low-level, stack-based bytecode that is exec
 
 Returning again to the whitepaper, we will now read the section titled "Code Execution", which gives some basic details on the EVM and its bytecode.
 
-###### [EVM Guide](/h ttps://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md) \[20 min read\]
+###### [EVM Guide](https:/github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md) \[20 min read\]
 
 This guide written by Ethan Buchman at CoinCulture provides a deep dive into understanding the EVM in depth.  It is highly suggested to read the entire thing.
 
-###### [OP Code Guide](/h ttps://ethereum.stackexchange.com/questions/119/what-opcodes-are-available-for-the-ethereum-evm) \[Resource\]
+###### [OP Code Guide](https:/ethereum.stackexchange.com/questions/119/what-opcodes-are-available-for-the-ethereum-evm/) \[Resource\]
 
 This StackOverflow page is a handy bookmark to pull up when trying to decypher EVM bytecode and you don't have access to the higher-level language code.
 
