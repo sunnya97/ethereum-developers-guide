@@ -1,4 +1,4 @@
-## Libraries and Upgradable Contracts
+## Using Libraries
 
 When developing decentralized applications, it often doesn't make sense for every developer to reinvent the wheel when it comes to basic functions.  For this reason, Solidity supports libraries
 
