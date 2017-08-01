@@ -20,9 +20,7 @@ Now let us try to build our own Token.  This project from the UPenn Blockchain C
 
 ###### [Token Exchange](https://docs.google.com/document/d/1kKKFvQQExN045pX2cFA_fJFY6ZsGhrtPWG73klNsVDg/edit) \[Exercise\]
 
-One of the most valuable things about 
-
-
+One of the most valuable things about ERC 20 token standard is the ability to design contracts 
 
 [https://docs.google.com/document/d/1kKKFvQQExN045pX2cFA\_fJFY6ZsGhrtPWG73klNsVDg/edit](https://docs.google.com/document/d/1kKKFvQQExN045pX2cFA_fJFY6ZsGhrtPWG73klNsVDg/edit)
 
