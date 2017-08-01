@@ -33,7 +33,7 @@
   * [Introductory Contracts](writing-smart-contracts/introductory-contracts.md)
   * [Inter-Contract Execution](dev-environment-i/inter-contract-execution.md)
   * [Tokens](tokens.md)
-  * [Libraries and Upgradable Contracts](using-libraries.md)
+  * [Using Libraries](using-libraries.md)
 * [Smart Contracts Advanced](smart-contracts-advanced.md)
   * [In-Contract Cryptography](in-contract-cryptography.md)
   * [Modifiers](modifiers.md)
