@@ -33,12 +33,12 @@
   * [Introductory Contracts](writing-smart-contracts/introductory-contracts.md)
   * [Inter-Contract Execution](dev-environment-i/inter-contract-execution.md)
   * [Tokens](tokens.md)
+  * [Using Libraries](using-libraries.md)
 * [Smart Contracts Advanced](smart-contracts-advanced.md)
   * [In-Contract Cryptography](in-contract-cryptography.md)
   * [Modifiers](modifiers.md)
   * [Oracles](oracles.md)
   * [Upgradable Contracts](upgradable-contracts.md)
-  * [Using Libraries](using-libraries.md)
   * [Ethereum Bytecode](ethereum-bytecode.md)
 * Ethereum and the End User
   * [Intro to Web3](intro-to-web3.md)

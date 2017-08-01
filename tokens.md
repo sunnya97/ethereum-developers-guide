@@ -18,7 +18,11 @@ While the ERC 20 Token standard took off quickly within the Ethereum ecosystem, 
 
 Now let us try to build our own Token.  This project from the UPenn Blockchain Club will serve as the spec to follow in creating your own token.  Try to make it conform to the ERC 223 standard while keeping compatability with the ERC standard as well.  Please feel free to use external resources to help along the way.
 
+###### [Swap Protocol](https://www.youtube.com/watch?v=lVmqHNtYdCE&feature=youtu.be) \[30 min video\]
+
+One of the most valuable things about ERC 20 token standard is the ability to design contracts that can interoperate with any token.  One interesting use case for this interoperability is an on-chain exchange.  In this video from Consensys Media, Deepa Sathaye explains the Swap Protocol, which allows two users to trade or "swap" different tokens.
+
 ###### [Token Exchange](https://docs.google.com/document/d/1kKKFvQQExN045pX2cFA_fJFY6ZsGhrtPWG73klNsVDg/edit) \[Exercise\]
 
-One of the most valuable things about ERC 20 token standard is the ability to design contracts that can interoperate with any token.  One interesting use case for this interoperability is an on-chain exchange.  In this exercise, designed by the UPenn Blockchain Club, you will use your knowledge of ERC20 and [Inter-Contract Execution](/dev-environment-i/inter-contract-execution.md) to create a very simplistic on-chain exchange.
+Now that you've learned about the structure of the Swap protocol, let's try to build our own simple on chain token trading smart contract.  In this exercise, designed by the UPenn Blockchain Club, you will use your knowledge of ERC20 and [Inter-Contract Execution](/dev-environment-i/inter-contract-execution.md) to create this very simplistic on-chain exchange.
 
