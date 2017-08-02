@@ -29,6 +29,7 @@
   * [TestRPC](using-testrpc.md)
   * [Mist](mist.md)
   * [Truffle](truffle.md)
+  * [Testnets](testnets.md)
 * [Writing Smart Contracts](writing-smart-contracts.md)
   * [Introductory Contracts](writing-smart-contracts/introductory-contracts.md)
   * [Inter-Contract Execution](dev-environment-i/inter-contract-execution.md)
@@ -37,7 +38,6 @@
   * [In-Contract Cryptography](in-contract-cryptography.md)
   * [Modifiers](modifiers.md)
 * [Smart Contract Pitfalls, Testing, and Bug Finding](smart-contract-pitfalls-testing-and-bug-finding.md)
-  * [Testnets](testnets.md)
   * [Writing Tests](writing-tests.md)
   * [Smart Contract Best Practices](smart-contract-best-practices.md)
   * [Common bugs/attacks](common-bugsattacks.md)
@@ -56,6 +56,4 @@
 * [\(Optional\) LLL](optional-lll.md)
 * [State Channels](state-channels.md)
 * Oracles
-
-
 
