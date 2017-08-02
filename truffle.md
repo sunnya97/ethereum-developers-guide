@@ -1,6 +1,6 @@
 # Truffle
 
-There are a number of Dapp development frameworks such as Embark and Dapple.  However, for now, this tutorial will focus on Truffle because it is the most popular framework. It will help you manage, test, and eventually deploy your smart contracts.
+There are a number of Dapp development frameworks such as Embark and Dapple.  However, for now, this tutorial will focus on Truffle because it is the most popular framework at the moment. It will help you manage, test, and eventually deploy your smart contracts.
 
 ###### [Installation](http://truffleframework.com/docs/getting_started/installation) \[10 min tutorial\]
 
@@ -9,6 +9,4 @@ This tutorial will guide you though the process of installing Truffle. From here
 ###### [Developing Ethereum Dapps with Truffle and Metamask](https://medium.com/metamask/developing-ethereum-dapps-with-truffle-and-metamask-aa8ad7e363ba) \[Exercise\]
 
 Follow this tutorial from Metamask which will walk you through deploying a new truffle project and then make sure it works correctly by interacting with in through Metamask.
-
-
 
