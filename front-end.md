@@ -4,7 +4,7 @@ While this guidebook is focused on smart contract development, a large portion o
 
 ###### [A Basic Front End](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#) \[Exercise\]
 
-This tutorial will show how to create a quick basic UI for a dapp using web3, webpack and bootstrap.  
+This tutorial will show how to create a quick basic UI for a dapp using web3, webpack and bootstrap, and deploy it on a Dapp browser like Mist.
 
 ###### [Returning to the Pet Shop](http://truffleframework.com/tutorials/pet-shop#creating-a-ui-to-interact-with-our-smart-contract) \[Exercise\]
 
