@@ -34,7 +34,7 @@
   * [Introductory Contracts](writing-smart-contracts/introductory-contracts.md)
   * [Inter-Contract Execution](dev-environment-i/inter-contract-execution.md)
   * [Tokens](tokens.md)
-  * [Voting](writing-smart-contracts/voting.md)
+  * [Voting and DAOs](writing-smart-contracts/voting.md)
   * [Libraries and EthPM](using-libraries.md)
   * [In-Contract Cryptography](in-contract-cryptography.md)
   * [Modifiers](modifiers.md)
