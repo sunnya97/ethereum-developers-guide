@@ -6,7 +6,7 @@ One of the most valuable use cases of blockchain often cited is for voting and d
 
 This well-written post from Colony.io walks through the process of development of secure voting protocols, covering topics such as commit reveal voting, token-locking voting, and partial-lock voting.
 
-[Token-weighted Voting Implementation Part 1](https://blog.colony.io/token-weighted-voting-implementation-part-1-72f836b5423b) \[Exercise\]
+###### [Token-weighted Voting Implementation Part 1](https://blog.colony.io/token-weighted-voting-implementation-part-1-72f836b5423b) \[Exercise\]
 
 This is the first of a three part tutorial series by Colony.io that will go through the process of creating your own privacy-maintaining voting system built on the idea from the previous article.
 
