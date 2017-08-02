@@ -16,7 +16,7 @@ This article by Auth0 delves deeper into the functionality of Ethereum and what 
 
 The Ethereum blockchain actually changes the traditional structure of blockchains in a major way by implementing a modified version of the GHOST protocol.  Read this short excerpt from the Ethereum whitepaper to understand how it does this.
 
-[\(Optional\) Recursive Length Prefix](https://github.com/ethereum/wiki/wiki/RLP) \[2 min read\]
+###### [\(Optional\) Recursive Length Prefix](https://github.com/ethereum/wiki/wiki/RLP) \[2 min read\]
 
-In Ethereum, Recursive Length Prefix \(RLP\) is the primary encoding method for serializing objects in Ethereum by encoding the structure of nested arrays of binary data.
+In Ethereum, Recursive Length Prefix \(RLP\) is the primary encoding method for serializing objects in Ethereum.  Read this section from the Ethereum wiki to learn about how RLP encoding works.
 
