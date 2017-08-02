@@ -26,5 +26,5 @@ Next, read through the spec of EthPM to learn how to use these packages in your 
 
 Dappsys is a repository of very useful and heavily-audited Solidity Libraries that are exposed as EthPM packages.  In this documentation, you can see what each library is used for and how to interact with it.  When building larger contracts, consider using these as contract building blocks.
 
-[https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#)
+
 
