@@ -14,7 +14,19 @@ Through the use of examples, Joseph Chow of ConsenSyswalks us through some commo
 
 [Analysis of the DAO Exploit](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/) \[4 min read\]
 
-This article by Phil Daian explains the reentrancy attack that affected TheDAO and cost over $150 million USD in great detail. 
+This article by Phil Daian explains the reentrancy attack that affected TheDAO and cost over $150 million USD in great detail.
+
+[Compiler Bugs](https://solidity.readthedocs.io/en/develop/bugs.html) \[3 min read\]
+
+Occasionally, a nightly version of the Solidity compiler itself may contain bugs. It is suggested to avoid using any compiler version that is known to be faulty in some way.  This page from the Solidity docs has a list of some of the known compiler bugs.
+
+Tx.origin \[5 min read\]
+
+Often times, contracts mistakingly use tx.origin when they mean to use msg.sender.  This article by Peter Vessenes explains why this is dangerous and can lead to malicious behavior.
+
+Parity MultiSig Attack \[7 min read\]
+
+This article by Lorenz Breidenbach, Phil Daian, Ari Juels, and Emin Gün Sirer explains the exploit that affected allowed hackers \(combination of blackhat and whitehat\) to drain over $200 million USD from Parity Multisignature Wallets v1.5 and above.
 
 [https://solidity.readthedocs.io/en/develop/security-considerations.html\#](https://solidity.readthedocs.io/en/develop/security-considerations.html#)
 
