@@ -26,6 +26,10 @@ This article by Tim Coulter of Truffle explains the concept behind EthPM, a dedi
 
 Next, read through the spec of EthPM to learn how to use these packages in your own projects.
 
+###### [EthPM with Truffle](http://truffleframework.com/docs/getting_started/packages-ethpm) \[5 min read\]
+
+In this section from the Truffle Getting Started docs, read how to use EthPM within the Truffle Framework to install and use packages.
+
 ###### [Dappsys](https://dappsys.readthedocs.io/en/latest/) \[resource\]
 
 Dappsys is a repository of very useful and heavily-audited Solidity Libraries that are exposed as EthPM packages.  In this documentation, you can see what each library is used for and how to interact with it.  When building larger contracts, consider using these as contract building blocks.
