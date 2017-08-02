@@ -12,13 +12,17 @@ Amazing Best Practices guide compiled by ConsenSys that provide numerous securit
 
 Through the use of examples, Joseph Chow of ConsenSyswalks us through some common things to avoid when developing and deploying smart contracts.
 
-###### [Analysis of the DAO Exploit](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/) \[4 min read\]
-
-This article by Phil Daian explains the reentrancy attack that affected TheDAO and cost over $150 million USD in great detail.
-
-###### [Compiler Bugs](https://solidity.readthedocs.io/en/develop/bugs.html) \[3 min read\]
+###### [Compiler Bugs](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#) \[3 min read\]
 
 Occasionally, a nightly version of the Solidity compiler itself may contain bugs. It is suggested to avoid using any compiler version that is known to be faulty in some way.  This page from the Solidity docs has a list of some of the known compiler bugs.
+
+###### [Contract Safety Checklist](https://www.kingoftheether.com/contract-safety-checklist.html) \[8 min read\]
+
+This list compiled by King of the Ether records some of the most common known bugs and attack vectors found in Ethereum smart contracts.  Read through this list and then in the following resources, we will jump in depth into a few of these.
+
+###### [Analysis of TheDAO Exploit](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/) \[4 min read\]
+
+This article by Phil Daian explains the reentrancy attack that affected TheDAO and cost over $150 million USD in great detail.
 
 ###### [Tx.origin](http://vessenes.com/tx-origin-and-ethereum-oh-my/) \[5 min read\]
 
@@ -31,6 +35,10 @@ This article by Lorenz Breidenbach, Phil Daian, Ari Juels, and Emin Gün Sirer e
 ###### [Underhanded Naming](https://www.reddit.com/r/ethereum/comments/4e5y30/live_example_of_underhanded_solidity_coding_on/) \[2 min read\]
 
 In this reddit post, Vitalik Buterin exposes an underhanded malicious code that tried to steal money by naming variables slightly different things that might be missed by a quick reader.
+
+###### [Breaking RNG](http://martin.swende.se/blog/Breaking_the_house.html) \[10 min read\]
+
+This article by Martin Swende gives an account of his attempt the random generation of a roulette smart contract, and eventually being beaten to it.
 
 [http://www.kingoftheether.com/postmortem.html](http://www.kingoftheether.com/postmortem.html)
 
