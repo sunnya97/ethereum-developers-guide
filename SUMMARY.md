@@ -35,8 +35,8 @@
   * [Inter-Contract Execution](dev-environment-i/inter-contract-execution.md)
   * [Tokens](tokens.md)
   * [Voting and DAOs](writing-smart-contracts/voting.md)
+  * [Other Uses of Commit Reveal](writing-smart-contracts/other-uses-of-commit-reveal.md)
   * [Libraries and EthPM](using-libraries.md)
-  * [In-Contract Cryptography](in-contract-cryptography.md)
   * [Modifiers](modifiers.md)
 * [Smart Contract Pitfalls, Testing, and Bug Finding](smart-contract-pitfalls-testing-and-bug-finding.md)
   * [Writing Tests](writing-tests.md)
@@ -52,9 +52,5 @@
   * [Integrating with IPFS](ethereum-+-ipfs.md)
   * [Ethereum Alarm Clock](ethereum-alarm-clock.md)
   * [Upgradable Contracts](upgradable-contracts.md)
-* [Practice with Solidity](practice-with-solidity.md)
-* [Example Contracts](example-contracts.md)
 * [\(Optional\) LLL](optional-lll.md)
-* [State Channels](state-channels.md)
-* Oracles
 

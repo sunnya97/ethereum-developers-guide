@@ -8,3 +8,9 @@ This short section of the Solidity docs gives a quick recap of the major basic b
 
 Read just the top part of this about declaring the compiler version.  We will return to the rest when we get to using libraries.
 
+[Contract States](http://solidity.readthedocs.io/en/develop/common-patterns.html#state-machine) \[2 min read\]
+
+
+
+
+
