@@ -34,15 +34,15 @@
   * [Inter-Contract Execution](dev-environment-i/inter-contract-execution.md)
   * [Tokens](tokens.md)
   * [Libraries and EthPM](using-libraries.md)
-  * [Upgradable Contracts](upgradable-contracts.md)
-  * [Integration with ENS](integration-with-ens.md)
-* [Smart Contracts Advanced](smart-contracts-advanced.md)
   * [In-Contract Cryptography](in-contract-cryptography.md)
   * [Modifiers](modifiers.md)
-* Ethereum and the End User
+* [Ethereum and the End User](writing-smart-contracts/ethereum-and-the-end-user.md)
   * [Intro to Web3](intro-to-web3.md)
   * [Front End](front-end.md)
   * [Building Truffle for the Web](building-truffle-for-the-web.md)
+* [Smart Contracts Advanced Topics](smart-contracts-advanced.md)
+  * [Integration with ENS](integration-with-ens.md)
+  * [Upgradable Contracts](upgradable-contracts.md)
 * [Smart Contract Pitfalls, Testing, and Bug Finding](smart-contract-pitfalls-testing-and-bug-finding.md)
   * [Testnets](testnets.md)
   * [Writing Tests](writing-tests.md)
@@ -60,4 +60,6 @@
 * [\(Optional\) LLL](optional-lll.md)
 * [State Channels](state-channels.md)
 * Oracles
+
+
 
