@@ -10,6 +10,10 @@ This article from Jorge Izquierdo of Aragon provides a comprehensive review on h
 
 In this short article, Piper Merriam demonstrates another potential benefit of using libraries, that for contracts that are not called often, they can potentially be more gas efficient due to need to deploy less code on the chain.
 
+###### [Importing other Solidity Files](http://solidity.readthedocs.io/en/develop/layout-of-source-files.html#importing-other-source-files) \[3 min read\]
+
+Jumping back to the Layout of a Solidity Source File section of the Solidity Docs we saw earlier in this tutorial, we will read about how to import Solidity sources files into each other so we don't have a messy single file with all of our contracts in it.
+
 ###### [ERC190](https://github.com/ethereum/EIPs/issues/190) \[5 min read\]
 
 A common standard called ERC190 was created to allow to make it as easy possible to use and develop common shared libraries.  Learn about its basics by reading its specification.
@@ -25,6 +29,4 @@ Next, read through the spec of EthPM to learn how to use these packages in your 
 ###### [Dappsys](https://dappsys.readthedocs.io/en/latest/) \[resource\]
 
 Dappsys is a repository of very useful and heavily-audited Solidity Libraries that are exposed as EthPM packages.  In this documentation, you can see what each library is used for and how to interact with it.  When building larger contracts, consider using these as contract building blocks.
-
-
 
