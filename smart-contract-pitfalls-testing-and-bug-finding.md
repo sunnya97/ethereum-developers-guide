@@ -1,5 +1,4 @@
-http://truffleframework.com/docs/getting_started/testing
+# Smart Contract Pitfalls, Testing, and Bug Finding
 
-http://truffleframework.com/docs/getting_started/javascript-tests
+In this section we will discuss how to test your smart contracts and make sure you are aware of some of the most common pitfalls and sources of bugs.
 
-http://truffleframework.com/docs/getting_started/solidity-tests
