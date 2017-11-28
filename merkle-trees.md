@@ -26,5 +26,5 @@ Near the end of the previous article, Vitalik mentions that Ethereum actually us
 
 ###### [Patricia Trees Breakdown](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/) \[30 min tutorial\]
 
-In this walkthrough by Ethan Buchman, we walk through a deep dive of exploring Ethereum Patricia tries through code.  Note: this walkthrough assumes familiarity with Python programming.
+In this walkthrough by Ethan Buchman, we walk through a deep dive of exploring Ethereum Patricia trees through code.  Note: this walkthrough assumes familiarity with Python programming.
 
