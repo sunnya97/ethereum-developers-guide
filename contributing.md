@@ -6,7 +6,7 @@ First of all, thanks for contributing! One of the things that makes the Ethereum
 
 Sadly, time slows for no one. Things break, code does not compile, and our docs become less-and-less useful. If you find a link that fits this description, please do the two following things.
 
-First, report the issue on GitBooks. Second, if you have the time \(and want to do a good deed for the community\) consideri finding a replacement resource!
+First, report the issue on GitBooks. Second, if you have the time \(and want to do a good deed for the community\) consider finding a replacement resource!
 
 **I want to add a page**
 
