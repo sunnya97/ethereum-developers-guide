@@ -14,7 +14,7 @@ This article by WeTrust summarizes the previous video in text form.
 
 In this video from Khan Academy, Zulfikar Ramzan goes through an example of how public-private key cryptography can be used between two participants Alice and Bob to prove validity of a message and its sender.
 
-###### [Creating Ethereum Keypairs](http://decypher.tv/series/ethereum-development/video/) \[16 min video\]
+###### [Creating Ethereum Keypairs](http://decypher.tv/series/ethereum-development/video/2) \[16 min video\]
 
 This video from DecypherTV gives a great demo of how public-private key pairs work in the Ethereum blockchain.  Using tools like Web3, EthereumJS, and eth3r.co, Jordan Leigh shows the fundamentals of key generation and even a little bit of an introduction to using Etherscan.
 
