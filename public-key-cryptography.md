@@ -4,7 +4,7 @@ Now that we understand hash functions, we will explore the second fundamental cr
 
 ###### [Cryptographic Identity in Blockchain](https://www.youtube.com/embed/fgSvXFZ1GuU?start=1005&end=1187&version=3) \[3 min video\]
 
-This quick video clip from Blockchain at Berkeley explains the value of why we need public and private keys on the blockchain.  It analogies the public and private key pair of cryptographic identity to an email address and password pair.  It also gives a sense of scale to the magnitude of the number of public keys.
+This quick video clip from Blockchain at Berkeley explains the value of why we need public and private keys on the blockchain.  It creates an analogy between the public and private key pair of a cryptographic identity to an email address and password pair.  It also gives a sense of scale to the magnitude of the number of public keys.
 
 ###### [Why do you need public-private key cryptography on the blockchain?](https://blog.wetrust.io/why-do-i-need-a-public-and-private-key-on-the-blockchain-c2ea74a69e76) \[3 min read\]
 
