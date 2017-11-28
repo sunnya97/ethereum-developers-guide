@@ -8,6 +8,8 @@ Begin by reading this short introduction to hash functions written by Decentrali
 
 ###### [**Blockchain Underpinnings: Hashing \[8 min read\]**](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b)
 
+###### [Blockchain Underpinnings: Hashing \[8 min read\]](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b)
+
 This article by ConsenSys delves further into the ideas behind hashing, providing an interesting analogy comparing bits to an array of light bulbs.  It goes on to explore how hash functions relate to blockchains and why they are important.
 
 ###### [**Formal Properties of Hash Functions**](https://www.youtube.com/embed/pCgD3RgXHEE?start=2433&end=3156&version=3)** \[12 min video\]**
