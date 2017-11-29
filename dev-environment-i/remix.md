@@ -12,5 +12,5 @@ In this tutorial, you will learn to use the Remix Tool \(Browser Solidity\).  Re
 
 ###### [Remix + Metamask Tutorial](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) \[Exercise\]
 
-Following Karl Floresch's tutorial. We will now use Remix and MetaMask together to practice deploying and interacting with an extremely basic Hello World Smart Contract on a testnet.
+Following Karl Floresch's tutorial. We will now use Remix and MetaMask together to practice deploying and interacting with an extremely basic Hello World smart contract on a testnet.
 
