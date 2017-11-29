@@ -12,5 +12,5 @@ Another common usage of blockchain is to hold auctions for ownership of items.  
 
 ###### [Rock Paper Scissors](https://github.com/SCBuergel/ethereum-rps) \[10 min read\]
 
-In many games, there is often a need for both players to make a move at the same time without knowing what the other player did.  To achieve this effect on a blockchain, we can use a commit reveal scheme as well.  To see how this works, read through the rps-advanced.sol file in this github repository.
+In many games, there is often a need for both players to make a move at the same time without knowing what the other player did.  To achieve this effect on a blockchain, we can use a commit-reveal scheme as well.  To see how this works, read through the rps-advanced.sol file in this github repository.
 
