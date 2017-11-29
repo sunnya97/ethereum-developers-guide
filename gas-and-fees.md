@@ -14,7 +14,7 @@ This article summarizes the above video.  And this time, the "summarization" map
 
 From Hudson Jameson's article, read the section titled Block Gas Limit.
 
-###### [Ether vs Gas](http://www.sunnya97.com/blog/2017/6/17/understanding-ether-vs-gas) \[3 min read\]
+###### [Ether vs Gas](https://medium.com/sunnya97/understanding-ether-vs-gas-82ce2f1dc560) \[3 min read\]
 
 This short post by Sunny Aggarwal explains the fundamental difference between Ether and Gas and why Gas was implemented as an abstraction on top of Ether instead of as its own separate token.
 
