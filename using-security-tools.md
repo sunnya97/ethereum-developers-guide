@@ -8,7 +8,5 @@ Manuel Araoz details strategies aimed to improve smart contract security along w
 
 ###### [Security Tools](https://consensys.github.io/smart-contract-best-practices/security_tools/) \[1 min read\]
 
-A list of security tools that developers can leverage, compiled within the 
-
-
+A list of security tools that developers can leverage, found within the 
 
