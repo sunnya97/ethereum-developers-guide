@@ -12,5 +12,5 @@ The article above is a bit outdated.  Near the end it says that the Rinkeby test
 
 ###### [Ropsten Revival](https://github.com/ethereum/ropsten/blob/master/revival.md) \[3 min read\]
 
-The article also left the story with the death of the Ropsten testnet.  However, since then, the testnet has actually been revived and become quite popular again.  Being the only PoW testnet, it is still very valuable for testing applications that depend on the Proof of Work nature of the blockchain, such as Smartpool or the Casper Finality Gadget.
+The article speaks about the death of the Ropsten testnet.  However, since then, the testnet has actually been revived and become quite popular again.  Being the only PoW testnet, it is still very valuable for testing applications that depend on the Proof of Work nature of the blockchain, such as Smartpool or the Casper Finality Gadget.
 
