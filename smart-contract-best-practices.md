@@ -2,11 +2,11 @@
 
 ###### [Ethereum Subtleties](https://github.com/ethereum/wiki/wiki/subtleties) \[4 min read\]
 
-A lot of the subtleties of Ethereum. Black hats don't often lurk in the daylight of the obvious, but in the darkness of subtleties where much fewer white hats roam. For example, one of the DoS attacks used “note: there is a difference between zero-balance and nonexistent!”
+An explanation of the subtleties of Ethereum. Black hats don't often lurk in the daylight of the obvious, but in the darkness of subtleties where much fewer white hats roam. For example, one of the DoS attacks used “note: there is a difference between zero-balance and nonexistent!”
 
-###### [Smart Contract Best Practices](https://github.com/ConsenSys/smart-contract-best-practices) \[20 minute read\]
+###### [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) \[20 minute read\]
 
-Amazing Best Practices guide compiled by ConsenSys that provide numerous security tips, overviews of known attacks, and general engineering techniques.
+Smart Best Practices guide compiled by ConsenSys Diligence. This guide provides numerous security tips, overviews of known attacks, and general engineering techniques.
 
 ###### [Smart Contract Security Tips](https://www.youtube.com/watch?v=_pqDAMRwkzY) \[16 min video\]
 
