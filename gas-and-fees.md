@@ -6,7 +6,7 @@ In Ethereum, the concept of "turing-completeness" is actually a bit of a red her
 
 This video by Joseph Chow of Consensys explains the concept of Gas in Ethereum and why Gas fee markets exist.
 
-###### [Ethereum Gas, Fuel, and Fees Article](/h ttps://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc) \[9 min read\]
+###### [Ethereum Gas, Fuel, and Fees Article](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc) \[9 min read\]
 
 This article summarizes the above video.  And this time, the "summarization" maps quite well because it was also written by Joseph Chow!
 
