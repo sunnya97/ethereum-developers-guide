@@ -1,8 +1,8 @@
 ## Application Binary Interface \(ABI\)
 
-The ABI is the interface by which you call functions in a contract and get data back.
+The ABI is the interface with which you call functions in a contract and get data back.
 
-###### [What is an ABI?](/h ttps://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts) \[2 min read\]
+###### [What is an ABI?](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts) \[2 min read\]
 
 This stack overflow post gives some insight into what the ABI is, analogizing it to an API.
 
