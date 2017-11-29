@@ -2,7 +2,7 @@
 
 ###### [Overview of Contract Structure](https://solidity.readthedocs.io/en/develop/structure-of-a-contract.html) \[2 min read\]
 
-This short section of the Solidity docs gives a quick recap of the major building blocks we've seen so far, including an extra one called events, which we will be going into soon.
+This short section of the Solidity docs gives a quick recap of the major building blocks we've seen so far, including an extra one called events, which we will be going over soon.
 
 ###### [Restricting Access](http://solidity.readthedocs.io/en/develop/layout-of-source-files.html#importing-other-source-files) \[2 min read\]
 
