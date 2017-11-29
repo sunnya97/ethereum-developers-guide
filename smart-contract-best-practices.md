@@ -34,7 +34,7 @@ This article by Lorenz Breidenbach, Phil Daian, Ari Juels, and Emin Gün Sirer e
 
 ###### [Underhanded Naming](https://www.reddit.com/r/ethereum/comments/4e5y30/live_example_of_underhanded_solidity_coding_on/) \[2 min read\]
 
-In this reddit post, Vitalik Buterin exposes an underhanded malicious code that tried to steal money by naming variables slightly different things that might be missed by a quick reader.
+In this reddit post, Vitalik Buterin exposes underhanded code \(code that is written to appear simple, but contains a hidden bug or exploit\) that tried to steal money by naming variables slightly different things so as to be missed by a quick reader.
 
 ###### [Breaking RNG](http://martin.swende.se/blog/Breaking_the_house.html) \[10 min read\]
 
