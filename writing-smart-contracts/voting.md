@@ -1,6 +1,6 @@
 ## Voting and DAOs
 
-One of the most valuable use cases of blockchain often cited is for voting and decentralized autonomous organizations.  Voting is more complicated than it seems at first glance, due to the transparency of the blockchain and the lack of identity on the blockchain.  In this section, we will discuss voting on the blockchain and build a token-based voting system, as well as creating a contract for a Decentalized Autonomous Organization \(DAO\).
+One of the most valuable use cases of blockchain often cited is for voting and Decentralized Autonomous Organizations \(DAOs\).  Voting is more complicated than it seems at first glance, due to the transparency of the blockchain and the lack of identity on the blockchain.  In this section, we will discuss voting on the blockchain and build a token-based voting system, as well as creating a contract for a DAO.
 
 ###### [Building up Voting Protocols](https://blog.colony.io/towards-better-ethereum-voting-protocols-7e54cb5a0119) \[13 min read\]
 
