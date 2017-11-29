@@ -16,7 +16,7 @@ While Jordan's video showed us how to send generic raw transactions, we will hea
 
 This is an example of a transaction being sent to a contract account in order to invoke a function.  In the "Input Data" section, we can see that a "transfer" section is being called with two arguments, an address and a value.  It happens that this is a specific type of smart contract called a Token, which we will cover later in this guide.  Once again, please look around to see what you can learn.
 
-###### [Ethereum Whitepaper: Messages, Transaction, and State Transition Function](/h ttps://github.com/ethereum/wiki/wiki/White-Paper#messages-and-transactions) \[10 min read\]
+###### [Ethereum Whitepaper: Messages, Transactions, and State Transition Function](/h ttps://github.com/ethereum/wiki/wiki/White-Paper#messages-and-transactions) \[10 min read\]
 
 We will return to our handy dandy Ethereum whitepaper and read the three sections titled:  "Messages and Transactions", "Messages", and "Ethereum State Transition Function".  In this, we now see how transactions with account states allow Ethereum to now act as a general computation state transition machine.
 
