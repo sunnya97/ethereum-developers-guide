@@ -38,7 +38,5 @@ In this reddit post, Vitalik Buterin exposes underhanded code \(code that is wri
 
 ###### [Breaking RNG](http://martin.swende.se/blog/Breaking_the_house.html) \[10 min read\]
 
-This article by Martin Swende gives an account of his attempt the random generation of a roulette smart contract, and eventually being beaten to it.
-
-[http://www.kingoftheether.com/postmortem.html](http://www.kingoftheether.com/postmortem.html)
+This article by Martin Swende gives an account of his attempt to crack the pseudo-random generation of a roulette smart contract, and eventually being beaten to it.
 
