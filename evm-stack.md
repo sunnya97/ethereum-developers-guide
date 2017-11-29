@@ -6,7 +6,7 @@ Ethereum contracts are written in a low-level, stack-based bytecode that is exec
 
 Returning again to the whitepaper, we will now read the section titled "Code Execution", which gives some basic details on the EVM and its bytecode.
 
-###### [EVM Guide](https:/github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md) \[20 min read\]
+###### [EVM Guide](https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md) \[20 min read\]
 
 This guide written by Ethan Buchman at CoinCulture provides a deep dive into understanding the EVM in depth.  It is highly suggested to read the entire thing.
 
