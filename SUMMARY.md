@@ -35,7 +35,7 @@
   * [Inter-Contract Execution](dev-environment-i/inter-contract-execution.md)
   * [Tokens](tokens.md)
   * [Voting and DAOs](writing-smart-contracts/voting.md)
-  * [Other Uses of Commit Reveal](writing-smart-contracts/other-uses-of-commit-reveal.md)
+  * [Other Uses of Commit-Reveal](writing-smart-contracts/other-uses-of-commit-reveal.md)
   * [Libraries and EthPM](using-libraries.md)
 * [Smart Contract Pitfalls, Testing, and Bug Finding](smart-contract-pitfalls-testing-and-bug-finding.md)
   * [Writing Tests](writing-tests.md)
