@@ -1,6 +1,6 @@
 ## Voting and DAOs
 
-One of the most valuable use cases of blockchain often cited is for voting and decentralized autonomous organizations.  However, voting is more complicated than it seems at first glance due to the transparency of the blockchain and the lack of identity on the blockchain.  In this section, we will discuss voting on the blockchain and build a token-based voting system, as well as creating a contract for a DAO.
+One of the most valuable use cases of blockchain often cited is for voting and decentralized autonomous organizations.  Voting is more complicated than it seems at first glance, due to the transparency of the blockchain and the lack of identity on the blockchain.  In this section, we will discuss voting on the blockchain and build a token-based voting system, as well as creating a contract for a Decentalized Autonomous Organization \(DAO\).
 
 ###### [Building up Voting Protocols](https://blog.colony.io/towards-better-ethereum-voting-protocols-7e54cb5a0119) \[13 min read\]
 
@@ -20,5 +20,5 @@ This is part 3 of this series.
 
 ###### [Creating a DAO](https://docs.google.com/document/d/13gpr8ddfyQnYiHDNr9mIDOwNzhAp5FJ9sziXAA9dOrs/edit) \[Exercise\]
 
-In this project designed by the UPenn Blockchain Club, you will be tasked with implementing a Decentralized Autonomous Organization \(DAO\).  You will combine concepts from the multi-signature wallet project, the token-weighted voting project, as well as some new concepts that might require some research in order to create a fully function DAO contract complete with buy in periods and vote proposals.
+In this project designed by the UPenn Blockchain Club, you will be tasked with implementing a DAO.  You will combine concepts from the multi-signature wallet project, the token-weighted voting project, as well as some new concepts that might require some research in order to create a fully function DAO contract complete with buy in periods and vote proposals.
 
