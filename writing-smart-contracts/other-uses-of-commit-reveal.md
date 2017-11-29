@@ -1,6 +1,6 @@
-## Other Uses of Commit Reveal
+## Other Uses of Commit-Reveal
 
-The commit reveal structure is a very valuable construct that appears in many types of smart contracts beyond just voting.  In this section we will show a few more examples of commit-reveal being used in smart contracts.
+The commit-reveal structure is a very valuable construct that appears in many types of smart contracts beyond just voting.  In this section we will show a few more examples of commit-reveal being used in smart contracts.
 
 ###### [RanDAO](https://github.com/randao/randao) \[4 min read\]
 
