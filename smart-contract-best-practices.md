@@ -18,7 +18,7 @@ Occasionally, a nightly version of the Solidity compiler itself may contain bugs
 
 ###### [Contract Safety Checklist](https://www.kingoftheether.com/contract-safety-checklist.html) \[8 min read\]
 
-This list compiled by [King of the Ether](https://www.kingoftheether.com/thrones/kingoftheether/index.html) records some of the most common known bugs and attack vectors found in Ethereum smart contracts.  Read through this list and then in the following resources, as the following articles will explore some of these in greater depth.
+This list compiled by [King of the Ether](https://www.kingoftheether.com/thrones/kingoftheether/index.html) records some of the most common known bugs and attack vectors found in Ethereum smart contracts.  Read through this list and then in the following resources, as the following articles will explore some of these in greater depth. Also, explore the bugs within the King of the Ether app via the [Post-Mortem Investigation](http://www.kingoftheether.com/postmortem.html), which lead to the creation of the Contract Safety Checklist.
 
 ###### [Analysis of TheDAO Exploit](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/) \[4 min read\]
 
