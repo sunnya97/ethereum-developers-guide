@@ -4,7 +4,7 @@ One of the most valuable properties of Ethereum is the ability for different con
 
 ###### [Example Inter-Contract Call](https://ethereum.stackexchange.com/questions/1599/basic-example-of-interaction-between-2-contracts) \[Exercise\]
 
-Read this StackOverflow thread to see how to pass in the address of a smart contract into a second smart contract in order to call its functions.  It is suggested you test this out on Remix.
+Read this StackOverflow thread to see how to pass in the address of a smart contract into a second smart contract in order to call its functions.  It is suggested you test this out on [Remix](https://remix.ethereum.org/).
 
 ###### [Interactions Between Contacts](https://dappsforbeginners.wordpress.com/tutorials/interactions-between-contracts/) \[10 min read\]
 
