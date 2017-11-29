@@ -12,7 +12,7 @@ Begin by reading the Ethereum Accounts section of the Ethereum Whitepaper to und
 
 This section of this video by Matt Thomas will further delve into the concept of Accounts in Ethereum explaining the differences between Bitcoin addresses and Ethereum accounts, the distinction between Externally Controlled Accounts and Contract Accounts, and introducing the concept of Account State.
 
-###### [Externally Controlled Accounts vs Contract Accounts](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#) \[3 min read\]
+###### [Externally Controlled Accounts vs Contract Accounts](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/) \[3 min read\]
 
 Read the section titled "What are Accounts?" of Hudson Jameson's article to get a written recap of the distinction between Externally Owned Accounts and Contract Accounts.
 
