@@ -8,5 +8,5 @@ This tutorial will guide you though the process of installing Truffle. From here
 
 ###### [Developing Ethereum Dapps with Truffle and Metamask](https://medium.com/metamask/developing-ethereum-dapps-with-truffle-and-metamask-aa8ad7e363ba) \[Exercise\]
 
-Follow this tutorial from Metamask which will walk you through deploying a new truffle project and then make sure it works correctly by interacting with in through Metamask.
+Follow this tutorial from Metamask which will walk you through deploying a new truffle project and then make sure it works correctly by interacting with it through Metamask.
 
