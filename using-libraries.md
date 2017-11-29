@@ -24,7 +24,7 @@ This article, by Tim Coulter of Truffle, explains the concept behind EthPM, a de
 
 ###### [Using EthPM Packages](https://github.com/ethpm/ethpm-spec) \[10 min read\]
 
-Next, read through the spec of EthPM to learn how to use these packages in your own projects.
+Next, read through the specification of EthPM to learn how to use these packages in your own projects.
 
 ###### [EthPM with Truffle](http://truffleframework.com/docs/getting_started/packages-ethpm) \[5 min read\]
 
