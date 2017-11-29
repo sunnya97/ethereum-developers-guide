@@ -6,7 +6,7 @@ This short section of the Solidity docs gives a quick recap of the major buildin
 
 ###### [Restricting Access](http://solidity.readthedocs.io/en/develop/layout-of-source-files.html#importing-other-source-files) \[2 min read\]
 
-In this section of the Solidity Docs, we will read about how to use function modifiers that we learned about in the previous section to place restrictions on the execution of a smart contract function.
+In this section of the Solidity Docs, we will read about how to use the function modifiers that we learned about in the previous section to place restrictions on the execution of a smart contract function.
 
 ###### [Contract States](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#) \[2 min read\]
 
