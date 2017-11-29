@@ -6,7 +6,7 @@ There are two types of accounts: regular, public/private key controlled accounts
 
 ###### [Whitepaper: Ethereum Accounts](https://github.com/ethereum/wiki/wiki/White-Paper#ethereum-accounts) \[2 min read\]
 
-Begin by reading the Ethereum Accounts section of the Ethereum Whitepaper to understand the fields each Ethereum account has as well as as what the two types of Ethereum accounts are.
+Begin by reading the Ethereum Accounts section of the Ethereum Whitepaper to understand the fields each Ethereum account has as well as what the two types of Ethereum accounts are.
 
 ###### [Account States](https://www.youtube.com/embed/uOL26c1Qu5U?start=507&end=785&version=3) \[5 min video\]
 
