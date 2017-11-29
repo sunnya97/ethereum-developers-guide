@@ -6,7 +6,7 @@ An explanation of the subtleties of Ethereum. Black hats don't often lurk in the
 
 ###### [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) \[20 minute read\]
 
-Smart Contract Best Practices guide compiled by ConsenSys Diligence. This guide provides numerous security tips, overviews of known attacks, and general engineering techniques.
+Smart Contract Best Practices guide compiled by [ConsenSys Diligence](https://media.consensys.net/introducing-consensys-diligence-cf38f83948c). This guide provides numerous security tips, overviews of known attacks, and general engineering techniques.
 
 ###### [Smart Contract Security Tips](https://www.youtube.com/watch?v=_pqDAMRwkzY) \[16 min video\]
 
