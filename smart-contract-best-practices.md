@@ -12,17 +12,17 @@ Smart Contract Best Practices guide compiled by ConsenSys Diligence. This guide 
 
 In this talk from dev con 2, Joseph Chow of ConsenSys walks us through some common things to avoid when developing and deploying smart contracts, using illustrative examples.
 
-###### [Compiler Bugs](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#) \[3 min read\]
+###### [Compiler Bugs](http://solidity.readthedocs.io/en/develop/bugs.html) \[3 min read\]
 
-Occasionally, a nightly version of the Solidity compiler itself may contain bugs. It is suggested to avoid using any compiler version that is known to be faulty in some way.  This page from the Solidity docs has a list of some of the known compiler bugs.
+Occasionally, a nightly version of the Solidity compiler itself may contain bugs. It is suggested to avoid using any compiler version that is known to be faulty in some way.  This page from the [Solidity docs](http://solidity.readthedocs.io/en/develop/index.html) has a list of some of the known compiler bugs.
 
 ###### [Contract Safety Checklist](https://www.kingoftheether.com/contract-safety-checklist.html) \[8 min read\]
 
-This list compiled by King of the Ether records some of the most common known bugs and attack vectors found in Ethereum smart contracts.  Read through this list and then in the following resources, we will jump in depth into a few of these.
+This list compiled by [King of the Ether](https://www.kingoftheether.com/thrones/kingoftheether/index.html) records some of the most common known bugs and attack vectors found in Ethereum smart contracts.  Read through this list and then in the following resources, as the following articles will explore some of these in greater depth.
 
 ###### [Analysis of TheDAO Exploit](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/) \[4 min read\]
 
-This article by Phil Daian explains the reentrancy attack that affected TheDAO and cost over $150 million USD in great detail.
+This article by Phil Daian explains the reentrancy attack that affected TheDAO and cost over $150 million USD.
 
 ###### [Tx.origin](http://vessenes.com/tx-origin-and-ethereum-oh-my/) \[5 min read\]
 
