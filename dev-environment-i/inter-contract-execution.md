@@ -8,7 +8,7 @@ Read this StackOverflow thread to see how to pass in the address of a smart cont
 
 ###### [Interactions Between Contacts](https://dappsforbeginners.wordpress.com/tutorials/interactions-between-contracts/) \[10 min read\]
 
-In this tutorial from the Dapps for Beginners series, you will practice interacting with a smart contract called MetaCoin through another smart contract.  First, we will make a smart contract that acts as a proxy for calling functions in a Metacoin Contract as in the previous exercise, but we will then make a "Factory contract" that creates new Metacoin smart contracts.  It is suggested you follow along with the tutorial using Remix.
+In this tutorial from the Dapps for Beginners series, you will practice interacting with a smart contract called MetaCoin through another smart contract.  First, we will make a smart contract that acts as a proxy for calling functions in a Metacoin Contract as in the previous exercise. Then we will make a "Factory contract" that creates new Metacoin smart contracts.  It is suggested you follow along with the tutorial using [Remix](https://remix.ethereum.org/).
 
 ###### [CALL, CALLCODE, and DELEGATECALL](https://ethereum.stackexchange.com/questions/3667/difference-between-call-callcode-and-delegatecall) \[4 min read\]
 
