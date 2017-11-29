@@ -12,7 +12,7 @@ In this short article, Piper Merriam demonstrates another potential benefit of u
 
 ###### [Importing other Solidity Files](http://solidity.readthedocs.io/en/develop/layout-of-source-files.html#importing-other-source-files) \[3 min read\]
 
-Jumping back to the Layout of a Solidity Source File section of the Solidity Docs we saw earlier in this tutorial, we will read about how to import Solidity sources files into each other so we don't have a messy single file with all of our contracts in it.
+Jumping back to the [Layout of a Solidity Source File](http://solidity.readthedocs.io/en/develop/layout-of-source-files.html#) section of the [Solidity Docs](http://solidity.readthedocs.io/en/develop/index.html) we saw earlier in this tutorial, we will read about how to import Solidity sources files into each other so we don't have a messy single file with all of our contracts in it.
 
 ###### [ERC190](https://github.com/ethereum/EIPs/issues/190) \[5 min read\]
 
