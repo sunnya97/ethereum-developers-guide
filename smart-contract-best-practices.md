@@ -6,11 +6,11 @@ An explanation of the subtleties of Ethereum. Black hats don't often lurk in the
 
 ###### [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) \[20 minute read\]
 
-Smart Best Practices guide compiled by ConsenSys Diligence. This guide provides numerous security tips, overviews of known attacks, and general engineering techniques.
+Smart Contract Best Practices guide compiled by ConsenSys Diligence. This guide provides numerous security tips, overviews of known attacks, and general engineering techniques.
 
 ###### [Smart Contract Security Tips](https://www.youtube.com/watch?v=_pqDAMRwkzY) \[16 min video\]
 
-Through the use of examples, Joseph Chow of ConsenSyswalks us through some common things to avoid when developing and deploying smart contracts.
+In this talk from dev con 2, Joseph Chow of ConsenSys walks us through some common things to avoid when developing and deploying smart contracts, using illustrative examples.
 
 ###### [Compiler Bugs](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#) \[3 min read\]
 
