@@ -28,7 +28,7 @@ Next, read through the specification of EthPM to learn how to use these packages
 
 ###### [EthPM with Truffle](http://truffleframework.com/docs/getting_started/packages-ethpm) \[5 min read\]
 
-In this section from the Truffle Getting Started docs, read how to use EthPM within the Truffle Framework to install and use packages.
+In this section from the [Truffle Docs](http://truffleframework.com/docs/), read how to use EthPM within the Truffle Framework to install and use packages.
 
 ###### [Dappsys](https://dappsys.readthedocs.io/en/latest/) \[resource\]
 
