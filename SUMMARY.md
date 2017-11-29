@@ -40,7 +40,7 @@
 * [Smart Contract Pitfalls, Testing, and Bug Finding](smart-contract-pitfalls-testing-and-bug-finding.md)
   * [Writing Tests](writing-tests.md)
   * [Common Bugs/Attacks and Best Practices](smart-contract-best-practices.md)
-  * [Using Security Tools](using-security-tools.md)
+  * [Security Tools](using-security-tools.md)
 * [Ethereum and the End User](writing-smart-contracts/ethereum-and-the-end-user.md)
   * [Intro to Web3](intro-to-web3.md)
   * [Front End](front-end.md)
