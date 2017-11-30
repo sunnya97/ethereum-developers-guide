@@ -8,7 +8,7 @@ A brief exercise on building a frontend using tuffle
 
 ###### [Returning to the Pet Shop](http://truffleframework.com/tutorials/pet-shop#creating-a-ui-to-interact-with-our-smart-contract) \[Exercise\]
 
-Picking up where we left off in the Pet Shop Truffle tutorial, we will now build the UI that will allow our users to interact with the smart contract we built.
+Picking up where we left off in the Pet Shop Truffle tutorial in the subsection [Introductory Contracts](https://sunnya97.gitbooks.io/a-beginner-s-guide-to-ethereum-and-dapp-developme/writing-smart-contracts/introductory-contracts.html), we will now build the UI that will allow our users to interact with the smart contract we built.
 
 ###### [The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp in ethereum](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) \[22 min read and Exercise\]
 
