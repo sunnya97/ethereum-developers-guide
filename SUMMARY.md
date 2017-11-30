@@ -44,7 +44,6 @@
 * [Ethereum and the End User](writing-smart-contracts/ethereum-and-the-end-user.md)
   * [Intro to Web3](intro-to-web3.md)
   * [Front End](front-end.md)
-  * [Building Truffle for the Web](building-truffle-for-the-web.md)
 * [Smart Contracts Advanced Topics](smart-contracts-advanced.md)
   * [Ethereum Name Service \(ENS\)](integration-with-ens.md)
   * [Integrating with IPFS](ethereum-+-ipfs.md)
