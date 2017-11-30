@@ -4,9 +4,11 @@ While this guidebook is focused on smart contract development, a large portion o
 
 ###### [Returning to the Pet Shop](http://truffleframework.com/tutorials/pet-shop#creating-a-ui-to-interact-with-our-smart-contract) \[Exercise\]
 
-[http://truffleframework.com/tutorials/pet-shop\#creating-a-ui-to-interact-with-our-smart-contract](http://truffleframework.com/tutorials/pet-shop#creating-a-ui-to-interact-with-our-smart-contract)
+Picking up where we left off in the Truffle tutorial, we will now build the UI that will allow our users to interact with the smart contract we built.
 
 ###### [The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp in ethereum](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) \[22 min read and Exercise\]
+
+###### 
 
 ###### Additional Material
 
