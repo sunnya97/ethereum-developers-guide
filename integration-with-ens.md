@@ -6,9 +6,9 @@ The Ethereum Name Service \(ENS\), analagous to the Domain Name Service \(DNS\),
 
 This Decypher.tv video explains the concept behind ENS, how it works, and how to register a name.
 
-[https://media.consensys.net/decentralized-storage-the-backbone-of-the-third-web-d4bc54e79700](https://media.consensys.net/decentralized-storage-the-backbone-of-the-third-web-d4bc54e79700)
+###### [Building dapps on Ethereum - part 5: Ethereum Name Service and Swarm](https://dickolsson.com/building-dapps-on-ethereum-part-5-ethereum-name-service-swarm/) \[5 min read and Exercise\]
 
-[https://dickolsson.com/building-dapps-on-ethereum-part-5-ethereum-name-service-swarm/](https://dickolsson.com/building-dapps-on-ethereum-part-5-ethereum-name-service-swarm/)
+[https://media.consensys.net/decentralized-storage-the-backbone-of-the-third-web-d4bc54e79700](https://media.consensys.net/decentralized-storage-the-backbone-of-the-third-web-d4bc54e79700)
 
 [http://docs.ens.domains/en/latest/introduction.html](http://docs.ens.domains/en/latest/introduction.html)
 
