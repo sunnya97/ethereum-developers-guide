@@ -2,6 +2,14 @@
 
 While this guidebook is focused on smart contract development, a large portion of successful Dapp development is the front end - the user interface.  In this section, we provide introduction to interacting your smart contracts with a useable frontend, and introduce the resources for front end development.
 
+[https://github.com/ethereum/wiki/wiki/JavaScript-API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+
+[https://github.com/ethereum/wiki/wiki/JSON-RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC)
+
+[https://github.com/ethereum/web3.js](https://github.com/ethereum/web3.js)
+
+[http://web3js.readthedocs.io/en/1.0/](http://web3js.readthedocs.io/en/1.0/)
+
 ###### [Returning to the Pet Shop](http://truffleframework.com/tutorials/pet-shop#creating-a-ui-to-interact-with-our-smart-contract) \[Exercise\]
 
 We

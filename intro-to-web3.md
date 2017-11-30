@@ -10,11 +10,5 @@ Jesse Grushack of ConsenSys lays out the problem of users becoming the product f
 
 Luke Hedger from JAAK defines the Web3 stack and introduces a sample project for Web3 developers.
 
-[https://github.com/ethereum/wiki/wiki/JavaScript-API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 
-[https://github.com/ethereum/wiki/wiki/JSON-RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC)
-
-[https://github.com/ethereum/web3.js](https://github.com/ethereum/web3.js)
-
-[http://web3js.readthedocs.io/en/1.0/](http://web3js.readthedocs.io/en/1.0/)
 
