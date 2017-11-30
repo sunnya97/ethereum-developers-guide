@@ -2,7 +2,9 @@
 
 While this guidebook is focused on smart contract development, a large portion of successful Dapp development is the front end - the user interface.  In this section, we provide introduction to interacting your smart contracts with a useable frontend, and introduce the resources for front end development.
 
-[https://github.com/ethereum/wiki/wiki/JavaScript-API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+###### [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API) \[Documentation\]
+
+Documentation on setting up web3.js and the reference material for using the JavaScript API 
 
 [https://github.com/ethereum/wiki/wiki/JSON-RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC)
 
