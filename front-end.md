@@ -8,7 +8,7 @@ Picking up where we left off in the Truffle tutorial, we will now build the UI t
 
 ###### [The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp in ethereum](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) \[22 min read and Exercise\]
 
-###### 
+To continue to build our skills, we will work our way through this tutorial to build a dapp that allows an end user "bet" via a casino-game application.  
 
 ###### Additional Material
 
@@ -20,9 +20,9 @@ Documentation on setting up web3.js and the reference material for using the Jav
 
 Documentation on the JSON Remote Procedure Call \(RPC\) protocol.
 
-[http://web3js.readthedocs.io/en/1.0/](http://web3js.readthedocs.io/en/1.0/)
+###### [Web3.js 1.0](http://web3js.readthedocs.io/en/1.0/#) \[Documentation\]
 
-###### 
+Documentation for the currently unreleased web3.js 1.0 collection of libraries
 
 ###### 
 
