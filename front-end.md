@@ -1,6 +1,6 @@
 ## Front End
 
-While this guidebook is focused on smart contract development, a large portion of successful Dapps is the front end and user interface.  In this section, we provide introduction to interacting your smart contracts with a useable frontend, and introduce the resources for front end development.
+While this guidebook is focused on smart contract development, a large portion of successful Dapp development is the front end - the user interface.  In this section, we provide introduction to interacting your smart contracts with a useable frontend, and introduce the resources for front end development.
 
 ###### [Returning to the Pet Shop](http://truffleframework.com/tutorials/pet-shop#creating-a-ui-to-interact-with-our-smart-contract) \[Exercise\]
 
