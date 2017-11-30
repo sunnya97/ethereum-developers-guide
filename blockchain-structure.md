@@ -6,7 +6,7 @@ Not all blockchains are created the same. However, there are many characteristic
 
 ###### [Putting it all together](http://chimera.labs.oreilly.com/books/1234000001802/ch07.html) \[20 min read\]
 
-This chapter from Andreas Antonopoulos's textbook Mastering Bitcoin puts together the concepts we've learned so far and shows how these cryptographic primitives are put together in interesting data structures to create what we know as a blockchain.
+This chapter from Andreas Antonopoulos's textbook, _Mastering Bitcoin_, puts together the concepts we've learned so far and shows how these cryptographic primitives are put together in interesting data structures to create what we know as a blockchain.
 
 ###### [Ethereum Whitepaper: Introduction to Bitcoin and Existing Concepts](https://github.com/ethereum/wiki/wiki/White-Paper#introduction-to-bitcoin-and-existing-concepts) \[20 min read\]
 
