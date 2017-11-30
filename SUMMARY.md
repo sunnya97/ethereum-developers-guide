@@ -46,7 +46,7 @@
   * [Front End](front-end.md)
 * [Smart Contracts Advanced Topics](smart-contracts-advanced.md)
   * [Ethereum Name Service](integration-with-ens.md)
-  * [Integrating with the InterPlanetary File System](ethereum-+-ipfs.md)
+  * [Decentralized Storage](ethereum-+-ipfs.md)
   * [Ethereum Alarm Clock](ethereum-alarm-clock.md)
   * [Upgradable Contracts](upgradable-contracts.md)
 * [\(Optional\) LLL](optional-lll.md)
