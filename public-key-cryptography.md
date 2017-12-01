@@ -18,11 +18,5 @@ In this video from Khan Academy, Zulfikar Ramzan goes through an example of how 
 
 This video from DecypherTV gives a great demo of how public-private key pairs work in the Ethereum blockchain.  Using tools like Web3, EthereumJS, and eth3r.co, Jordan Leigh shows the fundamentals of key generation and even a little bit of an introduction to using Etherscan.
 
-Removed:
 
-[https://media.consensys.net/guide-an-introduction-to-encryption-9afd17f5da6d](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#)
-
-[https://www.youtube.com/watch?v=Us\_Og3JeXiI](https://www.youtube.com/watch?v=Us_Og3JeXiI)
-
-[https://media.consensys.net/real-virtuality-the-birth-of-public-key-encryption-8585ce1b0386](https://www.gitbook.com/book/sunnya97/a-beginner-s-guide-to-ethereum-and-dapp-developme/edit#)
 
