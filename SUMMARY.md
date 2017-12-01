@@ -48,5 +48,4 @@
   * [Ethereum Name Service](integration-with-ens.md)
   * [Decentralized Storage](ethereum-+-ipfs.md)
   * [Upgradable Contracts](upgradable-contracts.md)
-* [\(Optional\) LLL](optional-lll.md)
 
