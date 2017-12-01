@@ -1,6 +1,6 @@
 ## Events
 
-Events are signals dispatched by smart contracts so that Dapps, or anything connected to Ethereum JSON-RPC API, can listen for something that has happened on the blockchain, and then act accordingly. These events are then recorded in logs.
+Events are signals dispatched by smart contracts so that dapps, or anything connected to Ethereum JSON-RPC API, can listen for something that has happened on the blockchain, and then act accordingly. These events are then recorded in logs.
 
 ###### [Technical Introduction to Events and Logs](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e) \[5 min read\]
 
