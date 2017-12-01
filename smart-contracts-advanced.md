@@ -1,6 +1,4 @@
 ## Smart Contracts Advanced Topics
 
-We have gone through the basics of creating a dApp. In the following subsections, we will cover advanced features that add functionality to dApps or take advantage of existing dApps.
-
-
+We have gone through the basics of creating a dapp. In the following subsections, we will cover advanced features that add functionality to dapps or take advantage of existing dapps.
 
