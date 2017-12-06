@@ -12,5 +12,5 @@ This section of the Solidity docs shows some examples of using logs from both th
 
 ###### [Events Example Contract](https://github.com/ethchange/smart-exchange/blob/master/lib/contracts/SmartExchange.sol) \[Exercise\]
 
-This basic contract uses fires event based on which of its functions are called.  Make sure you understand what is going on.  Bonus, try to see if you can figure out what the contract does!
+This basic contract triggers an event based on which of its functions are called.  Make sure you understand what is going on.  As a bonus, try to see if you can figure out what the contract does!
 
