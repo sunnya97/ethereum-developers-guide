@@ -10,11 +10,11 @@ As a programmer, you have likely heard of trees. Using hashing, we can create tr
 
 This introductory video by AltcoinXP introduces the idea of using a binary Merkle tree to map a large amount of data to a single value and identify when changes occur.  In this video, he demonstrates a Merkle tree using an addition function, rather than the normal hash function, to make it easier to follow.
 
-###### [Ever Wonder How Merkle Trees Work?](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3) - ConsenSys, 2016 \[Resource\]
+###### [Ever Wonder How Merkle Trees Work?](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3) - ConsenSys, 2016 \[Resource\]
 
 In this infographic also by Yunyun Chen of ConsenSys, we replace the addition function from the previous video with the hash function normally used.  We also compare the purpose of using a binary tree rather than just hashing all values together at the same time.  Once again, feel free to hang up the beautiful graphic on your wall!
 
-###### [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/) \[9 min read\]
+###### [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/) - Ethereum Blog, 2015 \[9 min read\]
 
 This article by Vitalik Buterin, co-founder of Ethereum, shows how the blockchains incorporate Merkle trees into their structure.  He then also shows the differences in the models that the Ethereum blockchain uses as compared to the Bitcoin blockchain, especially as it relates to Ethereum's state concept.
 
