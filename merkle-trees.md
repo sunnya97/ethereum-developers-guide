@@ -6,7 +6,7 @@ As a programmer, you have likely heard of trees. Using hashing, we can create tr
 
 #### Merkle Trees
 
-###### [Video Introduction to Binary Merkle Trees](https://www.youtube.com/watch?v=MkaiDK_Eido) \[4 min video\]
+###### [Random Crypto-Currency Concept \#1 - Merkle Trees](https://www.youtube.com/watch?v=MkaiDK_Eido) - AltCoinXP, 2017 \[4 min video\]
 
 This introductory video by AltcoinXP introduces the idea of using a binary Merkle tree to map a large amount of data to a single value and identify when changes occur.  In this video, he demonstrates a Merkle tree using an addition function, rather than the normal hash function, to make it easier to follow.
 
