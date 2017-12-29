@@ -24,7 +24,7 @@ This article by Vitalik Buterin, co-founder of Ethereum, shows how the blockchai
 
 Near the end of the previous article, Vitalik mentions that Ethereum actually uses a little bit more complicated of a data structure than the binary tree used in normal Merkle trees.  For a deeper explanation of Ethereum's specific Merkle tree structure, read this section of the Ethereum wiki.
 
-###### [Patricia Trees Breakdown](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/) \[30 min tutorial\]
+###### [Understanding the ethereum trie](https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/) - Ethan Buchman, 2014 \[30 min tutorial\]
 
 In this walkthrough by Ethan Buchman, we walk through a deep dive of exploring Ethereum Patricia trees through code.  Note: this walkthrough assumes familiarity with Python programming.
 
