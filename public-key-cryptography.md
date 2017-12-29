@@ -6,9 +6,9 @@ Now that we understand hash functions, we will explore the second fundamental cr
 
 This quick video clip from Blockchain at Berkeley explains the value of why we need public and private keys on the blockchain.  It creates an analogy between the public and private key pair of a cryptographic identity to an email address and password pair.  It also gives a sense of scale to the magnitude of the number of public keys.
 
-###### [Why do you need public-private key cryptography on the blockchain?](https://blog.wetrust.io/why-do-i-need-a-public-and-private-key-on-the-blockchain-c2ea74a69e76) \[3 min read\]
+###### [Why Do I Need Public-Private Key Cryptography on the Blockchain?](https://blog.wetrust.io/why-do-i-need-a-public-and-private-key-on-the-blockchain-c2ea74a69e76) \[3 min read\]
 
-This article by WeTrust summarizes the previous video in text form.
+This article by Leon Di of WeTrust summarizes the previous video in text form.
 
 ###### [Digital Signatures](https://www.youtube.com/watch?v=Aq3a-_O2NcI&feature=youtu.be) \[10 min video\]
 
