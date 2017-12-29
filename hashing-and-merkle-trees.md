@@ -14,7 +14,7 @@ This article by ConsenSys delves further into the ideas behind hashing, providin
 
 Up until now, we've been discussing hash functions in only semi-formal terms.  This video by Blockchain at Berkeley explores the formal properties of hashes in terms of _preimage resistance_.  Furthermore, it shows these properties in an interesting use case of a commitment scheme, in using hash functions to fairly play a guessing game over the internet.
 
-###### [Hashing Inforgraphic](https://media.consensys.net/guide-hashing-33dc0467c126) \[Resource\]
+###### [Hashing Infographic](https://media.consensys.net/guide-hashing-33dc0467c126) \[Resource\]
 
 This inforgraphic by Yunyun Chen of ConsenSys is a nice easy way to remember the two main properties of a hash function.  Just take a quick glance at it.  If you're really loving hash functions so far, maybe print it out and hang it up on your wall :\)
 
