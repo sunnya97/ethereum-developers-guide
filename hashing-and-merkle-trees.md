@@ -16,7 +16,7 @@ Up until now, we've been discussing hash functions in only semi-formal terms.  T
 
 ###### [Guide: Hashing](https://media.consensys.net/guide-hashing-33dc0467c126) - ConsenSys, 2016 \[Resource\]
 
-This inforgraphic by Yunyun Chen of ConsenSys is a nice easy way to remember the two main properties of a hash function.  Just take a quick glance at it.  If you're really loving hash functions so far, maybe print it out and hang it up on your wall.
+This infographic by Yunyun Chen of ConsenSys is a nice easy way to remember the two main properties of a hash function.  Just take a quick glance at it.  If you're really loving hash functions so far, maybe print it out and hang it up on your wall.
 
 #### 
 
