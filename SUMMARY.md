@@ -7,7 +7,7 @@
 * [Blockchain Primitives](ethereum-technicals.md)
   * [Hashing](hashing-and-merkle-trees.md)
   * [Merkle Trees](merkle-trees.md)
-  * [Public Key Cryptography](public-key-cryptography.md)
+  * [Public-Private Key Cryptography](public-key-cryptography.md)
   * [Blockchain Structure](blockchain-structure.md)
 * [Ethereum Basics](ethereum-basics.md)
   * [Ethereum Structure](ethereum-structure.md)
