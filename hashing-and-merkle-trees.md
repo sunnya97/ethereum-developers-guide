@@ -6,7 +6,7 @@ All blockchain technology relies on hashing. In this section, we will explore wh
 
 Begin by reading this short introduction to hash functions written by Sean Au on Decentralize Today.  This article will provide a basic model by which to think about hashes, which will be expanded upon by further articles.
 
-###### [Blockchain Underpinnings: Hashing \[8 min read\]](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b)
+###### [Blockchain Underpinnings: Hashing](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b) - \[8 min read\]
 
 This article by ConsenSys delves further into the ideas behind hashing, providing an interesting analogy comparing bits to an array of light bulbs.  It goes on to explore how hash functions relate to blockchains and why they are important.
 
