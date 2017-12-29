@@ -10,7 +10,7 @@ As a programmer, you have likely heard of trees. Using hashing, we can create tr
 
 This introductory video by AltcoinXP introduces the idea of using a binary Merkle tree to map a large amount of data to a single value and identify when changes occur.  In this video, he demonstrates a Merkle tree using an addition function, rather than the normal hash function, to make it easier to follow.
 
-###### [Merkle Trees Infographic](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3) \[Resource\]
+###### [Ever Wonder How Merkle Trees Work?](https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3) - ConsenSys, 2016 \[Resource\]
 
 In this infographic also by Yunyun Chen of ConsenSys, we replace the addition function from the previous video with the hash function normally used.  We also compare the purpose of using a binary tree rather than just hashing all values together at the same time.  Once again, feel free to hang up the beautiful graphic on your wall!
 
