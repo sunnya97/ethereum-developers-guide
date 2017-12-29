@@ -10,7 +10,7 @@ Begin by reading this short introduction to hash functions written by Sean Au on
 
 This article by ConsenSys delves further into the ideas behind hashing, providing an interesting analogy comparing bits to an array of light bulbs.  It goes on to explore how hash functions relate to blockchains and why they are important.
 
-###### [**Formal Properties of Hash Functions**](https://www.youtube.com/embed/pCgD3RgXHEE?start=2433&end=3156&version=3)** \[12 min video\]**
+###### [**Formal Properties of Hash Functions**](https://www.youtube.com/embed/pCgD3RgXHEE?start=2433&end=3156&version=3)** - Blockchain at Berkeley, 2017 \[12 min video\]**
 
 Up until now, we've been discussing hash functions in only semi-formal terms.  This video by Blockchain at Berkeley explores the formal properties of hashes in terms of _preimage resistance_.  Furthermore, it shows these properties in an interesting use case of a commitment scheme, in using hash functions to fairly play a guessing game over the internet.
 
