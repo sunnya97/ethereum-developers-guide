@@ -12,9 +12,7 @@ This video given by Dan Finlay of MetaMask will give a recap of [Blockchain Stru
 
 This article by Sebastián Peyrott of Auth0 delves deeper into the functionality of Ethereum and what its Turing-complete smart contract VM allows for.
 
-###### [\(Optional\) GHOST Protocol](https://github.com/ethereum/wiki/wiki/White-Paper#modified-ghost-implementation) \[4 min read\]
 
-The Ethereum blockchain actually changes the traditional structure of blockchains in a major way by implementing a modified version of the GHOST protocol.  Read this short excerpt from the Ethereum whitepaper to understand how it does this.
 
 ###### [\(Optional\) Recursive Length Prefix](https://github.com/ethereum/wiki/wiki/RLP) \[2 min read\]
 
