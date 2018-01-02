@@ -8,9 +8,9 @@ Ethereum is a unique blockchain compared to many of those that came before it. I
 
 This video given by Dan Finlay of MetaMask will give a recap of [Blockchain Structure](/blockchain-structure.md) and then at a high level introduce the concept of smart contracts and some of the features of Ethereum.
 
-###### [Ethereum and Smart Contracts](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/) \[40 min read\]
+###### [An Introduction to Ethereum and Smart Contracts: a Programmable Blockchain](https://auth0.com/blog/an-introduction-to-ethereum-and-smart-contracts-part-2/) - Auth0, 2017 \[40 min read\]
 
-This article by Auth0 delves deeper into the functionality of Ethereum and what its Turing-complete smart contract VM allows for.
+This article by Sebastián Peyrott of Auth0 delves deeper into the functionality of Ethereum and what its Turing-complete smart contract VM allows for.
 
 ###### [\(Optional\) GHOST Protocol](https://github.com/ethereum/wiki/wiki/White-Paper#modified-ghost-implementation) \[4 min read\]
 
