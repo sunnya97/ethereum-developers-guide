@@ -4,7 +4,7 @@ Assumes: [Ethereum Basics](/ethereum-basics.md)
 
 There are two types of accounts: regular, public/private key controlled accounts, and smart contracts. Here, we will explore both types of accounts - how they work and what they do.
 
-###### [Whitepaper: Ethereum Accounts](https://github.com/ethereum/wiki/wiki/White-Paper#ethereum-accounts) \[2 min read\]
+###### [Whitepaper: Ethereum Accounts](https://github.com/ethereum/wiki/wiki/White-Paper#ethereum-accounts) - Ethereum Wiki \[2 min read\]
 
 Begin by reading the Ethereum Accounts section of the Ethereum Whitepaper to understand the fields each Ethereum account has as well as what the two types of Ethereum accounts are.
 
