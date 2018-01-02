@@ -14,7 +14,7 @@ This article by Sebastián Peyrott of Auth0 delves deeper into the functionality
 
 ## Optional Content: {#optional-content}
 
-###### [Recursive Length Prefix](https://github.com/ethereum/wiki/wiki/RLP) \[2 min read\]
+###### [RLP: Recursive Length Prefix](https://github.com/ethereum/wiki/wiki/RLP)  - Ethereum Wiki, 2014 \[2 min read\]
 
 In Ethereum, Recursive Length Prefix \(RLP\) is the primary encoding method for serializing objects in Ethereum.  Read this section from the Ethereum wiki to learn about how RLP encoding works.
 
