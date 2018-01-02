@@ -12,9 +12,9 @@ This video given by Dan Finlay of MetaMask will give a recap of [Blockchain Stru
 
 This article by Sebastián Peyrott of Auth0 delves deeper into the functionality of Ethereum and what its Turing-complete smart contract VM allows for.
 
+## Optional Content: {#optional-content}
 
-
-###### [\(Optional\) Recursive Length Prefix](https://github.com/ethereum/wiki/wiki/RLP) \[2 min read\]
+###### [Recursive Length Prefix](https://github.com/ethereum/wiki/wiki/RLP) \[2 min read\]
 
 In Ethereum, Recursive Length Prefix \(RLP\) is the primary encoding method for serializing objects in Ethereum.  Read this section from the Ethereum wiki to learn about how RLP encoding works.
 
