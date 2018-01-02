@@ -8,7 +8,7 @@ There are two types of accounts: regular, public/private key controlled accounts
 
 Begin by reading the Ethereum Accounts section of the Ethereum Whitepaper to understand the fields each Ethereum account has as well as what the two types of Ethereum accounts are.
 
-###### [Account States](https://www.youtube.com/embed/uOL26c1Qu5U?start=507&end=785&version=3) \[5 min video\]
+###### [Account States](https://www.youtube.com/embed/uOL26c1Qu5U?start=507&end=785&version=3) - Matt Thomas, 2017 \[5 min video\]
 
 This section of this video by Matt Thomas will further delve into the concept of Accounts in Ethereum explaining the differences between Bitcoin addresses and Ethereum accounts, the distinction between Externally Controlled Accounts and Contract Accounts, and introducing the concept of Account State.
 
