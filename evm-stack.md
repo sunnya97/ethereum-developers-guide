@@ -2,7 +2,7 @@
 
 Ethereum contracts are written in a low-level, stack-based bytecode that is executed on the Ethereum virtual machine \(EVM\).  All higher level smart contract programming languages like Solidity compile down to EVM code.  In this section we will take a look at how this bytecode works.
 
-###### [Whitepaper:  Code Execution](https://github.com/ethereum/wiki/wiki/White-Paper#code-execution) \[5 min read\]
+###### [Whitepaper:  Code Execution](https://github.com/ethereum/wiki/wiki/White-Paper#code-execution) - Ethereum Whitepaper, 2014 \[5 min read\]
 
 Returning again to the whitepaper, we will now read the section titled "Code Execution", which gives some basic details on the EVM and its bytecode.
 
