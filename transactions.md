@@ -12,7 +12,7 @@ This is an example of an Ether transfer function, what happens when you send Eth
 
 While Jordan's video showed us how to send generic raw transactions, we will head back once again to Matt Thomas's video to see how to use transactions to interact with smart contracts.
 
-###### [Smart Contract Transaction Example](https://etherscan.io/tx/0x8534d2e4129baa16965f51420b9fa8f87bbdab90ae767095dc6c6fcfe5ce554a) \[Resource\]
+###### [Smart Contract Transaction Example](https://etherscan.io/tx/0x8534d2e4129baa16965f51420b9fa8f87bbdab90ae767095dc6c6fcfe5ce554a) - Etherscan, 2017 \[Resource\]
 
 This is an example of a transaction being sent to a contract account in order to invoke a function.  In the "Input Data" section, we can see that a "transfer" section is being called with two arguments, an address and a value.  It happens that this is a specific type of smart contract called a Token, which we will cover later in this guide.  Once again, please look around to see what you can learn.
 
