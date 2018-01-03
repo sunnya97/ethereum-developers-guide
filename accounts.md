@@ -16,7 +16,7 @@ This section of this video by Matt Thomas will further delve into the concept of
 
 Read the section titled "What are Accounts?" of Hudson Jameson's article to get a written recap of the distinction between Externally Owned Accounts and Contract Accounts.
 
-###### [Contract Accounts](https://www.youtube.com/embed/uOL26c1Qu5U?start=785&end=1024&version=3) \[4 min video\]
+###### [Account States](https://www.youtube.com/embed/uOL26c1Qu5U?start=785&end=1024&version=3) - Matt Thomas, 2017 \[4 min video\]
 
 This next clip in Matt Thomas's video will give us a brief introduction into smart contracts and analogize them to Java classes.
 
