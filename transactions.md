@@ -1,6 +1,6 @@
 ## Transactions
 
-###### [Introduction to Basic Transactions](http://decypher.tv/series/ethereum-development/video/4) \[15 min video\]
+###### [Introduction to Transactions](http://decypher.tv/series/ethereum-development/video/4) - Decypher \[15 min video\]
 
 In this video by Decypher.tv, Jordan Leigh uses his favorite tools, Web3 and EthereumJS, to show how to construct a raw transaction from the very basics.
 
