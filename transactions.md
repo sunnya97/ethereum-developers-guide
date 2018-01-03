@@ -4,7 +4,7 @@
 
 In this video by Decypher.tv, Jordan Leigh uses his favorite tools, Web3 and EthereumJS, to show how to construct a raw transaction from the very basics.
 
-###### [Ether Transfer Transaction Example](https://etherscan.io/tx/0x19c52e17a598e39c18101a75d7754a35b1e858179df420ca52e1146b6f283b0b) \[Resource\]
+###### [Ether Transfer Transaction Example](https://etherscan.io/tx/0x19c52e17a598e39c18101a75d7754a35b1e858179df420ca52e1146b6f283b0b) - Etherscan, 2017 \[Resource\]
 
 This is an example of an Ether transfer function, what happens when you send Ether to another Externally Owned Contract.  Feel free to poke around the Etherscan page of this type of transaction.  Note that the input data of this type of transaction is "0x".
 
