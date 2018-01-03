@@ -8,7 +8,7 @@ In this video by Decypher.tv, Jordan Leigh uses his favorite tools, Web3 and Eth
 
 This is an example of an Ether transfer function, what happens when you send Ether to another Externally Owned Contract.  Feel free to poke around the Etherscan page of this type of transaction.  Note that the input data of this type of transaction is "0x".
 
-###### [Interacting with Smart Contracts](https://www.youtube.com/embed/uOL26c1Qu5U?start=1024&end=1679&version=3) \[11 min video\]
+###### [Interacting with Smart Contracts](https://www.youtube.com/embed/uOL26c1Qu5U?start=1024&end=1679&version=3) - Matt Thomas, 2017 \[11 min video\]
 
 While Jordan's video showed us how to send generic raw transactions, we will head back once again to Matt Thomas's video to see how to use transactions to interact with smart contracts.
 
