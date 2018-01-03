@@ -20,7 +20,7 @@ This is an example of a transaction being sent to a contract account in order to
 
 We will return to our handy dandy Ethereum whitepaper and read the three sections titled:  "Messages and Transactions", "Messages", and "Ethereum State Transition Function".  In this, we now see how transactions with account states allow Ethereum to now act as a general computation state transition machine.
 
-###### [Smart Contract Internal Calls](https://etherscan.io/txsInternal) \[Resource\]
+###### [Smart Contract Internal Calls](https://etherscan.io/txsInternal) - Etherscan \[Resource\]
 
 As we now know, not only can external accounts call smart contracts, but smart contracts can also call other smart contracts.  On this page in Etherscan, we will see a list of all these internal smart contract calls.  Feel free to poke around!
 
