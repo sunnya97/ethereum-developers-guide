@@ -10,7 +10,7 @@ Returning again to the whitepaper, we will now read the section titled "Code Exe
 
 This guide written by Ethan Buchman at CoinCulture provides a deep dive into understanding the EVM in depth.  It is highly suggested to read the entire thing.
 
-###### [OP Code Guide](https://ethereum.stackexchange.com/questions/119/what-opcodes-are-available-for-the-ethereum-evm) \[Resource\]
+###### [What OPCODES Are Available for the Ethereum EVM?](https://ethereum.stackexchange.com/questions/119/what-opcodes-are-available-for-the-ethereum-evm) - Ethereum StackExchange, 2016 \[Resource\]
 
 This StackOverflow page is a handy bookmark to pull up when trying to decypher EVM bytecode and you don't have access to the higher-level language code.
 
