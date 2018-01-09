@@ -2,11 +2,11 @@
 
 In Ethereum, the concept of "turing-completeness" is actually a bit of a red herring.  If the VM were truly turing-complete, it is possible that it may never halt.  For this reason, Ethereum implements something called gas in order to measure the computation required by contract execution, both in order to compensate miners and to provide a bound on code execution.
 
-###### [Ethereum Gas, Fuel, and Fees Video](https://www.youtube.com/watch?v=dd-ajiMl4HY) \[30 min video\]
+###### [Ethereum Gas, Fuel, and Fees Video](https://www.youtube.com/watch?v=dd-ajiMl4HY) - Joseph Chow, 2016 \[30 min video\]
 
 This video by Joseph Chow of Consensys explains the concept of Gas in Ethereum and why Gas fee markets exist.
 
-###### [Ethereum Gas, Fuel, and Fees Article](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc) \[9 min read\]
+###### [Ethereum Gas, Fuel, and Fees Article](https://media.consensys.net/ethereum-gas-fuel-and-fees-3333e17fe1dc) - Joseph Chow, ConsenSys Media, 2016 \[9 min read\]
 
 This article summarizes the above video.  And this time, the "summarization" maps quite well because it was also written by Joseph Chow!
 
