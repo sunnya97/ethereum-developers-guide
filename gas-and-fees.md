@@ -10,7 +10,7 @@ This video by Joseph Chow of Consensys explains the concept of Gas in Ethereum a
 
 This article summarizes the above video.  And this time, the "summarization" maps quite well because it was also written by Joseph Chow!
 
-###### [Block Gas Limit](http://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/#what-is-block-gas-limit) \[4 min read\]
+###### [Block Gas Limit](http://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/#what-is-block-gas-limit) - Hudson Jameson, 2017 \[4 min read\]
 
 From Hudson Jameson's article, read the section titled Block Gas Limit.
 
