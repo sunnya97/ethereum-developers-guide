@@ -14,7 +14,7 @@ This guide written by Ethan Buchman at CoinCulture provides a deep dive into und
 
 This StackOverflow page is a handy bookmark to pull up when trying to decypher EVM bytecode and you don't have access to the higher-level language code.
 
-###### [Precompiled Contracts](https://ethereum.stackexchange.com/questions/440/whats-a-precompiled-contract-and-how-are-they-different-from-native-opcodes) \[3 min read\]
+###### [What's a precompiled contract and how are they different from native opcodes?](https://ethereum.stackexchange.com/questions/440/whats-a-precompiled-contract-and-how-are-they-different-from-native-opcodes) - Ethereum StackExchange, 2016 \[3 min read\]
 
 You may have noticed in the comments section of the OP Code Guide resource, there was talk of "pseudocontracts".  These are actually called "precompiled contracts".  Read more about them in this quick StackOverflow answer.
 
