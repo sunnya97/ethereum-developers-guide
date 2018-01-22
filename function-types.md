@@ -12,7 +12,7 @@ In this section of the Solidity Docs, we will read about how to use the function
 
 Contracts, being a part of the Ethereum system, are also designed to act as state machines.  Contracts can have stages which can each have different behaviors by modifying or restricting functions based on the current stage.
 
-###### [Pragma](http://solidity.readthedocs.io/en/develop/layout-of-source-files.html#version-pragma) \[4 min read\]
+###### [Version Pragma](http://solidity.readthedocs.io/en/develop/layout-of-source-files.html#version-pragma) - Solidity Documentation \[4 min read\]
 
 Read just the top part of this about declaring the compiler version.  We will return to the rest when we get to using libraries.
 
