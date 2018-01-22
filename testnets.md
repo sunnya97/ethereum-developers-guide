@@ -2,7 +2,7 @@
 
 When you are ready to test on a "real network" but are not ready to deploy on the main Ethereum chain, you can use one of the public testnets.  Public testnets are essentially Ethereum networks but with free ETH and poor security \(or non-decentralized security\).
 
-###### [Ropsten to Kovan to Rinkeby](https://www.ethnews.com/ropsten-to-kovan-to-rinkeby-ethereums-testnet-troubles)  - Jim Manning, ETHNews, 2017 \[2 min read\]
+###### [Ropsten to Kovan to Rinkeby: Ethereum's Testnet Troubles](https://www.ethnews.com/ropsten-to-kovan-to-rinkeby-ethereums-testnet-troubles)  - Jim Manning, ETHNews, 2017 \[2 min read\]
 
 Read this article from EthNews to learn about the history of evolution of Ethereum Testnets and how they all differ from each other.
 
