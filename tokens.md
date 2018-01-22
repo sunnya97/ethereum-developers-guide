@@ -6,11 +6,11 @@ Tokens have often been called Ethereum's "killer app".  In this section, we lear
 
 This blog post from ConsenSys gives a great overview as to what tokens are, what they can represent, and why they are useful.
 
-###### [ERC20 Tokens](http://decypher.tv/series/ethereum-development/video/20) \[18 min video\]
+###### [ERC20 Tokens](http://decypher.tv/series/ethereum-development/video/20) - Jordan Leigh, Decypher \[18 min video\]
 
 Now that we understand what tokens are good for, let's learn how to build one.  This video from Decypher.tv walks through making a brand new token from scratch conforming to the ERC20 standard.
 
-###### [ERC223](https://www.youtube.com/watch?v=GS62VNyPVHs) \[16 min video\]
+###### [EIP Breakdown: The ERC 223 Token Standard](https://www.youtube.com/watch?v=GS62VNyPVHs) - Jordan Leigh, Decypher, 2017 \[16 min video\]
 
 While the ERC20 Token standard took off quickly within the Ethereum ecosystem, it was not without flaws.  One of the issues is that when tokens are sent to contract accounts that are not designed to handle them, these tokens are often lost forever.  Dexaran \(a developer\) created an improvement to the Token standard to try to solve this problem.  This video from Decypher TV explains this new token standard, how it works, and how it differs from the ERC20 standard.
 
