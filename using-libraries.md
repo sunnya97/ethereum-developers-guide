@@ -22,11 +22,11 @@ A common standard called ERC190 was created to allow to make it as easy possible
 
 This article, by Tim Coulter of Truffle, explains the concept behind EthPM, a dedicated package manager for Ethereum libraries that conforms to ERC190 standards.
 
-###### [Using EthPM Packages](https://github.com/ethpm/ethpm-spec) \[10 min read\]
+###### [EVM Smart Contract Packaging Specification](https://github.com/ethpm/ethpm-spec/blob/master/README.md) - EthPM GitHub, 2016 \[10 min read\]
 
 Next, read through the specification of EthPM to learn how to use these packages in your own projects.
 
-###### [EthPM with Truffle](http://truffleframework.com/docs/getting_started/packages-ethpm) \[5 min read\]
+###### [Package Management via EthPM](http://truffleframework.com/docs/getting_started/packages-ethpm) - Truffle Documentation \[5 min read\]
 
 In this section from the [Truffle Docs](http://truffleframework.com/docs/), read how to use EthPM within the Truffle Framework to install and use packages.
 
