@@ -28,7 +28,7 @@ This article by Phil Daian explains the reentrancy attack that affected the DAO 
 
 Often times, contracts mistakingly use the tx.origin to test for who is calling a function, when they mean to use msg.sender.  This article by Peter Vessenes explains why this is dangerous and can, and has, lead to malicious behavior.
 
-###### [Parity MultiSig Bug](http://hackingdistributed.com/2017/07/22/deep-dive-parity-bug/) \[7 min read\]
+###### [An In-Depth Look at the Parity MultiSig Bug](http://hackingdistributed.com/2017/07/22/deep-dive-parity-bug/) - Lorenz Breidenbach, Phil Daian, Ari Juels, and Emin Gün Sirer, 'Hacking, Distributed', 2017 \[7 min read\]
 
 This article by Lorenz Breidenbach, Phil Daian, Ari Juels, and Emin Gün Sirer explains the exploit that affected allowed hackers \(combination of blackhat and whitehat\) to drain over $200 million USD from Parity Multisignature Wallets v1.5 and above.
 
