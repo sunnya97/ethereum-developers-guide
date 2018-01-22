@@ -2,9 +2,9 @@
 
 While this guidebook is focused on smart contract development, a large portion of successful dapp development is the front end - the user interface.  In this section, we provide introduction to interacting your smart contracts with a useable frontend, and introduce the resources for front end development.
 
-###### [Building and Testing a Frontend App with Truffle 3.0](http://truffleframework.com/tutorials/building-testing-frontend-app-truffle-3) \[Exercise\]
+###### [Building and Testing a Frontend App with Truffle](http://truffleframework.com/tutorials/building-testing-frontend-app-truffle-3) - Truffle Tutorials \[Exercise\]
 
-A brief exercise on building a frontend using tuffle
+A brief exercise on building a frontend using Truffle
 
 ###### [Returning to the Pet Shop](http://truffleframework.com/tutorials/pet-shop#creating-a-ui-to-interact-with-our-smart-contract) \[Exercise\]
 
