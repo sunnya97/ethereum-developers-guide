@@ -6,7 +6,7 @@ When developing decentralized applications, it often doesn't make sense for ever
 
 This article from Jorge Izquierdo of Aragon provides a comprehensive review on how to develop more modular, reusable and elegant smart contract systems on top of the Ethereum Virtual Machine by using libraries.
 
-###### [Gas Savings with Libraries](http://blog.ethereum-alarm-clock.com/blog/2015/10/25/one-reason-to-start-using-libraries) \[3 min read\]
+###### [One reason to start using Solidity Libraries](http://blog.ethereum-alarm-clock.com/blog/2015/10/25/one-reason-to-start-using-libraries) - Piper Merriam, Ethereum Alarm Clock, 2015 \[3 min read\]
 
 In this short article, Piper Merriam demonstrates another potential benefit of using libraries, that for contracts that are not called often, they can potentially be more gas efficient due to need to deploy less code on the chain.
 
