@@ -4,7 +4,7 @@
 
 This short section of the Solidity docs gives a quick recap of the major building blocks we've seen so far, including an extra one called events, which we will be going over soon.
 
-###### [Restricting Access](http://solidity.readthedocs.io/en/develop/common-patterns.html#restricting-access) \[2 min read\]
+###### [Restricting Access](http://solidity.readthedocs.io/en/develop/common-patterns.html#restricting-access) - Solidity Documentation \[2 min read\]
 
 In this section of the Solidity Docs, we will read about how to use the function modifiers that we learned about in the previous section to place restrictions on the execution of a smart contract function.
 
