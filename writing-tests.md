@@ -14,7 +14,7 @@ This section describes how Truffle uses the Mocha framework to allow developers 
 
 If at this point you are in love with Solidity \(as you should be\), and want to write your units tests in it too, Truffle offers support to do this as well.  This is extremely useful because you can test how smart contracts will interact with each other instead of just with Web3.
 
-###### [Catching Throws](http://truffleframework.com/tutorials/testing-for-throws-in-solidity-tests) \[5 min read\]
+###### [Testing for Throws in Truffle Solidity Tests](http://truffleframework.com/tutorials/testing-for-throws-in-solidity-tests) - Simon de La Rouviere, Truffle Tutorials \[5 min read\]
 
 This tutorial from Truffle shows how to use test for throws within smart contract execution.
 
