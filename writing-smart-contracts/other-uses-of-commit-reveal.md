@@ -6,7 +6,7 @@ The commit-reveal commitment scheme is a very valuable construct that appears in
 
 One of the biggest open problems in distributed systems is how to create deterministic ungameable random numbers.  This random number generation \(RNG\) is incredibly useful for a multitude of on-chain applications ranging from gambling to .  Although, not perfect due to a process called griefing, a commit-reveal scheme for RNG is often sufficient for most use cases.  RanDAO is an on-chain system that outputs fair random numbers and uses incentivize schemes to minimize griefing.  Read through the ReadMe on it's Github page as well as randao.sol in the contracts folder to see if you can work out how the contract works.
 
-###### [Blind Auction](http://solidity.readthedocs.io/en/develop/solidity-by-example.html#blind-auction) \[10 min read\]
+###### [Blind Auction](http://solidity.readthedocs.io/en/develop/solidity-by-example.html#blind-auction) - Solidity Documentation \[10 min read\]
 
 Another common usage of blockchain is to hold auctions for ownership of items.  However, for many use cases, it is beneficial for the auction to be blind so there won't be a time pressure towards the end of the bidding period.  To allow for these blind auctions, we can use a commit-reveal scheme.  The ENS Domain Auctions use a similar scheme.  In this snippet from the Solidity docs, you will first read the smart contract for a normal auction and then see how to modify it for a blind auction.
 
