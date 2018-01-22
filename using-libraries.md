@@ -2,7 +2,7 @@
 
 When developing decentralized applications, it often doesn't make sense for every developer to reinvent the wheel when it comes to basic functions.  For this reason, in order to act more like programming languages you may be more familiar with, Solidity supports libraries - pre-written, reusable pieces of code.
 
-###### [Library Driven Development](https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736) \[8 min read\]
+###### [Library Driven Development in Solidity](https://blog.aragon.one/library-driven-development-in-solidity-2bebcaf88736) - Jorge Izquierdo, Aragon Medium, 2017 \[8 min read\]
 
 This article from Jorge Izquierdo of Aragon provides a comprehensive review on how to develop more modular, reusable and elegant smart contract systems on top of the Ethereum Virtual Machine by using libraries.
 
