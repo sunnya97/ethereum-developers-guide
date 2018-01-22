@@ -2,7 +2,7 @@
 
 The commit-reveal commitment scheme is a very valuable construct that appears in many types of smart contracts beyond just voting.  In this section we will show a few more examples of commit-reveal being used in smart contracts.
 
-###### [RanDAO](https://github.com/randao/randao) \[4 min read\]
+###### [RANDAO: A DAO working as RNG of Ethereum](https://github.com/randao/randao) - GitHub\[4 min read\]
 
 One of the biggest open problems in distributed systems is how to create deterministic ungameable random numbers.  This random number generation \(RNG\) is incredibly useful for a multitude of on-chain applications ranging from gambling to .  Although, not perfect due to a process called griefing, a commit-reveal scheme for RNG is often sufficient for most use cases.  RanDAO is an on-chain system that outputs fair random numbers and uses incentivize schemes to minimize griefing.  Read through the ReadMe on it's Github page as well as randao.sol in the contracts folder to see if you can work out how the contract works.
 
