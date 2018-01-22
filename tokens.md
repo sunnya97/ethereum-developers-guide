@@ -22,7 +22,7 @@ Now let us try to build our own Token.  This project from the UPenn Blockchain C
 
 One of the most valuable things about ERC20 token standard is the ability to design contracts that can interoperate with any token.  One interesting use case for this interoperability is an on-chain exchange.  In this video from Consensys Media, Deepa Sathaye explains the Swap Protocol, which allows two users to trade or "swap" different tokens.
 
-###### [Token Exchange](https://docs.google.com/document/d/1kKKFvQQExN045pX2cFA_fJFY6ZsGhrtPWG73klNsVDg/edit) \[Exercise\]
+###### [Project 2: Create an Exchange](https://docs.google.com/document/d/1kKKFvQQExN045pX2cFA_fJFY6ZsGhrtPWG73klNsVDg/edit) - Nate Rush \[Exercise\]
 
 Now that you've learned about the structure of the Swap protocol, let's try to build our own simple on chain token trading smart contract.  In this exercise, designed by the UPenn Blockchain Club, you will use your knowledge of ERC20 and [Inter-Contract Execution](/dev-environment-i/inter-contract-execution.md) to create this very simplistic on-chain exchange.
 
