@@ -22,7 +22,7 @@ This list compiled by [King of the Ether](https://www.kingoftheether.com/thrones
 
 ###### [Analysis of the DAO Exploit](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/) - Phil Daian, 'Hacking, Distributed', 2016 \[4 min read\]
 
-This article by Phil Daian explains the reentrancy attack that affected TheDAO and cost over $150 million USD.
+This article by Phil Daian explains the reentrancy attack that affected the DAO and cost over $150 million USD.
 
 ###### [Tx.origin](http://vessenes.com/tx-origin-and-ethereum-oh-my/) \[5 min read\]
 
