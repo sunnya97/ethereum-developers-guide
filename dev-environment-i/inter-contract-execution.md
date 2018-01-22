@@ -2,7 +2,7 @@
 
 One of the most valuable properties of Ethereum is the ability for different contracts to interact with each other, allowing for the ability to build applications in a modular way with multiple smart contracts, as well as allowing for interoperability between different applications.
 
-###### [Example Inter-Contract Call](https://ethereum.stackexchange.com/questions/1599/basic-example-of-interaction-between-2-contracts) \[Exercise\]
+###### [Basic example of interaction between 2 contracts?](https://ethereum.stackexchange.com/questions/1599/basic-example-of-interaction-between-2-contracts)  - Ethereum StackExchange, 2016 \[Exercise\]
 
 Read this StackOverflow thread to see how to pass in the address of a smart contract into a second smart contract in order to call its functions.  It is suggested you test this out on [Remix](https://remix.ethereum.org/).
 
