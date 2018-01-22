@@ -10,7 +10,7 @@ In the document from the Solidity docs , you will learn about the different data
 
 Now that we understand the data types of most variables found in Solidity, we will now read about a few of the special units and variables that are available to us in Solidity.
 
-###### [Global Variables and Functions Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf) - B9 Lab \[Resource\]
+###### [Solidity Cheat Sheet](https://s3-eu-west-1.amazonaws.com/b9-academy-assets/public/solidity-cheatsheet.pdf) - B9 Lab \[Resource\]
 
 This cheat sheet is a good resource to refer to with regards to what global variables and functions your smart contract has access to.
 
