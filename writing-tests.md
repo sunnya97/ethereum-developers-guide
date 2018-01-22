@@ -2,7 +2,7 @@
 
 Just as in any programming project, it is vital to write expansive test suites to make sure the the program acts as expected.  Truffle comes with ability to write such unit tests in both Solidity and in Javascript.
 
-###### [Intro to Testing](http://truffleframework.com/docs/getting_started/testing) \[1 min read\]
+###### [Testing Your Contracts](http://truffleframework.com/docs/getting_started/testing) - Truffle Documentation \[1 min read\]
 
 This short section from the [Truffle Docs](http://truffleframework.com/docs/) explains a little about the testing process and how it fits into the overall Truffle development process.
 
