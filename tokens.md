@@ -18,7 +18,7 @@ While the ERC20 Token standard took off quickly within the Ethereum ecosystem, i
 
 Now let us try to build our own Token.  This project from the UPenn Blockchain Club will serve as the spec to follow in creating your own token.  Try to make it conform to the ERC223 standard while keeping compatability with the ERC standard as well.  Please feel free to use external resources to help along the way.
 
-###### [Swap Protocol](https://www.youtube.com/watch?v=lVmqHNtYdCE&feature=youtu.be) \[30 min video\]
+###### [Swap Protocol Q&A with Deepa Sathaye](https://www.youtube.com/watch?v=lVmqHNtYdCE&feature=youtu.be) - ConsenSys Media YouTube, 2017 \[30 min video\]
 
 One of the most valuable things about ERC20 token standard is the ability to design contracts that can interoperate with any token.  One interesting use case for this interoperability is an on-chain exchange.  In this video from Consensys Media, Deepa Sathaye explains the Swap Protocol, which allows two users to trade or "swap" different tokens.
 
