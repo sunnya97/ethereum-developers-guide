@@ -2,7 +2,7 @@
 
 By now, you understand that smart contracts are interacted with by using transactions on the Ethereum blockchain. As a result, there is a distinction between storage and memory in Ethereum. Storage is what persists in-between Ethereum transactions, while memory is transaction specific. This can be thought of similarly to global variables.
 
-###### [Difference Between Memory and Storage](https://ethereum.stackexchange.com/questions/1232/difference-between-memory-and-storage) \[2 min read\]
+###### [Difference Between Memory and Storage?](https://ethereum.stackexchange.com/questions/1232/difference-between-memory-and-storage) - Ethereum StackExchange, 2016 \[2 min read\]
 
 This short StackExchange post explains the difference between the two by comparing them to the memory and hard disk of a computer, as well as explaining a bit about how the EVM deals with both of them.
 
