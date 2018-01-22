@@ -18,7 +18,7 @@ This is part 2 of this series.
 
 This is part 3 of this series.
 
-###### [Creating a DAO](https://docs.google.com/document/d/13gpr8ddfyQnYiHDNr9mIDOwNzhAp5FJ9sziXAA9dOrs/edit) \[Exercise\]
+###### [**Project 4: Create a Decentralized Autonomous Organization**](https://docs.google.com/document/d/13gpr8ddfyQnYiHDNr9mIDOwNzhAp5FJ9sziXAA9dOrs/edit)** - Nate Rush** \[Exercise\]
 
 In this project designed by the UPenn Blockchain Club, you will be tasked with implementing a DAO.  You will combine concepts from the multi-signature wallet project, the token-weighted voting project, as well as some new concepts that might require some research in order to create a fully function DAO contract, complete with buy-in periods and vote proposals.
 
