@@ -10,7 +10,7 @@ This article from Jorge Izquierdo of Aragon provides a comprehensive review on h
 
 In this short article, Piper Merriam demonstrates another potential benefit of using libraries, that for contracts that are not called often, they can potentially be more gas efficient due to need to deploy less code on the chain.
 
-###### [Importing other Solidity Files](http://solidity.readthedocs.io/en/develop/layout-of-source-files.html#importing-other-source-files) \[3 min read\]
+###### [Importing other Source Files](http://solidity.readthedocs.io/en/develop/layout-of-source-files.html#importing-other-source-files) - Solidity Documentation \[3 min read\]
 
 Jumping back to the [Layout of a Solidity Source File](http://solidity.readthedocs.io/en/develop/layout-of-source-files.html#) section of the [Solidity Docs](http://solidity.readthedocs.io/en/develop/index.html) we saw earlier in this tutorial, we will read about how to import Solidity source files into each other so we don't have a messy single file with all of our contracts in it.
 
