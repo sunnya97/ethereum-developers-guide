@@ -10,7 +10,7 @@ Read this article from EthNews to learn about the history of evolution of Ethere
 
 The article above is a bit outdated.  Near the end it says that the Rinkeby testnet is still in development.  However, since then, it has been released and become a very popular testnet.  Kovan is also very popular and nice to use, however, it only works with Parity clients, while Rinkeby is cross-client.  This tutorial will teach you how to set up and sync to the Rinkeby testnet, as well as get test ether.
 
-###### [Ropsten Revival](https://github.com/ethereum/ropsten/blob/master/revival.md) \[3 min read\]
+###### [Ropsten Revival](https://github.com/ethereum/ropsten/blob/master/revival.md) - Ethereum GitHub, 2017 \[3 min read\]
 
 The Ropsten testnet has been revived and become quite popular again.  Being the only PoW testnet, it is still very valuable for testing applications that depend on the Proof of Work nature of the blockchain, such as Smartpool or the Casper Finality Gadget.
 
