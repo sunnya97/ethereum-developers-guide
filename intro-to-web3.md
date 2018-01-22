@@ -6,7 +6,7 @@ There are philosophical and technological shifts that web developers take to pro
 
 Jesse Grushack of ConsenSys lays out the problem of users becoming the product for digital advertisers in Web 2.0 and how Ethereum can flip this model on it's head.
 
-###### [Crossing Over to Web3](https://blog.jaak.io/crossing-over-to-web3-an-introduction-to-decentralised-development-53de470da331) \[6 min read\]
+###### [Crossing Over to Web3](https://blog.jaak.io/crossing-over-to-web3-an-introduction-to-decentralised-development-53de470da331) - Luke Hedger, JAAK Medium, 2017 \[6 min read\]
 
 Luke Hedger from JAAK defines the Web3 stack and introduces a sample project for Web3 developers.
 
