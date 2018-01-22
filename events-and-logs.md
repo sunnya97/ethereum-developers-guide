@@ -6,7 +6,7 @@ Events are signals dispatched by smart contracts so that dapps, or anything conn
 
 This post from ConsenSys Media gives a great introduction to Events and Logs, and explores three different use cases: return values for the front-end, asynchronous triggers, and cheap storage.
 
-###### [Solidity Docs Events](http://solidity.readthedocs.io/en/develop/contracts.html#events) \[2 min read\]
+###### [Events](http://solidity.readthedocs.io/en/develop/contracts.html#events) - Solidity Documentation \[2 min read\]
 
 This section of the Solidity docs shows some examples of using logs from both the Solidity side and Javascript side.
 
