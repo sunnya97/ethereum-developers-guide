@@ -6,7 +6,7 @@ There are a number of dapp development frameworks such as Embark and Dapple.  Ho
 
 This tutorial will guide you though the process of installing Truffle. From here, you will be ready to start developing your own smart contracts.
 
-###### [Developing Ethereum Dapps with Truffle and Metamask](https://medium.com/metamask/developing-ethereum-dapps-with-truffle-and-metamask-aa8ad7e363ba) \[Exercise\]
+###### [Developing Ethereum Dapps with Truffle and Metamask](https://medium.com/metamask/developing-ethereum-dapps-with-truffle-and-metamask-aa8ad7e363ba) - Dan Finley, 2016 \[Exercise\]
 
 Follow this tutorial from Metamask which will walk you through deploying a new truffle project and then make sure it works correctly by interacting with it through Metamask.
 
