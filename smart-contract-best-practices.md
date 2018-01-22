@@ -16,7 +16,7 @@ In this talk from dev con 2, Joseph Chow of ConsenSys walks us through some comm
 
 Occasionally, a nightly version of the Solidity compiler itself may contain bugs. It is suggested to avoid using any compiler version that is known to be faulty in some way.  This page from the [Solidity docs](http://solidity.readthedocs.io/en/develop/index.html) has a list of some of the known compiler bugs.
 
-###### [Contract Safety Checklist](https://www.kingoftheether.com/contract-safety-checklist.html) \[8 min read\]
+###### [Contract Safety and Security Checklist](https://www.kingoftheether.com/contract-safety-checklist.html) - King of the Ether \[8 min read\]
 
 This list compiled by [King of the Ether](https://www.kingoftheether.com/thrones/kingoftheether/index.html) records some of the most common known bugs and attack vectors found in Ethereum smart contracts.  Read through this list and then in the following resources, as the following articles will explore some of these in greater depth. Also, explore the bugs within the King of the Ether app via the [Post-Mortem Investigation](http://www.kingoftheether.com/postmortem.html), which lead to the creation of the Contract Safety Checklist.
 
