@@ -8,7 +8,7 @@ An explanation of the subtleties of Ethereum. Black hats don't often lurk in the
 
 Smart Contract Best Practices guide compiled by [ConsenSys Diligence](https://media.consensys.net/introducing-consensys-diligence-cf38f83948c). This guide provides numerous security tips, overviews of known attacks, and general engineering techniques.
 
-###### [Smart Contract Security Tips](https://www.youtube.com/watch?v=_pqDAMRwkzY) \[16 min video\]
+###### [Smart Contract Security Tips - Joseph Chow](https://www.youtube.com/watch?v=_pqDAMRwkzY) - Joseph Chow, Ethereum Foundation YouTube, 2016 \[16 min video\]
 
 In this talk from dev con 2, Joseph Chow of ConsenSys walks us through some common things to avoid when developing and deploying smart contracts, using illustrative examples.
 
