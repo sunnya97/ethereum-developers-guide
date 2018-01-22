@@ -2,7 +2,7 @@
 
 In this section we will learn about smart contract functions, data types, and variables.
 
-###### [Solidity Data Types](https://solidity.readthedocs.io/en/develop/types.html) \[10 min read\]
+###### [Types](https://solidity.readthedocs.io/en/develop/types.html) - Solidity  \[10 min read\]
 
 In the document from the Solidity docs , you will learn about the different data types found in Solidity programs.
 
