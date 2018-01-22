@@ -2,7 +2,7 @@
 
 Remix and Metamask work together to create a very low-impact smart contract development environment. Though you will have to move to other tools in the future, Remix and Metamask should be able to get you through your first smart contract development and deployment.
 
-###### [MetaMask](https://www.youtube.com/watch?v=6Gf_kRE4MJU) \[3 min video\]
+###### [MetaMask Introduction](https://www.youtube.com/watch?v=6Gf_kRE4MJU) - MetaMask YouTube, 2016 \[3 min video\]
 
 While you can use Geth to create transactions, it is very convenient to have a quick and easy way to interact with the Ethereum blockchain from within your browser.  This initial video from Metamask introduces their tool and how you can use it in the Chrome browser.
 
