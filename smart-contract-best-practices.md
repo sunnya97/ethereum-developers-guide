@@ -32,7 +32,7 @@ Often times, contracts mistakingly use the tx.origin to test for who is calling 
 
 This article by Lorenz Breidenbach, Phil Daian, Ari Juels, and Emin Gün Sirer explains the exploit that affected allowed hackers \(combination of blackhat and whitehat\) to drain over $200 million USD from Parity Multisignature Wallets v1.5 and above.
 
-###### [Underhanded Naming](https://www.reddit.com/r/ethereum/comments/4e5y30/live_example_of_underhanded_solidity_coding_on/) \[2 min read\]
+###### [Live example of "underhanded solidity" coding on mainnet](https://www.reddit.com/r/ethereum/comments/4e5y30/live_example_of_underhanded_solidity_coding_on/) - Vitalik Buterin, Reddit, 2016 \[2 min read\]
 
 In this reddit post, Vitalik Buterin exposes underhanded code \(code that is written to appear simple, but contains a hidden bug or exploit\) that tried to steal money by naming variables slightly different things so as to be missed by a quick reader.
 
