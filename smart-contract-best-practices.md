@@ -36,7 +36,7 @@ This article by Lorenz Breidenbach, Phil Daian, Ari Juels, and Emin Gün Sirer e
 
 In this reddit post, Vitalik Buterin exposes underhanded code \(code that is written to appear simple, but contains a hidden bug or exploit\) that tried to steal money by naming variables slightly different things so as to be missed by a quick reader.
 
-###### [Breaking RNG](http://martin.swende.se/blog/Breaking_the_house.html) \[10 min read\]
+###### [An Ethereum Roulette](http://martin.swende.se/blog/Breaking_the_house.html) - Martin Swende, 2015 \[10 min read\]
 
 This article by Martin Swende gives an account of his attempt to crack the pseudo-random generation of a roulette smart contract, and eventually being beaten to it.
 
