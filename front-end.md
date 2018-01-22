@@ -10,7 +10,7 @@ A brief exercise on building a frontend using Truffle
 
 Picking up where we left off in the Pet Shop Truffle tutorial in the subsection [Introductory Contracts](https://sunnya97.gitbooks.io/a-beginner-s-guide-to-ethereum-and-dapp-developme/writing-smart-contracts/introductory-contracts.html), we will now build the UI that will allow our users to interact with the smart contract we built.
 
-###### [The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp in ethereum](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) \[22 min read and Exercise\]
+###### [The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp in ethereum](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) - Merunas Grincalaitis, 2017 \[22 min read and Exercise\]
 
 To continue to build our skills, we will work our way through this tutorial to build a dapp that allows an end user "bet" via a casino-game application.
 
