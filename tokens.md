@@ -2,7 +2,7 @@
 
 Tokens have often been called Ethereum's "killer app".  In this section, we learn about what the ERC20 token protocol is and how we can make and exchange our own tokens.
 
-###### [What are Tokens?](https://medium.com/@ConsenSys/tokens-on-ethereum-e9e61dac9b4e) \[4 min read\]
+###### [A Token-Powered Future on Ethereum](https://medium.com/@ConsenSys/tokens-on-ethereum-e9e61dac9b4e) - Simon de La Rouviere & Ashley Taylor, ConsenSys Media, 2015 \[4 min read\]
 
 This blog post from ConsenSys gives a great overview as to what tokens are, what they can represent, and why they are useful.
 
