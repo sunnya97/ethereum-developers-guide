@@ -8,7 +8,7 @@ Unlike most other blockchains, Ethereum has multiple clients that can sync the E
 
 By default, Mist connects to the Geth client.  However, for testing purposes, it is nice to be able to use it with your private TestRPC network.  This will be especially useful for the next tutorial.
 
-###### [Using Mist](https://ethereum.org/token) \[Exercise\]
+###### [Create your own CRYPTO-CURRENCY with Ethereum](https://ethereum.org/token) - Ethereum.org \[Exercise\]
 
 Now that we have Mist and Geth installed, let's try to use them to make a simple token by following this tutorial from the Ethereum Foundation website.
 
