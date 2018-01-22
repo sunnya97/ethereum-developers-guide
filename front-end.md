@@ -6,7 +6,7 @@ While this guidebook is focused on smart contract development, a large portion o
 
 A brief exercise on building a frontend using Truffle
 
-###### [Returning to the Pet Shop](http://truffleframework.com/tutorials/pet-shop#creating-a-ui-to-interact-with-our-smart-contract) \[Exercise\]
+###### [Returning to the Pet Shop](http://truffleframework.com/tutorials/pet-shop#creating-a-ui-to-interact-with-our-smart-contract) - Truffle Tutorials \[Exercise\]
 
 Picking up where we left off in the Pet Shop Truffle tutorial in the subsection [Introductory Contracts](https://sunnya97.gitbooks.io/a-beginner-s-guide-to-ethereum-and-dapp-developme/writing-smart-contracts/introductory-contracts.html), we will now build the UI that will allow our users to interact with the smart contract we built.
 
