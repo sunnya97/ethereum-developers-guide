@@ -14,7 +14,7 @@ Now that we understand what tokens are good for, let's learn how to build one.  
 
 While the ERC20 Token standard took off quickly within the Ethereum ecosystem, it was not without flaws.  One of the issues is that when tokens are sent to contract accounts that are not designed to handle them, these tokens are often lost forever.  Dexaran \(a developer\) created an improvement to the Token standard to try to solve this problem.  This video from Decypher TV explains this new token standard, how it works, and how it differs from the ERC20 standard.
 
-###### [Make your own token](https://docs.google.com/document/d/13ch2E-yQvs0MnxXcFHe3K5zTRSNZjqjln38DqHL--to/edit?usp=sharing) \[Exercise\]
+###### [Project 1: Create a Token](https://docs.google.com/document/d/13ch2E-yQvs0MnxXcFHe3K5zTRSNZjqjln38DqHL--to/edit?usp=sharing) - Nate Rush \[Exercise\]
 
 Now let us try to build our own Token.  This project from the UPenn Blockchain Club will serve as the spec to follow in creating your own token.  Try to make it conform to the ERC223 standard while keeping compatability with the ERC standard as well.  Please feel free to use external resources to help along the way.
 
