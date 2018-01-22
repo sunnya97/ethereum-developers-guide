@@ -22,7 +22,7 @@
   * [Storage vs Memory](storage-vs-memory.md)
   * [Contract Structure](function-types.md)
   * [Basic Practice Reading Contracts](basic-practice-reading-contracts.md)
-  * [ABI](abi.md)
+  * [Application Binary Interface](abi.md)
   * [Events and Logs](events-and-logs.md)
 * [Dev Environment](dev-environment-i.md)
   * [Remix and Metamask](dev-environment-i/remix.md)
