@@ -12,7 +12,7 @@ Smart Contract Best Practices guide compiled by [ConsenSys Diligence](https://me
 
 In this talk from dev con 2, Joseph Chow of ConsenSys walks us through some common things to avoid when developing and deploying smart contracts, using illustrative examples.
 
-###### [Compiler Bugs](http://solidity.readthedocs.io/en/develop/bugs.html) \[3 min read\]
+###### [List of Known Bugs](http://solidity.readthedocs.io/en/develop/bugs.html) - Solidity Documentation \[3 min read\]
 
 Occasionally, a nightly version of the Solidity compiler itself may contain bugs. It is suggested to avoid using any compiler version that is known to be faulty in some way.  This page from the [Solidity docs](http://solidity.readthedocs.io/en/develop/index.html) has a list of some of the known compiler bugs.
 
