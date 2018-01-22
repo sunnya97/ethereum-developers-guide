@@ -18,7 +18,7 @@ Jumping back to the [Layout of a Solidity Source File](http://solidity.readthedo
 
 A common standard called ERC190 was created to allow to make it as easy possible to use and develop common shared libraries.  Learn about its basics by reading its specification.
 
-###### [EthPM](https://medium.com/@timothyjcoulter/why-ethereum-needs-package-management-b9e6e457329f) \[4 min read\]
+###### [Why Ethereum Needs Package Management](https://medium.com/@timothyjcoulter/why-ethereum-needs-package-management-b9e6e457329f) - Tim Coulter, 2017 \[4 min read\]
 
 This article, by Tim Coulter of Truffle, explains the concept behind EthPM, a dedicated package manager for Ethereum libraries that conforms to ERC190 standards.
 
