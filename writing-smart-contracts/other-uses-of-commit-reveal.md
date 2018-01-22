@@ -10,7 +10,7 @@ One of the biggest open problems in distributed systems is how to create determi
 
 Another common usage of blockchain is to hold auctions for ownership of items.  However, for many use cases, it is beneficial for the auction to be blind so there won't be a time pressure towards the end of the bidding period.  To allow for these blind auctions, we can use a commit-reveal scheme.  The ENS Domain Auctions use a similar scheme.  In this snippet from the Solidity docs, you will first read the smart contract for a normal auction and then see how to modify it for a blind auction.
 
-###### [Rock Paper Scissors](https://github.com/SCBuergel/ethereum-rps) \[10 min read\]
+###### [Rock Paper Scissors on Ethereum](https://github.com/SCBuergel/ethereum-rps) - Sebastian C. Bürgel, GitHub, \[10 min read\]
 
 In many games, there is often a need for both players to make a move at the same time without knowing what the other player did.  To achieve this effect on a blockchain, we can use a commit-reveal scheme as well.  To see how this works, read through the rps-advanced.sol file in this github repository.
 
