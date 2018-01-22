@@ -10,7 +10,7 @@ While you can use Geth to create transactions, it is very convenient to have a q
 
 In this tutorial, you will learn to use the Remix Tool \(Browser Solidity\).  Remix is the easiest tool to get started with application development. It allows rapid prototyping, testing, and helpful debugging when writing your first smart contracts.
 
-###### [Learning Solidity Part 1: Contract Dev with MetaMask](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) - Karl Floresch, 2017 \[Exercise\]
+###### [Learning Solidity Part 1: Contract Dev with MetaMask](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) - Karl Floresch, 2016 \[Exercise\]
 
 Following Karl Floresch's tutorial, we will now use Remix and MetaMask together to practice deploying and interacting with an extremely basic Hello World smart contract on a testnet.
 
