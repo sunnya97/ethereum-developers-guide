@@ -24,7 +24,7 @@ This list compiled by [King of the Ether](https://www.kingoftheether.com/thrones
 
 This article by Phil Daian explains the reentrancy attack that affected the DAO and cost over $150 million USD.
 
-###### [Tx.origin](http://vessenes.com/tx-origin-and-ethereum-oh-my/) \[5 min read\]
+###### [Tx.Origin and Ethereum Oh My!](http://vessenes.com/tx-origin-and-ethereum-oh-my/) - Peter Vessenes, 2016 \[5 min read\]
 
 Often times, contracts mistakingly use the tx.origin to test for who is calling a function, when they mean to use msg.sender.  This article by Peter Vessenes explains why this is dangerous and can, and has, lead to malicious behavior.
 
