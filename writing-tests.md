@@ -6,7 +6,7 @@ Just as in any programming project, it is vital to write expansive test suites t
 
 This short section from the [Truffle Docs](http://truffleframework.com/docs/) explains a little about the testing process and how it fits into the overall Truffle development process.
 
-###### [Javascript Tests](http://truffleframework.com/docs/getting_started/javascript-tests) \[4 min read\]
+###### [Writing Tests in Javascript](http://truffleframework.com/docs/getting_started/javascript-tests) - Truffle Documentation \[4 min read\]
 
 This section describes how Truffle uses the Mocha framework to allow developers to write their unit tests in Javascript.
 
