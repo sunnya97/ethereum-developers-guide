@@ -6,7 +6,7 @@ TestRPC is a "fake" blockchain that lives only on your computer. It is a great t
 
 In Decypher TV's past videos, you may have noticed Jordan Leigh using node.js in a command line interface to show his demos. Much of the development with Solidity and Ethereum depends on node.js and npm modules.  In this video, Jordan shows you how to provision your development environment with node, including setting it up on a remote instance.
 
-###### [TestRPC](https://karl.tech/intro-guide-to-ethereum-testnets/) - Karl Floersch, 2016 \[5 min read\]
+###### [An Introduction to Ethereum Testnets](https://karl.tech/intro-guide-to-ethereum-testnets/) - Karl Floersch, 2016 \[5 min read\]
 
 Read through this article by Karl Floresch to install TestRPC on your computer. This will help you learn a little bit about the differences between TestRPC and Live Testnets.
 
