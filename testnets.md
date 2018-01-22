@@ -6,7 +6,7 @@ When you are ready to test on a "real network" but are not ready to deploy on th
 
 Read this article from EthNews to learn about the history of evolution of Ethereum Testnets and how they all differ from each other.
 
-###### [Using Rinkeby](https://gist.github.com/cryptogoth/10a98e8078cfd69f7ca892ddbdcf26bc) \[5 min read\]
+###### [How to get on Rinkeby Testnet in less than 10 minutes](https://gist.github.com/cryptogoth/10a98e8078cfd69f7ca892ddbdcf26bc)  - Paul Pham, Cryptogoth GitHub, 2017 \[5 min read\]
 
 The article above is a bit outdated.  Near the end it says that the Rinkeby testnet is still in development.  However, since then, it has been released and become a very popular testnet.  Kovan is also very popular and nice to use, however, it only works with Parity clients, while Rinkeby is cross-client.  This tutorial will teach you how to set up and sync to the Rinkeby testnet, as well as get test ether.
 
