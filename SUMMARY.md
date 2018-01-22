@@ -25,7 +25,7 @@
   * [Application Binary Interface](abi.md)
   * [Events and Logs](events-and-logs.md)
 * [Dev Environment](dev-environment-i.md)
-  * [Remix and Metamask](dev-environment-i/remix.md)
+  * [Remix and MetaMask](dev-environment-i/remix.md)
   * [TestRPC](using-testrpc.md)
   * [Mist](mist.md)
   * [Truffle](truffle.md)
