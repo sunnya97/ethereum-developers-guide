@@ -10,11 +10,11 @@ This well-written post from Colony.io walks through the process of development o
 
 This is the first of a three part tutorial series by Colony.io that will go through the process of creating your own privacy-maintaining voting system built on the idea from the previous article.
 
-###### [Token-weighted Voting Implementation Part 2](https://blog.colony.io/token-weighted-voting-implementation-part-2-13e490fe1b8a) \[Exercise\]
+###### [Token-weighted Voting Implementation Part 2](https://blog.colony.io/token-weighted-voting-implementation-part-2-13e490fe1b8a) - Elena Dimitrova, Colony Medium, 2016 \[Exercise\]
 
 This is part 2 of this series.
 
-###### [Token-weighted Voting Implementation Part 3](https://blog.colony.io/token-weighted-voting-implementation-part-3-821dde0a674b) \[Exercise\]
+###### [Token-weighted Voting Implementation Part 3](https://blog.colony.io/token-weighted-voting-implementation-part-3-821dde0a674b) - Elena Dimitrova, Colony Medium, 2016 \[Exercise\]
 
 This is part 3 of this series.
 
