@@ -14,7 +14,7 @@ In this short article, Piper Merriam demonstrates another potential benefit of u
 
 Jumping back to the [Layout of a Solidity Source File](http://solidity.readthedocs.io/en/develop/layout-of-source-files.html#) section of the [Solidity Docs](http://solidity.readthedocs.io/en/develop/index.html) we saw earlier in this tutorial, we will read about how to import Solidity source files into each other so we don't have a messy single file with all of our contracts in it.
 
-###### [ERC: Ethereum Smart Contract Packaging Solution \#190](https://github.com/ethereum/EIPs/issues/190) - Ethereum GitHub, 2017 \[5 min read\]
+###### [ERC: Ethereum Smart Contract Packaging Specification \#190](https://github.com/ethereum/EIPs/issues/190) - Ethereum GitHub, 2017 \[5 min read\]
 
 A common standard called ERC190 was created to allow to make it as easy possible to use and develop common shared libraries.  Learn about its basics by reading its specification.
 
