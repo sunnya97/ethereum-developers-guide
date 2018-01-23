@@ -16,7 +16,7 @@ To continue to build our skills, we will work our way through this tutorial to b
 
 ###### Additional Material
 
-###### [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API) \[Documentation\]
+###### [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API) - Ethereum GitHub \[Documentation\]
 
 Documentation on setting up web3.js and the reference material for using the JavaScript API
 
