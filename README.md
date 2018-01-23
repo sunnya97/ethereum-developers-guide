@@ -6,7 +6,7 @@ This is a comprehensive guide, from zero to hero, in decentralized application d
 
 This guide will not be structured as book or a single tutorial. Rather, it should be thought of as an index of knowledge and resources. The blockchain industry is a collaborative industry, and as such, this guide will consist largely of links to material created and published by other members of the community, some from within ConsenSys and some not.
 
-#### Huge thanks to the entire ConsenSys team for helping develop this guide.
+#### Huge thanks to the entire ConsenSys team for helping develop this guide. The following individuals were key to writing and creating the content that appears in this book: 
 
 
 
