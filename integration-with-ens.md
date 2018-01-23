@@ -10,7 +10,7 @@ This Decypher.tv video explains the concept behind ENS, how it works, and how to
 
 Dick Olsson explains ENS and then walks through a local deployment of ENS and using it to interact with a content distribution protocol called Swarm.
 
-###### [ENS Documentation - Introduction](http://docs.ens.domains/en/latest/introduction.html) \[4 min read\]
+###### [ENS Documentation - Introduction](http://docs.ens.domains/en/latest/introduction.html) - ENS Documentation \[4 min read\]
 
 An introduction to ENS via ENS's technical documentation.
 
