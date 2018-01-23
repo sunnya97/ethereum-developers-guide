@@ -6,7 +6,7 @@ Once a contract is deployed to the chain, the code of the contract cannot be cha
 
 This article from Colony.io will cover some of the different ways to make the process of deploying a new version of a smart contract more efficient and/or easy.
 
-###### [Proxy Libraries in Solidity](https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd) \[3 min read\]
+###### [Proxy Libraries in Solidity](https://blog.zeppelin.solutions/proxy-libraries-in-solidity-79fbe4b970fd) - Manuel Araoz, Zepplin Solutions, 2017 \[3 min read\]
 
 Next, this article from  Zeppelin Solutions discusses how to use a dispatcher contract to serve as a holder of of storage values and ether while using libraries to delegate functionality and handle code execution.
 
