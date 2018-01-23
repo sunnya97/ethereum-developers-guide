@@ -24,7 +24,7 @@ Documentation on setting up web3.js and the reference material for using the Jav
 
 Documentation on the JSON Remote Procedure Call \(RPC\) protocol.
 
-###### [Web3.js 1.0](http://web3js.readthedocs.io/en/1.0/#) \[Documentation\]
+###### [Web3.js 1.0](http://web3js.readthedocs.io/en/1.0/#) - web3.js Documentation \[Documentation\]
 
 Documentation for the currently unreleased web3.js 1.0 collection of libraries
 
