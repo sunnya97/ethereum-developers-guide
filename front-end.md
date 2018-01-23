@@ -20,11 +20,11 @@ To continue to build our skills, we will work our way through this tutorial to b
 
 Documentation on setting up web3.js and the reference material for using the JavaScript API
 
-###### [JSON RPC API](https://github.com/ethereum/wiki/wiki/JSON-RPC) - Ethereum GitHub \[Documentation\]
+###### [JSON RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC) - Ethereum GitHub \[Documentation\]
 
 Documentation on the JSON Remote Procedure Call \(RPC\) protocol.
 
-###### [Web3.js 1.0](http://web3js.readthedocs.io/en/1.0/#) - web3.js Documentation \[Documentation\]
+###### [web3.js - Ethereum JavaScript API](http://web3js.readthedocs.io/en/1.0/#) - web3.js Documentation \[Documentation\]
 
 Documentation for the currently unreleased web3.js 1.0 collection of libraries
 
