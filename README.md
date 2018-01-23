@@ -1,4 +1,4 @@
-# A Developers Guide to Ethereum and Dapp Development
+# Diving into Ethereum and Dapp Development
 
 Welcome aspiring Ethereum developer!
 

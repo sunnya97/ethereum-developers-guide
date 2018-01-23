@@ -49,4 +49,5 @@
   * [Decentralized Storage](ethereum-+-ipfs.md)
   * [Upgradable Contracts](upgradable-contracts.md)
 * [Conclusion](conclusion.md)
+* Bibliography
 
