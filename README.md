@@ -8,9 +8,5 @@ This guide will not be structured as book or a single tutorial. Rather, it shoul
 
 #### Huge thanks to the entire ConsenSys team for helping develop this guide. The following individuals were key to writing and creating the content that appears in this book:
 
-Sunny Aggarwal
 
-Nate Rush
-
-Will King
 
