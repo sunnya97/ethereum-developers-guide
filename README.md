@@ -12,5 +12,9 @@ Sunny Aggarwal
 
 Nate Rush
 
+Ilan Ben-Brith
+
+Thomas Hay
+
 TODO:  Add other contributors
 
